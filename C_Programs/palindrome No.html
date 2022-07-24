@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function display()
+        {
+            var n=parseInt(document.getElementById("num").value);
+
+            var numb=n;
+            var n1,n2,n3;
+            
+            n1=n%10;
+            n=parseInt(n/10);
+
+            n2=n%10;
+            n=parseInt(n/10);
+
+            n3=n%10;
+
+            var rev=n1*100+n2*10+n3;
+
+            if(rev==numb)
+            {
+                document.getElementById("res").innerText="Palindrome number";
+
+            }
+            else
+            {
+                document.getElementById("res").innerText="Not a Palindrome number";
+
+            }
+        }
+    </script>
+</head>
+<body>
+        Enter any number:<input type="text" id="num"><br><br>
+        <input type="button" value="click" onclick="display();"/><br><br>
+        <span id="res"></span>
+    
+    
+</body>
+</html>
