@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+
+        function display()
+        {
+            var desig=document.getElementById("designation").value;
+      
+            var emp_name=document.getElementById("name").value;
+            var salary=parseInt(document.getElementById("sal").value);
+            var total_salary1=salary+5000;
+            var total_salary2=salary+2000;
+            var total_salary3=salary+1000;
+
+            switch(desig)
+            {
+                case "m":
+                document.getElementById("res").innerHTML=emp_name;
+                document.getElementById("res1").innerHTML=total_salary1;
+                document.getElementById("res2").innerHTML="5000";   
+                break;
+                case "c":
+                document.getElementById("res").innerHTML=emp_name;
+                document.getElementById("res1").innerHTML=total_salary2;
+                document.getElementById("res2").innerHTML="2000";   
+                break;
+                case "p":
+                document.getElementById("res").innerHTML=emp_name;
+                document.getElementById("res1").innerHTML=total_salary3;
+                document.getElementById("res2").innerHTML="1000";   
+                break;
+                default:
+                document.getElementById("choose").innerHTML="Something went wrong";
+            }
+
+        }
+    </script>
+</head>
+<body>
+    <form>
+  <fieldset>  <legend>Details</legend>
+    Enter employee name: <input type="text" id="name"/><br><br>
+    Designation :  &nbsp;<select id="designation">
+    <option>Select</option>   
+    <option value="m">Manager</option>
+    <option value="c">Clerk</option>
+    <option value="p">Peon</option>
+  </select>
+<br><br>
+Enter basic salary:  &nbsp;<input type="text" id="sal"/><br><br>
+</fieldset>
+</form>
+    <input type="button" value="Print" onclick="display();"/> <br>
+    <span style="color:blue"; id="choose"></span> <br><br>
+    Employee Name:&nbsp;<span id="res" ></span><br><br>
+    Total Salary:&nbsp;<span id="res1" ></span><br><br>
+    Bonus:&nbsp;<span id="res2" ></span>
+<body>
+</html>
