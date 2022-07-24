@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function amount()
+        {
+            var per_name=document.getElementById("name").value;
+            var per_rate=document.getElementById("rate").value;
+            var per_quantity=document.getElementById("quantity").value;
+            var total_amt=per_rate*per_quantity;
+            document.getElementById("amt").innerText=total_amt;
+        }
+    </script>
+</head>
+<body>
+        Enter product name:&nbsp;<input type="text" id="name"/><br><br>
+        Enter product rate:&nbsp;<input type="text" id="rate"/><br><br>
+        Enter product quantity:<input type="text" id="quantity"/><br><br>
+        <input style="color:red;" type="button" value="click" onclick="amount();"><br><br>
+        Total amount:&nbsp;<span id="amt"></span>
+</body>
+</html>
