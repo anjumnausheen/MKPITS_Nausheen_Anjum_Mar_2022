@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Document</title>
+        <script>
+           function display()
+           {
+            var length=parseInt(document.getElementById("length").value);
+            var breadth=parseInt(document.getElementById("breadth").value);
+            var height=parseInt(document.getElementById("height").value);
+            
+            var volume;
+
+            volume=length*breadth*height;
+
+            var r=document.getElementById("volume");
+            r.innerText=volume;
+            
+        
+        } 
+                
+                
+        </script>
+    </head>
+    <body align="center">
+        <h1>volume of a cube</h1>
+        Enter the length:&nbsp;<input type="text" id="length"><br><br>
+        Enter the breadth:&nbsp;<input type="text" id="breadth"><br><br>
+        Enter the height:&nbsp;<input type="text" id="height"><br><br>
+
+        <input type="button" value="click" onclick="display()"/><br><br>
+        volume of a cube=<span id="volume"></span>
+    </body>
+</html>
