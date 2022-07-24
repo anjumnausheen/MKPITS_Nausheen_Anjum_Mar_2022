@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+            function display()
+            {
+                var emp_name=document.getElementById("name").value;
+                var b_sal=parseInt(document.getElementById("salary").value);
+                var hra=.23*b_sal;
+                var da=.43*b_sal;
+                var total_sal=hra+da+b_sal;
+                document.getElementById("hra").innerText=hra;
+                document.getElementById("da").innerText=da;
+                document.getElementById("total_sal").innerText=total_sal;
+            }
+
+    </script>
+</head>
+
+<body>
+    Enter employee name:<input type="text" id="name"/><br><br>
+    Enter basic salary:&nbsp;<input type="text" id="salary"/><br><br>
+    <input style="color:blue;" type="button" value="print" onclick="display();"/><br><br>
+    HRA:&nbsp;<span id="hra"></span><br><br>
+    DA:&nbsp;<span id="da" ></span><br><br>
+    Total salary:&nbsp; <span id="total_sal"></span><br><br>
+</body>
+</html>
