@@ -4,23 +4,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_26_empno_empname
+namespace Pro_27_emp_values_user
 {
     class Employee
     {
         public int empno;
         public String empname;
         public float salary;
+
     }
     internal class Program
     {
         static void Main(string[] args)
         {
             Employee emp = new Employee();
-            emp.empno = 123;
-            emp.empname = "Raj";
-
-            emp.salary = 12000.2f;
+            Console.WriteLine("enter employee no");
+            emp.empno = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter employee name");
+            emp.empname = Console.ReadLine();
+            Console.WriteLine("enter employee salary");
+            emp.salary = Convert.ToSingle(Console.ReadLine());
 
             Console.WriteLine("empno " + emp.empno);
             Console.WriteLine("empname " + emp.empname);
