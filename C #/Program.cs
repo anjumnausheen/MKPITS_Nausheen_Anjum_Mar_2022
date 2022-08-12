@@ -4,31 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_2d_array
+namespace Program_6_radius
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int[,] num = new int[3, 3];
-            for (int i = 0; i < 3; i++)
-            {
-                for (int j = 0; j < 3; j++)
-                {
-                    Console.WriteLine("enter no");
-                    num[i, j] = Convert.ToInt32(Console.ReadLine());
-                }
-            }
-            for (int i = 0; i < 3; i++)
-            {
-                for (int j = 0; j < 3; j++)
-                {
-                    Console.Write(num[i, j] + "\t");
-
-                }
-                Console.WriteLine();
-                Console.ReadLine();
-            }
-            }
+            int radius;
+            Console.WriteLine("enter radius");
+            radius = Convert.ToInt32(Console.ReadLine());
+            float area = 3.14f * radius * radius;
+            Console.WriteLine("area = " + area);
+            float circ = 2 * 3.14f * radius;
+            Console.WriteLine("circ = " + circ);
+            Console.ReadLine();
+        }
     }
 }
