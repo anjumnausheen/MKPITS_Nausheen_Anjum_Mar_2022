@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Greater_no
+namespace Smallest_no
 {
     internal class Program
     {
@@ -17,12 +17,12 @@ namespace Greater_no
             b = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter no 3");
             c = Convert.ToInt32(Console.ReadLine());
-            if (a > b && a > c)
-                Console.WriteLine("a is greater");
-            else if (b > a && b > c)
-                Console.WriteLine("b is greater");
+            if (a < b && a < c)
+                Console.WriteLine("a is smallest");
+            else if (b < a && b < c)
+                Console.WriteLine("b is smallest");
             else
-                Console.WriteLine("c is greater");
+                Console.WriteLine("c is smallest");
             Console.ReadLine();
         }
     }
