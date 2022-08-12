@@ -4,22 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_21_print_fact
+namespace Pro_22_array_5_element
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int num;
-            int fact = 1;
-            Console.WriteLine("enter number");
-            num = Convert.ToInt32(Console.ReadLine());
-            for (int i = num; i > 0; i--)
+            int[] num = new int[3];
+            num[0] = 33;
+            num[1] = 22;
+            num[2] = 31;
+            //using foreach loop to iterate over the elements of an array
+            foreach (int i in num)
             {
-                fact = fact * i;
-
+                Console.WriteLine(i);
             }
-            Console.WriteLine("fact = " + fact);
             Console.ReadLine();
         }
     }
