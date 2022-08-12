@@ -4,31 +4,56 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_2d_array
+namespace Add_2_array
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int[,] num = new int[3, 3];
+            int[,] num1 = new int[3, 3];
+            int[,] num2 = new int[3, 3];
+            int[,] sum = new int[3, 3];
+            Console.WriteLine("Enter Array Element");
             for (int i = 0; i < 3; i++)
             {
                 for (int j = 0; j < 3; j++)
                 {
-                    Console.WriteLine("enter no");
-                    num[i, j] = Convert.ToInt32(Console.ReadLine());
+                    num1[i, j] = Convert.ToInt16(Console.ReadLine());
                 }
-            }
-            for (int i = 0; i < 3; i++)
-            {
-                for (int j = 0; j < 3; j++)
-                {
-                    Console.Write(num[i, j] + "\t");
 
+            }
+            Console.WriteLine();
+
+
+            Console.WriteLine("Enter Array Element");
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    num2[i, j] = Convert.ToInt16(Console.ReadLine());
                 }
-                Console.WriteLine();
-                Console.ReadLine();
+
             }
+            Console.WriteLine();
+
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    sum[i, j] = num1[i, j] + num2[i, j];
+                }
             }
+
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.WriteLine(sum[i, j] + "\t");
+                }
+
+            }
+            Console.WriteLine();
+            Console.ReadLine();
+        }
     }
 }
