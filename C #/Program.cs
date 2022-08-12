@@ -4,37 +4,69 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Class_Employee_create_constructor
+namespace Class_Product_with_Constructor_with_Parameter
 {
-    class Employee
+    class Product
     {
-        int empno;
-        string empname, desig;
-        float sal;
+        int proid;
+        string proname;
+        int quan;
+        int price;
 
-        public Employee()
+        //creating a  constructor with no parameters
+        public Product()
         {
-            empno = 1;
-            empname = "rumi";
-            sal = 40000.25f;
-            desig = "Manager";
+            proid = 4;
+            proname = "Pen";
+            quan = 4;
+            price = 20;
+        }
 
+
+        //creating a  parameterized constructor with 4 parameters
+        public Product(int proid, string proname, int quan, int price)
+        {
+            Console.WriteLine("Constructor with parameter called");
+            this.proid = proid;
+            this.proname = proname;
+            this.quan = quan;
+            this.price = price;
         }
         public void display()
         {
-            Console.WriteLine("emp no=" + empno);
-            Console.WriteLine("emp name=" + empname);
-            Console.WriteLine("designation=" + desig);
-            Console.WriteLine("salary=" + sal);
+            Console.WriteLine("product id=" + proid);
+            Console.WriteLine("pro name=" + proname);
+            Console.WriteLine("pro quan=" + quan);
+            Console.WriteLine("price=" + price);
         }
+
     }
     internal class Program
     {
         static void Main(string[] args)
         {
-            Employee e = new Employee();
-            e.display();
+            Product p = new Product(); //this will call constructor automatically
+            p.display();
+
+            Console.WriteLine("--------Product 1 details -------");
+            Product p1 = new Product(5, "pencil", 5, 50);// this will call parameterized constructor
+            p1.display();
+
+            Console.WriteLine("-----------------Product 2 details ----------");
+            Console.WriteLine("enter product id");
+            int p11 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter product name");
+            String pnam1 = Console.ReadLine();
+            Console.WriteLine("enter product quantity");
+            int pquan1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter product price");
+            int pprice1 = Convert.ToInt32(Console.ReadLine());
+
+            Product p2 = new Product(p11, pnam1, pquan1, pprice1);// this will call parameterized constructor
+            p2.display();
+
             Console.ReadLine();
+
         }
     }
 }
