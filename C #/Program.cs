@@ -4,48 +4,50 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Class_car_create_method
+namespace Class_calculate_create_method
 {
-    class Car
+    class Calculate
     {
-        int model;
-        String make;
+        public float num1;
+        public float num2;
 
         //creating methods
-        public void getcardata(int a, String b)
+        public void addition(float num1, float num2)
         {
-            model = a;
-            make = b;
-
-
+            Console.WriteLine("Addition= " + (num1 + num2));
         }
-        public void displaycardata()
+        public void subtraction(float num1, float num2)
         {
-            Console.WriteLine("model " + model);
-            Console.WriteLine("make " + make);
-
+            Console.WriteLine("substraction= " + (num1 - num2));
         }
-
+        public void multiplication(float num1, float num2)
+        {
+            Console.WriteLine("multiplication= " + (num1 * num2));
+        }
+        public void division(float num1, float num2)
+        {
+            Console.WriteLine("division= " + (num1 / num2));
+        }
     }
-
     internal class Program
     {
         static void Main(string[] args)
         {
-            //creating an object(instance) of Car class
+            //creating an object(instance) of Calculate class
             //syntax classname objectname =new classname();
-            Car cr = new Car();
-            Console.WriteLine("enter Car model");
-            int model = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("enter Car Make");
-            String make = Console.ReadLine();
+            Calculate cal = new Calculate();
 
+            Console.Write("Enter first number ");
+            float num1 = Convert.ToSingle(Console.ReadLine());
+            Console.Write("Enter second number ");
+            float num2 = Convert.ToSingle(Console.ReadLine());
 
-            cr.getcardata(model, make);
-            cr.displaycardata();
+            cal.addition(num1, num2);
+            cal.subtraction(num1, num2);
+            cal.multiplication(num1, num2);
+            cal.division(num1, num2);
 
             Console.ReadLine();
-
         }
     }
 }
