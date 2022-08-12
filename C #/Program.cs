@@ -4,45 +4,35 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Class_customer_create_method
+namespace Class_circle
 {
-    class Customer
+    class Circle
     {
-        int custno;
-        string custname;
-        string custadd;
-        long custtel;
+        public float radi;
 
-        public void getcustomerdata()
+        public void Calculatearea(float radi)
         {
-            Console.WriteLine("enter customer no");
-            custno = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("enter customer name");
-            custname = Console.ReadLine();
-            Console.WriteLine("enter customer address");
-            custadd = Console.ReadLine();
-            Console.WriteLine("enter customer telephone no");
-            custtel = Convert.ToInt64(Console.ReadLine());
+            this.radi = radi;
+            float res = 3.142f * radi * radi;
+            Console.WriteLine("Area of Circle=" + res);
 
         }
-        public void displaycustomerdata()
+        public void Calculatecir(float radi)
         {
-            Console.WriteLine("custno " + custno);
-            Console.WriteLine("custname " + custname);
-            Console.WriteLine("custadd " + custadd);
-            Console.WriteLine("custtel " + custtel);
-
+            this.radi = radi;
+            float res = 2 * 3.142f * radi;
+            Console.WriteLine("Circumference of Circle=" + res);
         }
     }
     internal class Program
     {
         static void Main(string[] args)
         {
-            //creating an object(instance) of Customer class
-            //syntax classname objectname =new classname();
-            Customer cust = new Customer();
-            cust.getcustomerdata();
-            cust.displaycustomerdata();
+            Circle cir = new Circle();
+            Console.WriteLine("enter radius of circle");
+            float rad = Convert.ToSingle(Console.ReadLine());
+            cir.Calculatearea(rad);
+            cir.Calculatecir(rad);
             Console.ReadLine();
 
         }
