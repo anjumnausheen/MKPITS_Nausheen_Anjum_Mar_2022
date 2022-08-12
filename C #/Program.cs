@@ -4,22 +4,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_23_for_each
+namespace Pro_24_continue_break
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string[] num = new string[3];
-            num[0] = "amit";
-            num[1] = "raj";
-            num[2] = "dilip";
-            
-            foreach (string i in num)
+            int i = 1;
+            while (true)
             {
                 Console.WriteLine(i);
+                i++;
+                if (i <= 10)
+                    continue;
+                else
+                    break;
             }
+            Console.WriteLine("bye");
             Console.ReadLine();
         }
+
     }
 }
+
