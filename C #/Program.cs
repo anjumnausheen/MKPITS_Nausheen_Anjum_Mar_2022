@@ -4,26 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_24_continue_break
+namespace Pro_25
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int i = 1;
-            while (true)
-            {
-                Console.WriteLine(i);
-                i++;
-                if (i <= 10)
-                    continue;
-                else
-                    break;
-            }
+            int num = 6;
+            if (num % 2 == 0) goto even;
+            Console.WriteLine("odd");
+            goto end;
+
+        even:
+            Console.WriteLine("no is even");
+            goto end;
+        end:
             Console.WriteLine("bye");
             Console.ReadLine();
         }
-
     }
 }
-
