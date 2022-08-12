@@ -4,20 +4,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Vowel_not_vowel
+namespace Prime_not_prime
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            char ch;
-            Console.WriteLine("enter a vowel");
-            ch = Convert.ToChar(Console.ReadLine());
+            int i, n;
+            Console.WriteLine("enter a no");
+            n = Convert.ToInt32(Console.ReadLine());
+            for (i = 2; i < n; i++)
+            {
+                if (n % i == 0)
+                {
+                    Console.WriteLine(" Not Prime no");
 
-            if (ch == 'a' || ch == 'A' || ch == 'e' || ch == 'E' || ch == 'i' || ch == 'I' || ch == 'o' || ch == 'O' || ch == 'u' || ch == 'U')
-                Console.WriteLine("entered character is vowel");
-            else
-                Console.WriteLine("entered character is not Vowel");
+                    break;
+                }
+            }
+            if (i == n)
+                Console.WriteLine("Prime no");
             Console.ReadLine();
         }
     }
