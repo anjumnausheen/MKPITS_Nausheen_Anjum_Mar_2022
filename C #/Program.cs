@@ -4,30 +4,41 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_27_emp_values_user
+namespace Pro_28_getdata_showdata
 {
     class Employee
     {
-        public int empno;
-        public String empname;
-        public float salary;
+        int empno;
+        String empname;
+        float salary;
+        
+        public void getdata()
+        {
 
+            Console.WriteLine("enter employee no");
+            empno = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter employee name");
+            empname = Console.ReadLine();
+            Console.WriteLine("enter employee salary");
+            salary = Convert.ToSingle(Console.ReadLine());
+
+        }
+        public void displaydata()
+        {
+            Console.WriteLine("empno " + empno);
+            Console.WriteLine("empname " + empname);
+            Console.WriteLine("salary " + salary);
+        }
     }
-    internal class Program
+        internal class Program
     {
         static void Main(string[] args)
         {
             Employee emp = new Employee();
-            Console.WriteLine("enter employee no");
-            emp.empno = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("enter employee name");
-            emp.empname = Console.ReadLine();
-            Console.WriteLine("enter employee salary");
-            emp.salary = Convert.ToSingle(Console.ReadLine());
 
-            Console.WriteLine("empno " + emp.empno);
-            Console.WriteLine("empname " + emp.empname);
-            Console.WriteLine("salary " + emp.salary);
+            emp.getdata();
+            emp.displaydata();
+
             Console.ReadLine();
         }
     }
