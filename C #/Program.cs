@@ -4,56 +4,76 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Add_2_array
+namespace Assignment_class_student
 {
+    class Student
+    {
+        public int rl, tot;
+        public string nm, grd;
+        public int mm, cm, pm;
+        public float per;
+
+
+        public void Calculate(int rl, string nm, int tot, float per, string grd)
+        {
+            this.rl = rl;
+            this.nm = nm;
+            this.tot = tot;
+            this.per = per;
+            this.grd = grd;
+            Console.WriteLine("Roll no=" + rl);
+            Console.WriteLine("student Name=" + nm);
+            Console.WriteLine("Total=" + tot);
+            Console.WriteLine("Percentage=" + per);
+            Console.WriteLine("Grade=" + grd);
+
+
+
+        }
+
+    }
     internal class Program
     {
         static void Main(string[] args)
         {
-            int[,] num1 = new int[3, 3];
-            int[,] num2 = new int[3, 3];
-            int[,] sum = new int[3, 3];
-            Console.WriteLine("Enter Array Element");
-            for (int i = 0; i < 3; i++)
+            Student std = new Student();
+            Console.WriteLine("enter student roll no");
+            int rol = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter student name");
+            string name = (Console.ReadLine());
+            Console.WriteLine("enter student maths mark");
+            int mat = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter student chemistry mark");
+            int chm = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter student physics mark");
+            int phy = Convert.ToInt32(Console.ReadLine());
+            int total = mat + chm + phy;
+            float perc = (total / 300.0f) * 100;
+            string grade;
+
+
+            if (perc >= 75)
             {
-                for (int j = 0; j < 3; j++)
-                {
-                    num1[i, j] = Convert.ToInt16(Console.ReadLine());
-                }
-
+                grade = "distinction";
             }
-            Console.WriteLine();
-
-
-            Console.WriteLine("Enter Array Element");
-            for (int i = 0; i < 3; i++)
+            else if (perc >= 60 && perc < 75)
             {
-                for (int j = 0; j < 3; j++)
-                {
-                    num2[i, j] = Convert.ToInt16(Console.ReadLine());
-                }
-
+                grade = "first division";
             }
-            Console.WriteLine();
-
-            for (int i = 0; i < 3; i++)
+            else if (perc >= 45 && perc < 60)
             {
-                for (int j = 0; j < 3; j++)
-                {
-                    sum[i, j] = num1[i, j] + num2[i, j];
-                }
+                grade = "second division";
             }
-
-            for (int i = 0; i < 3; i++)
+            else
             {
-                for (int j = 0; j < 3; j++)
-                {
-                    Console.WriteLine(sum[i, j] + "\t");
-                }
-
+                grade = "Fail";
             }
-            Console.WriteLine();
-            Console.ReadLine();
+            std.Calculate(rol, name, total, perc, grade);
         }
+
+
     }
 }
+        
+    
+
