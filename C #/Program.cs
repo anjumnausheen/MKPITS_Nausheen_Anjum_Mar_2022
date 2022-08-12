@@ -4,35 +4,36 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Class_product_with_constructor
+namespace Class_Employee_create_constructor
 {
-    class Product
+    class Employee
     {
-        int proid;
-        string proname;
-        int price, quan;
+        int empno;
+        string empname, desig;
+        float sal;
 
-        public Product()
+        public Employee()
         {
-            proid = 5;
-            proname = "Pen";
-            price = 50;
-            quan = 5;
+            empno = 1;
+            empname = "rumi";
+            sal = 40000.25f;
+            desig = "Manager";
+
         }
         public void display()
         {
-            Console.WriteLine("pro id=" + proid);
-            Console.WriteLine("pro name=" + proname);
-            Console.WriteLine("pro quan=" + quan);
-            Console.WriteLine("price=" + price);
+            Console.WriteLine("emp no=" + empno);
+            Console.WriteLine("emp name=" + empname);
+            Console.WriteLine("designation=" + desig);
+            Console.WriteLine("salary=" + sal);
         }
     }
     internal class Program
     {
         static void Main(string[] args)
         {
-            Product p = new Product();
-            p.display();
+            Employee e = new Employee();
+            e.display();
             Console.ReadLine();
         }
     }
