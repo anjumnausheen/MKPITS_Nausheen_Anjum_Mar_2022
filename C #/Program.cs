@@ -4,19 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_17_while
+namespace Pro_17_do_while
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int n = 1;
-            while (n <= 10)
+            int num = 1;
+            do
             {
-                Console.WriteLine(n);
-                n++;
-                Console.ReadLine();
-            }
+                Console.WriteLine(num);
+                num++;
+            } while (num <= 10);
+            Console.ReadLine();
         }
     }
 }
