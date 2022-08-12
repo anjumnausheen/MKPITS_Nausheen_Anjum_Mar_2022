@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program_7_char_user
+namespace Pro_9_datatype
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            char ch;
-            Console.WriteLine("enter character ");
-            ch = Convert.ToChar(Console.ReadLine());
-            Console.WriteLine("character entered = " + ch);
+            byte b1;
+            Console.WriteLine("enter bite ");
+            b1 = Convert.ToByte(Console.ReadLine());
+            Console.WriteLine("byte entered = " + b1);
 
             Console.ReadLine();
         }
