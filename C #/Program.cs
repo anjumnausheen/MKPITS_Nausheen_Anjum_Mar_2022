@@ -4,49 +4,47 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Class_employee_create_method
+namespace Class_product_create_method
 {
-    public class Employee
+    class Product
     {
-        public int empno;
-        public string empnam;
-        public string desig;
-        public double sal;
+        int proid;
+        string proname;
+        float prorate;
+        int proquan;
 
-        public void calculate_salary(int empno, string empnam, string desig, double sal)
+        public void getproductdata()
         {
-            this.empno = empno;
-            this.empnam = empnam;
-            this.desig = desig;
-            this.sal = sal;
+            Console.WriteLine("enter Product Id");
+            proid = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter Product name");
+            proname = Console.ReadLine();
+            Console.WriteLine("enter Product rate");
+            prorate = Convert.ToSingle(Console.ReadLine());
+            Console.WriteLine("enter Product quantity");
+            proquan = Convert.ToInt32(Console.ReadLine());
 
-            double hra = .32 * sal;
-            double da = .43 * sal;
-            double ta = .45 * sal;
-
-            double total = hra + da + ta + sal;
-
-            Console.WriteLine("Employee number: " + empno);
-            Console.WriteLine("Employee name: " + empnam);
-            Console.WriteLine("Employee designation: " + desig);
-            Console.WriteLine("Total Salary: " + sal);
         }
+        public void displayorder()
+        {
+            Console.WriteLine("proid " + proid);
+            Console.WriteLine("proname " + proname);
+            Console.WriteLine("prorate " + prorate);
+            Console.WriteLine("proquan " + proquan);
 
+        }
     }
     internal class Program
     {
         static void Main(string[] args)
         {
-            Employee emp = new Employee();
-            Console.WriteLine("Enter number");
-            int empno = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter employee name");
-            string empnam = Console.ReadLine();
-            Console.WriteLine("Enter employee designation");
-            string desig = Console.ReadLine();
-            Console.WriteLine("Enter basic salary");
-            double sal = Convert.ToSingle(Console.ReadLine());
-            emp.calculate_salary(empno, empnam, desig, sal);
+            //creating an object(instance) of Customer class
+            //syntax classname objectname =new classname();
+            Product pro = new Product();
+            pro.getproductdata();
+            pro.displayorder();
+            Console.ReadLine();
+
         }
     }
 }
