@@ -4,22 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_20_print_table
+namespace Pro_21_print_fact
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             int num;
-            int res = 1;
+            int fact = 1;
             Console.WriteLine("enter number");
             num = Convert.ToInt32(Console.ReadLine());
-            for (int i = 1; i <= 10; i++)
+            for (int i = num; i > 0; i--)
             {
-                res = num * i;
-                Console.WriteLine("{0} * {1} = {2}", num, i, res);
-            }
+                fact = fact * i;
 
+            }
+            Console.WriteLine("fact = " + fact);
             Console.ReadLine();
         }
     }
