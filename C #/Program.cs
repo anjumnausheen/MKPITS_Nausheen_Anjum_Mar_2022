@@ -4,35 +4,37 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_31_total_per_grade
+namespace Pro_32_table
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            double s1, s2, s3, total, per;
-            string name, grd;
-            Console.WriteLine("Calculate the toal,percentage and grade");
-            Console.WriteLine("Enter the name");
-            name = Console.ReadLine();
-            Console.WriteLine("Enter the sub1 marks");
-            s1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter the sub2 marks");
-            s2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter the sub3 marks");
-            s3 = Convert.ToInt32(Console.ReadLine());
-            total = s1 + s2 + s3;
-            per = total / 3.0;
-            if (per >= 75)
-                grd = "Distinction";
-            else if (per < 75 && per >= 60)
-                grd = "First";
-            else if (per < 60 && per >= 45)
-                grd = "Second";
-            else
-                grd = "Fail";
-            Console.WriteLine("\nName of Student=" + name);
-            Console.Write("Total Marks={0}\n Percentage={1} \n Grade={2}", total, per, grd);
+            int t, mul;
+            Console.WriteLine("Enter a no");
+            t = Convert.ToInt32(Console.ReadLine());
+
+            mul = t * 1;
+            Console.WriteLine(mul);
+            mul = t * 2;
+            Console.WriteLine(mul);
+            mul = t * 3;
+            Console.WriteLine(mul);
+            mul = t * 4;
+            Console.WriteLine(mul);
+            mul = t * 5;
+            Console.WriteLine(mul);
+            mul = t * 6;
+            Console.WriteLine(mul);
+            mul = t * 7;
+            Console.WriteLine(mul);
+            mul = t * 8;
+            Console.WriteLine(mul);
+            mul = t * 9;
+            Console.WriteLine(mul);
+            mul = t * 10;
+            Console.WriteLine(mul);
+
             Console.ReadLine();
         }
     }
