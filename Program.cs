@@ -4,35 +4,30 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Display_empname_hra_da_sal
+namespace Pro_33_student_name
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            float bs, hra, da, total;
-            string empname;
-            int empno;
+            string[] name = new string[5];
 
-            Console.WriteLine("enter emp no");
-            empno = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("enter emp name");
-            empname = Console.ReadLine();
-            Console.WriteLine("enter basic salary");
-            bs = Convert.ToSingle(Console.ReadLine());
-            if (bs > 10000)
+
+            for (int i = 0; i < 5; i++)
             {
-                hra = bs * 0.32f;
-                da = bs * 0.45f;
+                Console.Write("Enter Student Name :");
+                name[i] = Console.ReadLine();
+
+
+
             }
-            else
+            Console.WriteLine();
+            for (int i = 0; i < 5; i++)
             {
-                hra = bs * 0.22f;
-                da = bs * 0.35f;
+                Console.WriteLine("\n" + name[i]);
             }
 
-            total = bs + hra + da;
-            Console.WriteLine("Total=" + total);
+
             Console.ReadLine();
         }
     }
