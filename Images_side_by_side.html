@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            box-sizing: border-box;
+        }
+        .img-container{
+            float: left;
+            width:30%;
+            padding: 5px;
+        }
+        .clearfix::after{
+                        content:"";
+                        clear:both;
+                        display: table;
+        }
+    </style>
+</head>
+<body>
+    <h2>Images side by side</h2>
+    <p>Float Images side by side</p>
+
+    <div class="clearfix">
+        <div class="img-container">
+            <img src="Images1/img_5terre (1).jpg " alt="Italy"  style="width:100%">
+        </div>
+        
+        <div class="img-container">
+            <img src="Images1/img_forest (1).jpg " alt="Forest" style="width:100%">
+        </div>
+
+        <div class="img-container">
+            <img src="Images1/img_lights (1).jpg " alt="Mountains" style="width:100%">
+        </div>
+
+
+    
+    
+    
+    
+    </div>
+    
+</body>
+</html>
