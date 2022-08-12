@@ -4,30 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_name_rate_quan_total
+namespace Vowel_not_vowel
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            float prate, total, dis;
-            int quan;
-            string pname;
+            char ch;
+            Console.WriteLine("enter a vowel");
+            ch = Convert.ToChar(Console.ReadLine());
 
-            Console.WriteLine("enter product rate");
-            prate = Convert.ToSingle(Console.ReadLine());
-            Console.WriteLine("enter product name");
-            pname = Console.ReadLine();
-            Console.WriteLine("enter quantity");
-            quan = Convert.ToInt32(Console.ReadLine());
-            total = prate * quan;
-            Console.WriteLine("total=" + total);
-            if (total > 2000)
-                dis = total * 0.50f;
+            if (ch == 'a' || ch == 'A' || ch == 'e' || ch == 'E' || ch == 'i' || ch == 'I' || ch == 'o' || ch == 'O' || ch == 'u' || ch == 'U')
+                Console.WriteLine("entered character is vowel");
             else
-                dis = total * 0.10f;
-            total = prate * quan;
-            Console.WriteLine("discount=" + dis);
+                Console.WriteLine("entered character is not Vowel");
             Console.ReadLine();
         }
     }
