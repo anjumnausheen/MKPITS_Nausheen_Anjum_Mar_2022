@@ -4,35 +4,46 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Class_circle
+namespace Class_car_create_method
 {
-    class Circle
+    class Car
     {
-        public float radi;
+        int model;
+        String make;
 
-        public void Calculatearea(float radi)
+        //creating methods
+        public void getcardata(int a, String b)
         {
-            this.radi = radi;
-            float res = 3.142f * radi * radi;
-            Console.WriteLine("Area of Circle=" + res);
+            model = a;
+            make = b;
+
 
         }
-        public void Calculatecir(float radi)
+        public void displaycardata()
         {
-            this.radi = radi;
-            float res = 2 * 3.142f * radi;
-            Console.WriteLine("Circumference of Circle=" + res);
+            Console.WriteLine("model " + model);
+            Console.WriteLine("make " + make);
+
         }
+
     }
+
     internal class Program
     {
         static void Main(string[] args)
         {
-            Circle cir = new Circle();
-            Console.WriteLine("enter radius of circle");
-            float rad = Convert.ToSingle(Console.ReadLine());
-            cir.Calculatearea(rad);
-            cir.Calculatecir(rad);
+            //creating an object(instance) of Car class
+            //syntax classname objectname =new classname();
+            Car cr = new Car();
+            Console.WriteLine("enter Car model");
+            int model = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter Car Make");
+            String make = Console.ReadLine();
+
+
+            cr.getcardata(model, make);
+            cr.displaycardata();
+
             Console.ReadLine();
 
         }
