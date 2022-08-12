@@ -4,25 +4,28 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Smallest_no
+namespace Cal_dis_bonus
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int a, b, c;
-            Console.WriteLine("Enter no 1");
-            a = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter no 2");
-            b = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter no 3");
-            c = Convert.ToInt32(Console.ReadLine());
-            if (a < b && a < c)
-                Console.WriteLine("a is smallest");
-            else if (b < a && b < c)
-                Console.WriteLine("b is smallest");
-            else
-                Console.WriteLine("c is smallest");
+            string empname, desig;
+            int empno;
+
+            Console.WriteLine("enter emp no");
+            empno = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter emp name");
+            empname = Console.ReadLine();
+            Console.WriteLine("enter designation");
+            desig = Console.ReadLine();
+
+            if (desig == "manager")
+                Console.WriteLine("bonus=" + 10000);
+            else if (desig == "clerk")
+                Console.WriteLine("bonus=" + 5000);
+            else if (desig == "peon")
+                Console.WriteLine("bonus=" + 2000);
             Console.ReadLine();
         }
     }
