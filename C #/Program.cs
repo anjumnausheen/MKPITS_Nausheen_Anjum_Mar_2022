@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_9_datatype
+namespace Pro_11_short_pos_no
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            byte b1;
-            Console.WriteLine("enter bite ");
-            b1 = Convert.ToByte(Console.ReadLine());
-            Console.WriteLine("byte entered = " + b1);
+            ushort b1;
+            Console.WriteLine("enter ushort number ");
+            b1 = Convert.ToUInt16(Console.ReadLine());
+            Console.WriteLine("ushort entered = " + b1);
 
             Console.ReadLine();
         }
