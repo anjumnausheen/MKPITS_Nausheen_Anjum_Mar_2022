@@ -4,16 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_19_for
+namespace Pro_20_print_table
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            for (int n = 1; n <= 10; n++)
+            int num;
+            int res = 1;
+            Console.WriteLine("enter number");
+            num = Convert.ToInt32(Console.ReadLine());
+            for (int i = 1; i <= 10; i++)
             {
-                Console.WriteLine(n);
+                res = num * i;
+                Console.WriteLine("{0} * {1} = {2}", num, i, res);
             }
+
             Console.ReadLine();
         }
     }
