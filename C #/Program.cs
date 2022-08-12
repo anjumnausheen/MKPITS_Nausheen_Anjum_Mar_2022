@@ -4,33 +4,33 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Class_product_create_method
+namespace Class_customer_create_method
 {
-    class Product
+    class Customer
     {
-        int proid;
-        string proname;
-        float prorate;
-        int proquan;
+        int custno;
+        string custname;
+        string custadd;
+        long custtel;
 
-        public void getproductdata()
+        public void getcustomerdata()
         {
-            Console.WriteLine("enter Product Id");
-            proid = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("enter Product name");
-            proname = Console.ReadLine();
-            Console.WriteLine("enter Product rate");
-            prorate = Convert.ToSingle(Console.ReadLine());
-            Console.WriteLine("enter Product quantity");
-            proquan = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter customer no");
+            custno = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter customer name");
+            custname = Console.ReadLine();
+            Console.WriteLine("enter customer address");
+            custadd = Console.ReadLine();
+            Console.WriteLine("enter customer telephone no");
+            custtel = Convert.ToInt64(Console.ReadLine());
 
         }
-        public void displayorder()
+        public void displaycustomerdata()
         {
-            Console.WriteLine("proid " + proid);
-            Console.WriteLine("proname " + proname);
-            Console.WriteLine("prorate " + prorate);
-            Console.WriteLine("proquan " + proquan);
+            Console.WriteLine("custno " + custno);
+            Console.WriteLine("custname " + custname);
+            Console.WriteLine("custadd " + custadd);
+            Console.WriteLine("custtel " + custtel);
 
         }
     }
@@ -40,9 +40,9 @@ namespace Class_product_create_method
         {
             //creating an object(instance) of Customer class
             //syntax classname objectname =new classname();
-            Product pro = new Product();
-            pro.getproductdata();
-            pro.displayorder();
+            Customer cust = new Customer();
+            cust.getcustomerdata();
+            cust.displaycustomerdata();
             Console.ReadLine();
 
         }
