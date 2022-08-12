@@ -4,21 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Even_odd
+namespace Enterlongnumber
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int n;
-            Console.WriteLine("entrer a no");
-            n = Convert.ToInt32(Console.ReadLine());
+            long b1;
+            Console.WriteLine("enter long number  ");
+            b1 = Convert.ToInt64(Console.ReadLine());
+            Console.WriteLine("long entered = " + b1);
 
-            if (n % 2 == 0)
-                Console.WriteLine("no is even");
-            else
-                Console.WriteLine("no is odd");
             Console.ReadLine();
+
+
         }
     }
 }
