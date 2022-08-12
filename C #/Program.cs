@@ -4,69 +4,79 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Class_Product_with_Constructor_with_Parameter
+namespace Class_Student_with_Method_Overloading
 {
-    class Product
+    class Student
     {
-        int proid;
-        string proname;
-        int quan;
-        int price;
+        int rn;
+        string name, course;
+        int fees;
 
-        //creating a  constructor with no parameters
-        public Product()
+        public void getdata()
         {
-            proid = 4;
-            proname = "Pen";
-            quan = 4;
-            price = 20;
+            rn = 9;
+            name = "neelu";
+            course = "python";
+            fees = 8000;
         }
-
-
-        //creating a  parameterized constructor with 4 parameters
-        public Product(int proid, string proname, int quan, int price)
+        // method overloaded
+        public void getdata(int rn, string name)
         {
-            Console.WriteLine("Constructor with parameter called");
-            this.proid = proid;
-            this.proname = proname;
-            this.quan = quan;
-            this.price = price;
+            this.rn = rn;
+            this.name = name;
+        }
+        public void getdata(int rn, string name, string course)
+        {
+            this.rn = rn;
+            this.name = name;
+            this.course = course;
+        }
+        public void getdata(int rn, string name, string course, int fees)
+        {
+            this.rn = rn;
+            this.name = name;
+            this.course = course;
+            this.fees = fees;
         }
         public void display()
         {
-            Console.WriteLine("product id=" + proid);
-            Console.WriteLine("pro name=" + proname);
-            Console.WriteLine("pro quan=" + quan);
-            Console.WriteLine("price=" + price);
-        }
+            Console.WriteLine("student roll no = " + rn);
+            Console.WriteLine("student name = " + name);
+            Console.WriteLine("course= " + course);
+            Console.WriteLine("fees= " + fees);
 
+        }
     }
     internal class Program
     {
         static void Main(string[] args)
         {
-            Product p = new Product(); //this will call constructor automatically
-            p.display();
+            Student s = new Student();
+            s.getdata();
+            s.display();
 
-            Console.WriteLine("--------Product 1 details -------");
-            Product p1 = new Product(5, "pencil", 5, 50);// this will call parameterized constructor
-            p1.display();
+            Console.WriteLine("------------------------");
 
-            Console.WriteLine("-----------------Product 2 details ----------");
-            Console.WriteLine("enter product id");
-            int p11 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("enter product name");
-            String pnam1 = Console.ReadLine();
-            Console.WriteLine("enter product quantity");
-            int pquan1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("enter product price");
-            int pprice1 = Convert.ToInt32(Console.ReadLine());
 
-            Product p2 = new Product(p11, pnam1, pquan1, pprice1);// this will call parameterized constructor
-            p2.display();
+            Console.WriteLine("------------------------");
+            Console.WriteLine("student  details");
+            Student s2 = new Student();
+            s2.getdata(123, "ayesha");
+            s2.display();
+            Console.WriteLine("------------------------");
+            Console.WriteLine("Student  details");
+            Student s3 = new Student();
+            s3.getdata(123, "ayesha", "java");
+            s3.display();
+            Console.WriteLine("------------------------");
+            Console.WriteLine("student  details");
+            Student s4 = new Student();
+            s4.getdata(123, "ayesha", "java", 10000);
+            s4.display();
+
+
 
             Console.ReadLine();
-
         }
     }
 }
