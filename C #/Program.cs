@@ -4,36 +4,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_32_table
+namespace Pro_33_student_name
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int t, mul;
-            Console.WriteLine("Enter a no");
-            t = Convert.ToInt32(Console.ReadLine());
+            string[] name = new string[5];
 
-            mul = t * 1;
-            Console.WriteLine(mul);
-            mul = t * 2;
-            Console.WriteLine(mul);
-            mul = t * 3;
-            Console.WriteLine(mul);
-            mul = t * 4;
-            Console.WriteLine(mul);
-            mul = t * 5;
-            Console.WriteLine(mul);
-            mul = t * 6;
-            Console.WriteLine(mul);
-            mul = t * 7;
-            Console.WriteLine(mul);
-            mul = t * 8;
-            Console.WriteLine(mul);
-            mul = t * 9;
-            Console.WriteLine(mul);
-            mul = t * 10;
-            Console.WriteLine(mul);
+
+            for (int i = 0; i < 5; i++)
+            {
+                Console.Write("Enter Student Name :");
+                name[i] = Console.ReadLine();
+
+
+
+            }
+            Console.WriteLine();
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("\n" + name[i]);
+            }
+
 
             Console.ReadLine();
         }
