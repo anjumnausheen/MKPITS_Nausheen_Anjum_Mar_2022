@@ -4,20 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace program1
+namespace Pro_2d_array
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int l, b;
-            Console.WriteLine("enter length");
-            l = Convert.ToInt32(Console.ReadLine()); //toint32 method will convert string to integer
-            Console.WriteLine("enter breadth");
-            b = Convert.ToInt32(Console.ReadLine());
-            int result = l * b;
-            Console.WriteLine("Area of Rectangle=" + result);
-            Console.ReadLine();
-        }
+            int[,] num = new int[3, 3];
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.WriteLine("enter no");
+                    num[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+            }
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write(num[i, j] + "\t");
+
+                }
+                Console.WriteLine();
+                Console.ReadLine();
+            }
+            }
     }
 }
