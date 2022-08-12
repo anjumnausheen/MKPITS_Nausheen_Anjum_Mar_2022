@@ -4,31 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_33_student_name
+namespace Pro_2d_array
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string[] name = new string[5];
-
-
-            for (int i = 0; i < 5; i++)
+            int[,] num = new int[3, 3];
+            for (int i = 0; i < 3; i++)
             {
-                Console.Write("Enter Student Name :");
-                name[i] = Console.ReadLine();
-
-
-
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.WriteLine("enter no");
+                    num[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
             }
-            Console.WriteLine();
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 3; i++)
             {
-                Console.WriteLine("\n" + name[i]);
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write(num[i, j] + "\t");
+
+                }
+                Console.WriteLine();
+                Console.ReadLine();
             }
-
-
-            Console.ReadLine();
-        }
+            }
     }
 }
