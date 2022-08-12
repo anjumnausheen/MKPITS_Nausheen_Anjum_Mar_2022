@@ -4,21 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_29_pass_data_toclass
+namespace Pro_30_emp_method
 {
     class Employee
     {
-        public int empno;
-        public string empname;
-        public double salary;
+        int empno;
+        String empname;
+        float salary;
         
-        public void getdata(int e1, string en, double sa)
+        public void getdata(int empno, String empname, float salary)
         {
-            empno = e1;
-            empname = en;
-            salary = sa;
+            this.empno = empno;
+            this.empname = empname;
+            this.salary = salary;
+
         }
-        public void showdata()
+        public void displaydata()
         {
             Console.WriteLine("empno " + empno);
             Console.WriteLine("empname " + empname);
@@ -26,15 +27,22 @@ namespace Pro_29_pass_data_toclass
         }
 
     }
-    
     internal class Program
     {
         static void Main(string[] args)
         {
             Employee emp = new Employee();
-            emp.getdata(21, "Raj", 121212);
+            Console.WriteLine("enter employee no");
 
-            emp.showdata();
+            int eno = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter employee name");
+            String en = Console.ReadLine();
+            Console.WriteLine("enter employee salary");
+            float sal = Convert.ToSingle(Console.ReadLine());
+
+            emp.getdata(eno, en, sal);
+            emp.displaydata();
+
             Console.ReadLine();
         }
     }
