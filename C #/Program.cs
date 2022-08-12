@@ -4,31 +4,32 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment_class_student
+namespace Class_employee_create_method
 {
-    class Student
+    public class Employee
     {
-        public int rl, tot;
-        public string nm, grd;
-        public int mm, cm, pm;
-        public float per;
+        public int empno;
+        public string empnam;
+        public string desig;
+        public double sal;
 
-
-        public void Calculate(int rl, string nm, int tot, float per, string grd)
+        public void calculate_salary(int empno, string empnam, string desig, double sal)
         {
-            this.rl = rl;
-            this.nm = nm;
-            this.tot = tot;
-            this.per = per;
-            this.grd = grd;
-            Console.WriteLine("Roll no=" + rl);
-            Console.WriteLine("student Name=" + nm);
-            Console.WriteLine("Total=" + tot);
-            Console.WriteLine("Percentage=" + per);
-            Console.WriteLine("Grade=" + grd);
+            this.empno = empno;
+            this.empnam = empnam;
+            this.desig = desig;
+            this.sal = sal;
 
+            double hra = .32 * sal;
+            double da = .43 * sal;
+            double ta = .45 * sal;
 
+            double total = hra + da + ta + sal;
 
+            Console.WriteLine("Employee number: " + empno);
+            Console.WriteLine("Employee name: " + empnam);
+            Console.WriteLine("Employee designation: " + desig);
+            Console.WriteLine("Total Salary: " + sal);
         }
 
     }
@@ -36,44 +37,16 @@ namespace Assignment_class_student
     {
         static void Main(string[] args)
         {
-            Student std = new Student();
-            Console.WriteLine("enter student roll no");
-            int rol = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("enter student name");
-            string name = (Console.ReadLine());
-            Console.WriteLine("enter student maths mark");
-            int mat = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("enter student chemistry mark");
-            int chm = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("enter student physics mark");
-            int phy = Convert.ToInt32(Console.ReadLine());
-            int total = mat + chm + phy;
-            float perc = (total / 300.0f) * 100;
-            string grade;
-
-
-            if (perc >= 75)
-            {
-                grade = "distinction";
-            }
-            else if (perc >= 60 && perc < 75)
-            {
-                grade = "first division";
-            }
-            else if (perc >= 45 && perc < 60)
-            {
-                grade = "second division";
-            }
-            else
-            {
-                grade = "Fail";
-            }
-            std.Calculate(rol, name, total, perc, grade);
+            Employee emp = new Employee();
+            Console.WriteLine("Enter number");
+            int empno = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter employee name");
+            string empnam = Console.ReadLine();
+            Console.WriteLine("Enter employee designation");
+            string desig = Console.ReadLine();
+            Console.WriteLine("Enter basic salary");
+            double sal = Convert.ToSingle(Console.ReadLine());
+            emp.calculate_salary(empno, empnam, desig, sal);
         }
-
-
     }
 }
-        
-    
-
