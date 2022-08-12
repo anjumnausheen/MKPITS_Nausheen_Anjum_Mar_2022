@@ -4,49 +4,35 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Class_calculate_create_method
+namespace Class_product_with_constructor
 {
-    class Calculate
+    class Product
     {
-        public float num1;
-        public float num2;
+        int proid;
+        string proname;
+        int price, quan;
 
-        //creating methods
-        public void addition(float num1, float num2)
+        public Product()
         {
-            Console.WriteLine("Addition= " + (num1 + num2));
+            proid = 5;
+            proname = "Pen";
+            price = 50;
+            quan = 5;
         }
-        public void subtraction(float num1, float num2)
+        public void display()
         {
-            Console.WriteLine("substraction= " + (num1 - num2));
-        }
-        public void multiplication(float num1, float num2)
-        {
-            Console.WriteLine("multiplication= " + (num1 * num2));
-        }
-        public void division(float num1, float num2)
-        {
-            Console.WriteLine("division= " + (num1 / num2));
+            Console.WriteLine("pro id=" + proid);
+            Console.WriteLine("pro name=" + proname);
+            Console.WriteLine("pro quan=" + quan);
+            Console.WriteLine("price=" + price);
         }
     }
     internal class Program
     {
         static void Main(string[] args)
         {
-            //creating an object(instance) of Calculate class
-            //syntax classname objectname =new classname();
-            Calculate cal = new Calculate();
-
-            Console.Write("Enter first number ");
-            float num1 = Convert.ToSingle(Console.ReadLine());
-            Console.Write("Enter second number ");
-            float num2 = Convert.ToSingle(Console.ReadLine());
-
-            cal.addition(num1, num2);
-            cal.subtraction(num1, num2);
-            cal.multiplication(num1, num2);
-            cal.division(num1, num2);
-
+            Product p = new Product();
+            p.display();
             Console.ReadLine();
         }
     }
