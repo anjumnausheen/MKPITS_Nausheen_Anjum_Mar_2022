@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        span.a{
+            display:inline;
+            width: 100px;
+            height: 100px;
+            padding:5px;
+            border:1px solid red;
+            background-color: yellow;
+
+        }
+        span.b{
+                display:inline-block;
+                width:100px;
+                height:100px;
+                padding:5px;
+                border:1px solid red;
+                background-color: yellow;
+        }
+        span.c{
+            display:block;
+            width:100px;
+            height:100px;
+            padding:5px;
+            border:1px solid red;
+            background-color: yellow;
+
+        }
+    </style>
+</head>
+<body>
+    <h1>The display property</h1>
+
+    <h2>Display inline</h2>
+    <div>Lorem ipsum dolor sit amet, consectetur <span class="a">consectetur</span>adipiscing elit.<span class="a"> Vestibulum</span> consequat scelerisque elit sit amet consequat. Aliquam erat volutpat. </div>
+
+    <h2>Display:inline-block</h2>
+    <div><div>Lorem ipsum dolor sit amet, consectetur <span class="b">consectetur</span>adipiscing elit.<span class="b"> Vestibulum</span> consequat scelerisque elit sit amet consequat. Aliquam erat volutpat. </div></div>
+
+    <h2>Display:block</h2>
+    <div>Lorem ipsum dolor sit amet, consectetur <span class="c">consectetur</span>adipiscing elit.<span class="c"> Vestibulum</span> consequat scelerisque elit sit amet consequat. Aliquam erat volutpat. </div>
+
+
+
+</body>
+</html>
