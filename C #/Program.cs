@@ -4,19 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hello_world
+namespace Star_pattern
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int x, y, z;
-            x = 10;
-            y = 20;
-            z = x + y;
-            Console.WriteLine("Addition=" + z);
+            int i, j;
+            for(i=1;i<=5;i++)
+            {
+                for(j=1;j<=5;j++)
+                {
+                    Console.Write(" * ");
+                }
+                Console.WriteLine( );
+            }
             Console.ReadLine();
-
         }
     }
 }
