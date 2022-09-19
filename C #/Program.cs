@@ -4,26 +4,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program_if6_ladder
+namespace Program_neg_pos
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int x, y, z;
-            Console.WriteLine("Enter 3 number:");
-            x = Convert.ToInt32(Console.ReadLine());
-            y = Convert.ToInt32(Console.ReadLine());
-            z = Convert.ToInt32(Console.ReadLine());
-            if(x>y && x > z)
+            int n;
+            Console.WriteLine("Enter a number:");
+            n = Convert.ToInt32(Console.ReadLine());
+            if(n>0)
             {
-                Console.WriteLine("x is greater");
-            }else if(y>x && y>z){
-                Console.WriteLine("y is greater");
+                Console.WriteLine("Number is positive");
+            }
+            else if (n < 0)
+            {
+                Console.WriteLine("Number is negative");
             }
             else
             {
-                Console.WriteLine("z is greater");
+                Console.WriteLine("Number is Zero");
             }
             Console.ReadLine();
         }
