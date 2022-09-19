@@ -4,29 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program_angles_triangles
+namespace Program_equilateral_isosceles_scalene
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int x, y, z ,t;
+            int x, y, z;
             Console.WriteLine("Enter any 3 number:");
             x = Convert.ToInt32(Console.ReadLine());
             y = Convert.ToInt32(Console.ReadLine());
-            z= Convert.ToInt32(Console.ReadLine());
-            t = x + y + z;
-            if (t == 180)
+            z = Convert.ToInt32(Console.ReadLine());
+            if(x==y && y==z)
             {
-                Console.WriteLine("Triangle is valid");
+                Console.WriteLine("Triangle is equilateral");
+
             }
-            else
+            else if(x==y && y != z) 
             {
-                Console.WriteLine("Triangle is invalid");
+                Console.WriteLine("Triangle is isosceles");
+            }
+            else 
+            {
+                Console.WriteLine("Triangle is scalene triangle");
             }
             Console.ReadLine();
-
-
         }
     }
 }
