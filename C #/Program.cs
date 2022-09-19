@@ -4,21 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bitwise_operator
+namespace Program_If3
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int x = 3, y = 5,z;
-            z = x & y;
-            Console.WriteLine(z);
-            z = x | y;
-            Console.WriteLine(z);
-            z = y >> 1;
-            Console.WriteLine(z);
-            z = y << 1;
-            Console.WriteLine(z);
+            int x, y;
+            Console.WriteLine("Enter 2 number");
+            x = Convert.ToInt32(Console.ReadLine());
+            y = Convert.ToInt32(Console.ReadLine());
+            if (x>y)
+            {
+                Console.WriteLine("x is greater");
+            }
+            else
+            {
+                Console.WriteLine("y is greater");
+            }
             Console.ReadLine();
         }
     }
