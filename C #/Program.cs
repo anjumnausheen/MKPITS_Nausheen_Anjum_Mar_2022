@@ -4,29 +4,28 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program_equilateral_isosceles_scalene
+namespace Program_profit_loss
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int x, y, z;
-            Console.WriteLine("Enter any 3 number:");
-            x = Convert.ToInt32(Console.ReadLine());
-            y = Convert.ToInt32(Console.ReadLine());
-            z = Convert.ToInt32(Console.ReadLine());
-            if(x==y && y==z)
-            {
-                Console.WriteLine("Triangle is equilateral");
+            int sp, cp;
+            Console.WriteLine("Enter any 2 number:");
+            sp = Convert.ToInt32(Console.ReadLine());
+            cp = Convert.ToInt32(Console.ReadLine());
 
-            }
-            else if(x==y && y != z) 
+            if(sp > cp) 
             {
-                Console.WriteLine("Triangle is isosceles");
+                Console.WriteLine("Profit");
             }
-            else 
+            else if(sp < cp)
             {
-                Console.WriteLine("Triangle is scalene triangle");
+                Console.WriteLine("Loss");
+            }
+            else
+            {
+                Console.WriteLine("No Profit No Loss");
             }
             Console.ReadLine();
         }
