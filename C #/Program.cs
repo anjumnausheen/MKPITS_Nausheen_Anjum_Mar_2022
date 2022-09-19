@@ -4,26 +4,48 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program_uppercase_lowercase_alphabet
+namespace Program_weekno_weekday
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            char ch;
-            Console.WriteLine("Enter any character");
-            ch =Convert.ToChar(Console.ReadLine());
-            if(ch>='A' && ch<='Z') 
+            int x;
+            Console.WriteLine("Enter any number:");
+            x = Convert.ToInt32(Console.ReadLine());
+
+            if ( x==1)
             {
-                Console.WriteLine("Character is uppercase alphabet");
+                Console.WriteLine("Sunday");
             }
-            else if(ch>='a' && ch<='z')
+            else if( x==2)
             {
-                Console.WriteLine("Character is lowercase alphabet");
+                Console.WriteLine("Monday");
+            }
+            else if (x == 3)
+            {
+                Console.WriteLine("Tuesday");
+            }
+            else if(x == 4)
+            {
+                Console.WriteLine("wednesday");
+            }
+            else if(x == 5)
+            {
+                Console.WriteLine("Thursday");
+
+            }
+            else if(x == 6)
+            {
+                Console.WriteLine("Friday");
+            }
+            else if(x == 7)
+            {
+                Console.WriteLine("Saturday");
             }
             else
             {
-                Console.WriteLine("Character is not alphabet");
+                Console.WriteLine("Invalid Input");
             }
             Console.ReadLine();
         }
