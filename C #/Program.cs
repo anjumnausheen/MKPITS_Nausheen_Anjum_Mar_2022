@@ -4,18 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Addition
+namespace Subtraction
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             int x, y, z;
-            Console.WriteLine("Enter 2 numbers");
+            Console.WriteLine("Enter 2 no");
             x = Convert.ToInt32(Console.ReadLine());
             y = Convert.ToInt32(Console.ReadLine());
-            z = x + y;
-            Console.WriteLine("Addition=" + z);
+            z = x - y;
+            Console.WriteLine("Subtraction =" + z);
             Console.ReadLine();
         }
     }
