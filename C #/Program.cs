@@ -4,21 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Star_pattern
+namespace Module_operator
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int i, j;
-            for(i=1;i<=5;i++)
-            {
-                for(j=1;j<=5;j++)
-                {
-                    Console.Write(" * ");
-                }
-                Console.WriteLine( );
-            }
+            int x = 17, y = 7;
+            int z = x % y;
+            Console.WriteLine(z);
             Console.ReadLine();
         }
     }
