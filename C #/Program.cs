@@ -4,26 +4,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program_alpabet_digit_special_character
+namespace Program_uppercase_lowercase_alphabet
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             char ch;
-            Console.WriteLine("Enter any character:");
-            ch = Convert.ToChar(Console.ReadLine());
-            if(ch>='A' && ch<='Z' || ch>='a' && ch<='z' )
+            Console.WriteLine("Enter any character");
+            ch =Convert.ToChar(Console.ReadLine());
+            if(ch>='A' && ch<='Z') 
             {
-                Console.WriteLine("Character is alphabet");
+                Console.WriteLine("Character is uppercase alphabet");
             }
-            else if(ch>='0' && ch<='9')
+            else if(ch>='a' && ch<='z')
             {
-                Console.WriteLine("Character is number");
+                Console.WriteLine("Character is lowercase alphabet");
             }
             else
             {
-                Console.WriteLine("Character is special character");
+                Console.WriteLine("Character is not alphabet");
             }
             Console.ReadLine();
         }
