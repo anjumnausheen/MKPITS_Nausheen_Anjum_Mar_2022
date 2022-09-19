@@ -4,15 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unary_post_decrement
+namespace Addition
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int x = 2, y;
-            y = x--;
-            Console.WriteLine("x=" + x + " y=" + y);
+            int x, y, z;
+            Console.WriteLine("Enter 2 numbers");
+            x = Convert.ToInt32(Console.ReadLine());
+            y = Convert.ToInt32(Console.ReadLine());
+            z = x + y;
+            Console.WriteLine("Addition=" + z);
             Console.ReadLine();
         }
     }
