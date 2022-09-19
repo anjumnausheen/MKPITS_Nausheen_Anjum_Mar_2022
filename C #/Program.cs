@@ -4,32 +4,27 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program_divisible_notdivisible
+namespace Program_if_else7
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int x;
-            Console.WriteLine("Enter a number:");
-            x = Convert.ToInt32(Console.ReadLine());
-            if (x % 5 == 0)
+            char x;
+            Console.WriteLine("Enter a character");
+            x = Convert.ToChar(Console.ReadLine());
+            if(x>='A' && x <= 'z')
             {
-                Console.WriteLine("Number is  divisible by 5 ");
+                Console.WriteLine("It is alphabet");
+            }
+            else if(x>='a' && x<='z')
+                {
+                Console.WriteLine("It is  alphabet");
             }
             else
             {
-                Console.WriteLine("Number is not divisible by 5 ");
+                Console.WriteLine("It is not alphabet");
             }
-            if (x % 11 == 0) 
-            {
-                Console.WriteLine("Number is divisible by 11");
-            }
-            else
-            {
-                Console.WriteLine("Number is not divisible by 11");
-            }
-
             Console.ReadLine();
         }
     }
