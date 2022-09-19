@@ -4,30 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pro_33_student_name
+namespace Program_If3
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string[] name = new string[5];
-
-
-            for (int i = 0; i < 5; i++)
+            int x, y;
+            Console.WriteLine("Enter 2 number");
+            x = Convert.ToInt32(Console.ReadLine());
+            y = Convert.ToInt32(Console.ReadLine());
+            if (x>y)
             {
-                Console.Write("Enter Student Name :");
-                name[i] = Console.ReadLine();
-
-
-
+                Console.WriteLine("x is greater");
             }
-            Console.WriteLine();
-            for (int i = 0; i < 5; i++)
+            else
             {
-                Console.WriteLine("\n" + name[i]);
+                Console.WriteLine("y is greater");
             }
-
-
             Console.ReadLine();
         }
     }
