@@ -4,27 +4,28 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program_if4
+namespace Program_if6_ladder
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int x, y;
-            Console.WriteLine("Enter 2 number:");
+            int x, y, z;
+            Console.WriteLine("Enter 3 number:");
             x = Convert.ToInt32(Console.ReadLine());
             y = Convert.ToInt32(Console.ReadLine());
-            if (x < y)
+            z = Convert.ToInt32(Console.ReadLine());
+            if(x>y && x > z)
             {
-                Console.WriteLine("X is smaller");
+                Console.WriteLine("x is greater");
+            }else if(y>x && y>z){
+                Console.WriteLine("y is greater");
             }
             else
             {
-                Console.WriteLine("y is smaller");
+                Console.WriteLine("z is greater");
             }
             Console.ReadLine();
-
         }
     }
 }
-
