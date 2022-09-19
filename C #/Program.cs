@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unary_pre_increment
+namespace Unary_post_decrement
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             int x = 2, y;
-            y = ++x;
+            y = x--;
             Console.WriteLine("x=" + x + " y=" + y);
             Console.ReadLine();
         }
