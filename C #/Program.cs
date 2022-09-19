@@ -4,15 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unary_Decrement_Operator
+namespace Bitwise_operator
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int x = 2, y;
-            y = -x;
-            Console.WriteLine(" x=" + x + " y=" + y);
+            int x = 3, y = 5,z;
+            z = x & y;
+            Console.WriteLine(z);
+            z = x | y;
+            Console.WriteLine(z);
+            z = y >> 1;
+            Console.WriteLine(z);
+            z = y << 1;
+            Console.WriteLine(z);
             Console.ReadLine();
         }
     }
