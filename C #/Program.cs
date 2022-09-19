@@ -4,69 +4,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program_monthno_no_of_days
+namespace Program_angles_triangles
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int x;
-            Console.WriteLine("Enter any number:");
+            int x, y, z ,t;
+            Console.WriteLine("Enter any 3 number:");
             x = Convert.ToInt32(Console.ReadLine());
-
-            if(x == 1) 
+            y = Convert.ToInt32(Console.ReadLine());
+            z= Convert.ToInt32(Console.ReadLine());
+            t = x + y + z;
+            if (t == 180)
             {
-                Console.WriteLine("January 31 days");
+                Console.WriteLine("Triangle is valid");
             }
-            else if(x == 2) 
+            else
             {
-                Console.WriteLine("February 28 days");
-            }
-            else if(x == 3)
-            {
-                Console.WriteLine("March 31 days");
-            }
-            else if(x == 4)
-            {
-                Console.WriteLine("April 30 days");
-            }
-            else if(x == 5)
-            {
-                Console.WriteLine("May 31 days");
-            }
-            else if(x == 6)
-            {
-                Console.WriteLine("June 30 days");
-            }
-            else if(x == 7)
-            {
-                Console.WriteLine("July 31 days");
-            }
-            else if(x == 8)
-            {
-                Console.WriteLine("August 31 days");
-            }
-            else if(x == 9)
-            {
-                Console.WriteLine("September 30 days ");
-            }
-            else if( x == 10)
-            {
-                Console.WriteLine("October 31 days");
-            }
-            else if(x == 11)
-            {
-                Console.WriteLine("November 30 days");
-            }
-            else if(x == 12)
-            {
-                Console.WriteLine("December 31 days");
-            }
-            else 
-            {
-                Console.WriteLine("Invalid Input");
+                Console.WriteLine("Triangle is invalid");
             }
             Console.ReadLine();
+
+
         }
     }
 }
