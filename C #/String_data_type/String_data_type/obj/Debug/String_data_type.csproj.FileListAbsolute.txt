@@ -1,0 +1,8 @@
+D:\Console App Classes\String_data_type\String_data_type\bin\Debug\String_data_type.exe.config
+D:\Console App Classes\String_data_type\String_data_type\bin\Debug\String_data_type.exe
+D:\Console App Classes\String_data_type\String_data_type\bin\Debug\String_data_type.pdb
+D:\Console App Classes\String_data_type\String_data_type\obj\Debug\String_data_type.csproj.AssemblyReference.cache
+D:\Console App Classes\String_data_type\String_data_type\obj\Debug\String_data_type.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\String_data_type\String_data_type\obj\Debug\String_data_type.csproj.CoreCompileInputs.cache
+D:\Console App Classes\String_data_type\String_data_type\obj\Debug\String_data_type.exe
+D:\Console App Classes\String_data_type\String_data_type\obj\Debug\String_data_type.pdb

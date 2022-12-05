@@ -1,0 +1,8 @@
+D:\Console App Classes\Array_1d_largest_element\Array_1d_largest_element\obj\Debug\Array_1d_largest_element.csproj.AssemblyReference.cache
+D:\Console App Classes\Array_1d_largest_element\Array_1d_largest_element\obj\Debug\Array_1d_largest_element.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Array_1d_largest_element\Array_1d_largest_element\obj\Debug\Array_1d_largest_element.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Array_1d_largest_element\Array_1d_largest_element\bin\Debug\Array_1d_largest_element.exe.config
+D:\Console App Classes\Array_1d_largest_element\Array_1d_largest_element\bin\Debug\Array_1d_largest_element.exe
+D:\Console App Classes\Array_1d_largest_element\Array_1d_largest_element\bin\Debug\Array_1d_largest_element.pdb
+D:\Console App Classes\Array_1d_largest_element\Array_1d_largest_element\obj\Debug\Array_1d_largest_element.exe
+D:\Console App Classes\Array_1d_largest_element\Array_1d_largest_element\obj\Debug\Array_1d_largest_element.pdb

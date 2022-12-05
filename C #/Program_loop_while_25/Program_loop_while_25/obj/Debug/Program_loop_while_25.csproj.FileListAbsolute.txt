@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loop_while_25\Program_loop_while_25\bin\Debug\Program_loop_while_25.exe.config
+D:\Console App Classes\Program_loop_while_25\Program_loop_while_25\bin\Debug\Program_loop_while_25.exe
+D:\Console App Classes\Program_loop_while_25\Program_loop_while_25\bin\Debug\Program_loop_while_25.pdb
+D:\Console App Classes\Program_loop_while_25\Program_loop_while_25\obj\Debug\Program_loop_while_25.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loop_while_25\Program_loop_while_25\obj\Debug\Program_loop_while_25.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loop_while_25\Program_loop_while_25\obj\Debug\Program_loop_while_25.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loop_while_25\Program_loop_while_25\obj\Debug\Program_loop_while_25.exe
+D:\Console App Classes\Program_loop_while_25\Program_loop_while_25\obj\Debug\Program_loop_while_25.pdb

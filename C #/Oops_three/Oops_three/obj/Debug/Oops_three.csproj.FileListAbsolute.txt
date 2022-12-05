@@ -1,0 +1,8 @@
+D:\Console App Classes\Oops_three\Oops_three\bin\Debug\Oops_three.exe.config
+D:\Console App Classes\Oops_three\Oops_three\bin\Debug\Oops_three.exe
+D:\Console App Classes\Oops_three\Oops_three\bin\Debug\Oops_three.pdb
+D:\Console App Classes\Oops_three\Oops_three\obj\Debug\Oops_three.csproj.AssemblyReference.cache
+D:\Console App Classes\Oops_three\Oops_three\obj\Debug\Oops_three.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Oops_three\Oops_three\obj\Debug\Oops_three.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Oops_three\Oops_three\obj\Debug\Oops_three.exe
+D:\Console App Classes\Oops_three\Oops_three\obj\Debug\Oops_three.pdb

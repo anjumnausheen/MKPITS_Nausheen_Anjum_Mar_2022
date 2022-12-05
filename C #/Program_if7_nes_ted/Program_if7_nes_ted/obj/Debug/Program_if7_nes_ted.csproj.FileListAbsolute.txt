@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_if7_nes_ted\Program_if7_nes_ted\bin\Debug\Program_if7_nes_ted.exe.config
+D:\Console App Classes\Program_if7_nes_ted\Program_if7_nes_ted\bin\Debug\Program_if7_nes_ted.exe
+D:\Console App Classes\Program_if7_nes_ted\Program_if7_nes_ted\bin\Debug\Program_if7_nes_ted.pdb
+D:\Console App Classes\Program_if7_nes_ted\Program_if7_nes_ted\obj\Debug\Program_if7_nes_ted.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_if7_nes_ted\Program_if7_nes_ted\obj\Debug\Program_if7_nes_ted.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_if7_nes_ted\Program_if7_nes_ted\obj\Debug\Program_if7_nes_ted.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_if7_nes_ted\Program_if7_nes_ted\obj\Debug\Program_if7_nes_ted.exe
+D:\Console App Classes\Program_if7_nes_ted\Program_if7_nes_ted\obj\Debug\Program_if7_nes_ted.pdb

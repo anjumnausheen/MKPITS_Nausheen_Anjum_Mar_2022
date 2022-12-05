@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_ifone\Program_ifone\bin\Debug\Program_ifone.exe.config
+D:\Console App Classes\Program_ifone\Program_ifone\bin\Debug\Program_ifone.exe
+D:\Console App Classes\Program_ifone\Program_ifone\bin\Debug\Program_ifone.pdb
+D:\Console App Classes\Program_ifone\Program_ifone\obj\Debug\Program_ifone.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_ifone\Program_ifone\obj\Debug\Program_ifone.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_ifone\Program_ifone\obj\Debug\Program_ifone.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_ifone\Program_ifone\obj\Debug\Program_ifone.exe
+D:\Console App Classes\Program_ifone\Program_ifone\obj\Debug\Program_ifone.pdb

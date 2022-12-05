@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_1d_smallest_element", "Array_1d_smallest_element\Array_1d_smallest_element.csproj", "{AC2EB8A6-B63A-4422-8923-80F3945CEA5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2EB8A6-B63A-4422-8923-80F3945CEA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2EB8A6-B63A-4422-8923-80F3945CEA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2EB8A6-B63A-4422-8923-80F3945CEA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2EB8A6-B63A-4422-8923-80F3945CEA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2DC0B4E-762F-460B-B001-38B1F2E41CE4}
+	EndGlobalSection
+EndGlobal

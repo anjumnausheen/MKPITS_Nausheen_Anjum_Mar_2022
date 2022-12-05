@@ -1,0 +1,8 @@
+D:\Console App Classes\Operator_over_asmd\Operator_over_asmd\obj\Debug\Operator_over_asmd.csproj.AssemblyReference.cache
+D:\Console App Classes\Operator_over_asmd\Operator_over_asmd\obj\Debug\Operator_over_asmd.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Operator_over_asmd\Operator_over_asmd\obj\Debug\Operator_over_asmd.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Operator_over_asmd\Operator_over_asmd\bin\Debug\Operator_over_asmd.exe.config
+D:\Console App Classes\Operator_over_asmd\Operator_over_asmd\bin\Debug\Operator_over_asmd.exe
+D:\Console App Classes\Operator_over_asmd\Operator_over_asmd\bin\Debug\Operator_over_asmd.pdb
+D:\Console App Classes\Operator_over_asmd\Operator_over_asmd\obj\Debug\Operator_over_asmd.exe
+D:\Console App Classes\Operator_over_asmd\Operator_over_asmd\obj\Debug\Operator_over_asmd.pdb

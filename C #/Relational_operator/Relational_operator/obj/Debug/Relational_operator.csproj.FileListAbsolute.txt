@@ -1,0 +1,8 @@
+D:\Console App Classes\Relational_operator\Relational_operator\bin\Debug\Relational_operator.exe.config
+D:\Console App Classes\Relational_operator\Relational_operator\bin\Debug\Relational_operator.exe
+D:\Console App Classes\Relational_operator\Relational_operator\bin\Debug\Relational_operator.pdb
+D:\Console App Classes\Relational_operator\Relational_operator\obj\Debug\Relational_operator.csproj.AssemblyReference.cache
+D:\Console App Classes\Relational_operator\Relational_operator\obj\Debug\Relational_operator.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Relational_operator\Relational_operator\obj\Debug\Relational_operator.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Relational_operator\Relational_operator\obj\Debug\Relational_operator.exe
+D:\Console App Classes\Relational_operator\Relational_operator\obj\Debug\Relational_operator.pdb

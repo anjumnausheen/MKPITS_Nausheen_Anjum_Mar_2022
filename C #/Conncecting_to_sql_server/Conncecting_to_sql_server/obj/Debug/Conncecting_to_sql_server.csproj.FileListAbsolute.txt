@@ -1,0 +1,8 @@
+D:\Console App Classes\Conncecting_to_sql_server\Conncecting_to_sql_server\bin\Debug\Conncecting_to_sql_server.exe.config
+D:\Console App Classes\Conncecting_to_sql_server\Conncecting_to_sql_server\bin\Debug\Conncecting_to_sql_server.exe
+D:\Console App Classes\Conncecting_to_sql_server\Conncecting_to_sql_server\bin\Debug\Conncecting_to_sql_server.pdb
+D:\Console App Classes\Conncecting_to_sql_server\Conncecting_to_sql_server\obj\Debug\Conncecting_to_sql_server.csproj.AssemblyReference.cache
+D:\Console App Classes\Conncecting_to_sql_server\Conncecting_to_sql_server\obj\Debug\Conncecting_to_sql_server.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Conncecting_to_sql_server\Conncecting_to_sql_server\obj\Debug\Conncecting_to_sql_server.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Conncecting_to_sql_server\Conncecting_to_sql_server\obj\Debug\Conncecting_to_sql_server.exe
+D:\Console App Classes\Conncecting_to_sql_server\Conncecting_to_sql_server\obj\Debug\Conncecting_to_sql_server.pdb

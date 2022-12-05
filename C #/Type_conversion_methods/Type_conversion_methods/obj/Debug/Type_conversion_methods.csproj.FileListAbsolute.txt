@@ -1,0 +1,8 @@
+D:\Console App Classes\Type_conversion_methods\Type_conversion_methods\bin\Debug\Type_conversion_methods.exe.config
+D:\Console App Classes\Type_conversion_methods\Type_conversion_methods\bin\Debug\Type_conversion_methods.exe
+D:\Console App Classes\Type_conversion_methods\Type_conversion_methods\bin\Debug\Type_conversion_methods.pdb
+D:\Console App Classes\Type_conversion_methods\Type_conversion_methods\obj\Debug\Type_conversion_methods.csproj.AssemblyReference.cache
+D:\Console App Classes\Type_conversion_methods\Type_conversion_methods\obj\Debug\Type_conversion_methods.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Type_conversion_methods\Type_conversion_methods\obj\Debug\Type_conversion_methods.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Type_conversion_methods\Type_conversion_methods\obj\Debug\Type_conversion_methods.exe
+D:\Console App Classes\Type_conversion_methods\Type_conversion_methods\obj\Debug\Type_conversion_methods.pdb

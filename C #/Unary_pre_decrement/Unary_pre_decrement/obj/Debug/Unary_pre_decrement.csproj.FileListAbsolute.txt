@@ -1,0 +1,8 @@
+D:\Console App Classes\Unary_pre_decrement\Unary_pre_decrement\bin\Debug\Unary_pre_decrement.exe.config
+D:\Console App Classes\Unary_pre_decrement\Unary_pre_decrement\bin\Debug\Unary_pre_decrement.exe
+D:\Console App Classes\Unary_pre_decrement\Unary_pre_decrement\bin\Debug\Unary_pre_decrement.pdb
+D:\Console App Classes\Unary_pre_decrement\Unary_pre_decrement\obj\Debug\Unary_pre_decrement.csproj.AssemblyReference.cache
+D:\Console App Classes\Unary_pre_decrement\Unary_pre_decrement\obj\Debug\Unary_pre_decrement.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Unary_pre_decrement\Unary_pre_decrement\obj\Debug\Unary_pre_decrement.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Unary_pre_decrement\Unary_pre_decrement\obj\Debug\Unary_pre_decrement.exe
+D:\Console App Classes\Unary_pre_decrement\Unary_pre_decrement\obj\Debug\Unary_pre_decrement.pdb

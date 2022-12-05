@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loop_36_do\Program_loop_36_do\bin\Debug\Program_loop_36_do.exe.config
+D:\Console App Classes\Program_loop_36_do\Program_loop_36_do\bin\Debug\Program_loop_36_do.exe
+D:\Console App Classes\Program_loop_36_do\Program_loop_36_do\bin\Debug\Program_loop_36_do.pdb
+D:\Console App Classes\Program_loop_36_do\Program_loop_36_do\obj\Debug\Program_loop_36_do.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loop_36_do\Program_loop_36_do\obj\Debug\Program_loop_36_do.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loop_36_do\Program_loop_36_do\obj\Debug\Program_loop_36_do.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loop_36_do\Program_loop_36_do\obj\Debug\Program_loop_36_do.exe
+D:\Console App Classes\Program_loop_36_do\Program_loop_36_do\obj\Debug\Program_loop_36_do.pdb

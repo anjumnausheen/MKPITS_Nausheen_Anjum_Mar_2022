@@ -1,0 +1,8 @@
+D:\Console App Classes\Arrray_program_2d\Arrray_program_2d\obj\Debug\Arrray_program_2d.csproj.AssemblyReference.cache
+D:\Console App Classes\Arrray_program_2d\Arrray_program_2d\obj\Debug\Arrray_program_2d.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Arrray_program_2d\Arrray_program_2d\obj\Debug\Arrray_program_2d.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Arrray_program_2d\Arrray_program_2d\bin\Debug\Arrray_program_2d.exe.config
+D:\Console App Classes\Arrray_program_2d\Arrray_program_2d\bin\Debug\Arrray_program_2d.exe
+D:\Console App Classes\Arrray_program_2d\Arrray_program_2d\bin\Debug\Arrray_program_2d.pdb
+D:\Console App Classes\Arrray_program_2d\Arrray_program_2d\obj\Debug\Arrray_program_2d.exe
+D:\Console App Classes\Arrray_program_2d\Arrray_program_2d\obj\Debug\Arrray_program_2d.pdb

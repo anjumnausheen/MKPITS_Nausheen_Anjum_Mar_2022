@@ -1,0 +1,8 @@
+D:\Console App Classes\P_r_a_c_t_i_c_e\P_r_a_c_t_i_c_e\bin\Debug\P_r_a_c_t_i_c_e.exe.config
+D:\Console App Classes\P_r_a_c_t_i_c_e\P_r_a_c_t_i_c_e\bin\Debug\P_r_a_c_t_i_c_e.exe
+D:\Console App Classes\P_r_a_c_t_i_c_e\P_r_a_c_t_i_c_e\bin\Debug\P_r_a_c_t_i_c_e.pdb
+D:\Console App Classes\P_r_a_c_t_i_c_e\P_r_a_c_t_i_c_e\obj\Debug\P_r_a_c_t_i_c_e.csproj.AssemblyReference.cache
+D:\Console App Classes\P_r_a_c_t_i_c_e\P_r_a_c_t_i_c_e\obj\Debug\P_r_a_c_t_i_c_e.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\P_r_a_c_t_i_c_e\P_r_a_c_t_i_c_e\obj\Debug\P_r_a_c_t_i_c_e.csproj.CoreCompileInputs.cache
+D:\Console App Classes\P_r_a_c_t_i_c_e\P_r_a_c_t_i_c_e\obj\Debug\P_r_a_c_t_i_c_e.exe
+D:\Console App Classes\P_r_a_c_t_i_c_e\P_r_a_c_t_i_c_e\obj\Debug\P_r_a_c_t_i_c_e.pdb

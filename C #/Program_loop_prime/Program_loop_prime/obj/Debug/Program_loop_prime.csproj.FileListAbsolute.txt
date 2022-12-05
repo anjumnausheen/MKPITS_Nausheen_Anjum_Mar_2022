@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loop_prime\Program_loop_prime\bin\Debug\Program_loop_prime.exe.config
+D:\Console App Classes\Program_loop_prime\Program_loop_prime\bin\Debug\Program_loop_prime.exe
+D:\Console App Classes\Program_loop_prime\Program_loop_prime\bin\Debug\Program_loop_prime.pdb
+D:\Console App Classes\Program_loop_prime\Program_loop_prime\obj\Debug\Program_loop_prime.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loop_prime\Program_loop_prime\obj\Debug\Program_loop_prime.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loop_prime\Program_loop_prime\obj\Debug\Program_loop_prime.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loop_prime\Program_loop_prime\obj\Debug\Program_loop_prime.exe
+D:\Console App Classes\Program_loop_prime\Program_loop_prime\obj\Debug\Program_loop_prime.pdb

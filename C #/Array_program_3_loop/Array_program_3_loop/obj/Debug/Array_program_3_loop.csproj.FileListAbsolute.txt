@@ -1,0 +1,8 @@
+D:\Console App Classes\Array_program_3_loop\Array_program_3_loop\bin\Debug\Array_program_3_loop.exe.config
+D:\Console App Classes\Array_program_3_loop\Array_program_3_loop\bin\Debug\Array_program_3_loop.exe
+D:\Console App Classes\Array_program_3_loop\Array_program_3_loop\bin\Debug\Array_program_3_loop.pdb
+D:\Console App Classes\Array_program_3_loop\Array_program_3_loop\obj\Debug\Array_program_3_loop.csproj.AssemblyReference.cache
+D:\Console App Classes\Array_program_3_loop\Array_program_3_loop\obj\Debug\Array_program_3_loop.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Array_program_3_loop\Array_program_3_loop\obj\Debug\Array_program_3_loop.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Array_program_3_loop\Array_program_3_loop\obj\Debug\Array_program_3_loop.exe
+D:\Console App Classes\Array_program_3_loop\Array_program_3_loop\obj\Debug\Array_program_3_loop.pdb

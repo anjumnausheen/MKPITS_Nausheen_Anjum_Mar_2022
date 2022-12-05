@@ -1,0 +1,8 @@
+D:\Console App Classes\Identifiers\Identifiers\bin\Debug\Identifiers.exe.config
+D:\Console App Classes\Identifiers\Identifiers\bin\Debug\Identifiers.exe
+D:\Console App Classes\Identifiers\Identifiers\bin\Debug\Identifiers.pdb
+D:\Console App Classes\Identifiers\Identifiers\obj\Debug\Identifiers.csproj.AssemblyReference.cache
+D:\Console App Classes\Identifiers\Identifiers\obj\Debug\Identifiers.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Identifiers\Identifiers\obj\Debug\Identifiers.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Identifiers\Identifiers\obj\Debug\Identifiers.exe
+D:\Console App Classes\Identifiers\Identifiers\obj\Debug\Identifiers.pdb

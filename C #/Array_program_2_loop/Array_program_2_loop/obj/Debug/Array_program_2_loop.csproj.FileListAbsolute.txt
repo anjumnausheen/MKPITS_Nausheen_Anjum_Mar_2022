@@ -1,0 +1,8 @@
+D:\Console App Classes\Array_program_2_loop\Array_program_2_loop\bin\Debug\Array_program_2_loop.exe.config
+D:\Console App Classes\Array_program_2_loop\Array_program_2_loop\bin\Debug\Array_program_2_loop.exe
+D:\Console App Classes\Array_program_2_loop\Array_program_2_loop\bin\Debug\Array_program_2_loop.pdb
+D:\Console App Classes\Array_program_2_loop\Array_program_2_loop\obj\Debug\Array_program_2_loop.csproj.AssemblyReference.cache
+D:\Console App Classes\Array_program_2_loop\Array_program_2_loop\obj\Debug\Array_program_2_loop.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Array_program_2_loop\Array_program_2_loop\obj\Debug\Array_program_2_loop.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Array_program_2_loop\Array_program_2_loop\obj\Debug\Array_program_2_loop.exe
+D:\Console App Classes\Array_program_2_loop\Array_program_2_loop\obj\Debug\Array_program_2_loop.pdb

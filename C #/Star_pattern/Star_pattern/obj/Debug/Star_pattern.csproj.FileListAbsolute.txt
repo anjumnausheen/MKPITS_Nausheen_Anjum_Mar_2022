@@ -1,0 +1,8 @@
+D:\Console App Classes\Star_pattern\Star_pattern\bin\Debug\Star_pattern.exe.config
+D:\Console App Classes\Star_pattern\Star_pattern\bin\Debug\Star_pattern.exe
+D:\Console App Classes\Star_pattern\Star_pattern\bin\Debug\Star_pattern.pdb
+D:\Console App Classes\Star_pattern\Star_pattern\obj\Debug\Star_pattern.csproj.AssemblyReference.cache
+D:\Console App Classes\Star_pattern\Star_pattern\obj\Debug\Star_pattern.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Star_pattern\Star_pattern\obj\Debug\Star_pattern.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Star_pattern\Star_pattern\obj\Debug\Star_pattern.exe
+D:\Console App Classes\Star_pattern\Star_pattern\obj\Debug\Star_pattern.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\Multiple_parameters\Multiple_parameters\bin\Debug\Multiple_parameters.exe.config
+D:\Console App Classes\Multiple_parameters\Multiple_parameters\bin\Debug\Multiple_parameters.exe
+D:\Console App Classes\Multiple_parameters\Multiple_parameters\bin\Debug\Multiple_parameters.pdb
+D:\Console App Classes\Multiple_parameters\Multiple_parameters\obj\Debug\Multiple_parameters.csproj.AssemblyReference.cache
+D:\Console App Classes\Multiple_parameters\Multiple_parameters\obj\Debug\Multiple_parameters.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Multiple_parameters\Multiple_parameters\obj\Debug\Multiple_parameters.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Multiple_parameters\Multiple_parameters\obj\Debug\Multiple_parameters.exe
+D:\Console App Classes\Multiple_parameters\Multiple_parameters\obj\Debug\Multiple_parameters.pdb

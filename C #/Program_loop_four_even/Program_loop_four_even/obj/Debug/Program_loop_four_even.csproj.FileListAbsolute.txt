@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loop_four_even\Program_loop_four_even\bin\Debug\Program_loop_four_even.exe.config
+D:\Console App Classes\Program_loop_four_even\Program_loop_four_even\bin\Debug\Program_loop_four_even.exe
+D:\Console App Classes\Program_loop_four_even\Program_loop_four_even\bin\Debug\Program_loop_four_even.pdb
+D:\Console App Classes\Program_loop_four_even\Program_loop_four_even\obj\Debug\Program_loop_four_even.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loop_four_even\Program_loop_four_even\obj\Debug\Program_loop_four_even.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loop_four_even\Program_loop_four_even\obj\Debug\Program_loop_four_even.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loop_four_even\Program_loop_four_even\obj\Debug\Program_loop_four_even.exe
+D:\Console App Classes\Program_loop_four_even\Program_loop_four_even\obj\Debug\Program_loop_four_even.pdb

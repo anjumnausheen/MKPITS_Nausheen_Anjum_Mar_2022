@@ -1,0 +1,8 @@
+D:\Console App Classes\Exception2\Exception2\bin\Debug\Exception2.exe.config
+D:\Console App Classes\Exception2\Exception2\bin\Debug\Exception2.exe
+D:\Console App Classes\Exception2\Exception2\bin\Debug\Exception2.pdb
+D:\Console App Classes\Exception2\Exception2\obj\Debug\Exception2.csproj.AssemblyReference.cache
+D:\Console App Classes\Exception2\Exception2\obj\Debug\Exception2.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Exception2\Exception2\obj\Debug\Exception2.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Exception2\Exception2\obj\Debug\Exception2.exe
+D:\Console App Classes\Exception2\Exception2\obj\Debug\Exception2.pdb

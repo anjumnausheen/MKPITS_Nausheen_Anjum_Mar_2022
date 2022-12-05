@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loop_fifteen_d0\Program_loop_fifteen_d0\obj\Debug\Program_loop_fifteen_d0.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loop_fifteen_d0\Program_loop_fifteen_d0\obj\Debug\Program_loop_fifteen_d0.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loop_fifteen_d0\Program_loop_fifteen_d0\obj\Debug\Program_loop_fifteen_d0.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loop_fifteen_d0\Program_loop_fifteen_d0\bin\Debug\Program_loop_fifteen_d0.exe.config
+D:\Console App Classes\Program_loop_fifteen_d0\Program_loop_fifteen_d0\bin\Debug\Program_loop_fifteen_d0.exe
+D:\Console App Classes\Program_loop_fifteen_d0\Program_loop_fifteen_d0\bin\Debug\Program_loop_fifteen_d0.pdb
+D:\Console App Classes\Program_loop_fifteen_d0\Program_loop_fifteen_d0\obj\Debug\Program_loop_fifteen_d0.exe
+D:\Console App Classes\Program_loop_fifteen_d0\Program_loop_fifteen_d0\obj\Debug\Program_loop_fifteen_d0.pdb

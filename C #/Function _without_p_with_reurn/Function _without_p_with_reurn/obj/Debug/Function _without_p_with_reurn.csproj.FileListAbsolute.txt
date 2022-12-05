@@ -1,0 +1,8 @@
+D:\Console App Classes\Function _without_p_with_reurn\Function _without_p_with_reurn\bin\Debug\Function _without_p_with_reurn.exe.config
+D:\Console App Classes\Function _without_p_with_reurn\Function _without_p_with_reurn\bin\Debug\Function _without_p_with_reurn.exe
+D:\Console App Classes\Function _without_p_with_reurn\Function _without_p_with_reurn\bin\Debug\Function _without_p_with_reurn.pdb
+D:\Console App Classes\Function _without_p_with_reurn\Function _without_p_with_reurn\obj\Debug\Function _without_p_with_reurn.csproj.AssemblyReference.cache
+D:\Console App Classes\Function _without_p_with_reurn\Function _without_p_with_reurn\obj\Debug\Function _without_p_with_reurn.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Function _without_p_with_reurn\Function _without_p_with_reurn\obj\Debug\Function _without_p_with_reurn.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Function _without_p_with_reurn\Function _without_p_with_reurn\obj\Debug\Function _without_p_with_reurn.exe
+D:\Console App Classes\Function _without_p_with_reurn\Function _without_p_with_reurn\obj\Debug\Function _without_p_with_reurn.pdb

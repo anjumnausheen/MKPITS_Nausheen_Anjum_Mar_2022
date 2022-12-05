@@ -1,0 +1,8 @@
+D:\Console App Classes\Function_with_p_w_return\Function_with_p_w_return\bin\Debug\Function_with_p_w_return.exe.config
+D:\Console App Classes\Function_with_p_w_return\Function_with_p_w_return\bin\Debug\Function_with_p_w_return.exe
+D:\Console App Classes\Function_with_p_w_return\Function_with_p_w_return\bin\Debug\Function_with_p_w_return.pdb
+D:\Console App Classes\Function_with_p_w_return\Function_with_p_w_return\obj\Debug\Function_with_p_w_return.csproj.AssemblyReference.cache
+D:\Console App Classes\Function_with_p_w_return\Function_with_p_w_return\obj\Debug\Function_with_p_w_return.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Function_with_p_w_return\Function_with_p_w_return\obj\Debug\Function_with_p_w_return.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Function_with_p_w_return\Function_with_p_w_return\obj\Debug\Function_with_p_w_return.exe
+D:\Console App Classes\Function_with_p_w_return\Function_with_p_w_return\obj\Debug\Function_with_p_w_return.pdb

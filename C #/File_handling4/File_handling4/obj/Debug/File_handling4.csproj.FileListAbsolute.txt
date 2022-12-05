@@ -1,0 +1,8 @@
+D:\Console App Classes\File_handling4\File_handling4\bin\Debug\File_handling4.exe.config
+D:\Console App Classes\File_handling4\File_handling4\bin\Debug\File_handling4.exe
+D:\Console App Classes\File_handling4\File_handling4\bin\Debug\File_handling4.pdb
+D:\Console App Classes\File_handling4\File_handling4\obj\Debug\File_handling4.csproj.AssemblyReference.cache
+D:\Console App Classes\File_handling4\File_handling4\obj\Debug\File_handling4.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\File_handling4\File_handling4\obj\Debug\File_handling4.csproj.CoreCompileInputs.cache
+D:\Console App Classes\File_handling4\File_handling4\obj\Debug\File_handling4.exe
+D:\Console App Classes\File_handling4\File_handling4\obj\Debug\File_handling4.pdb

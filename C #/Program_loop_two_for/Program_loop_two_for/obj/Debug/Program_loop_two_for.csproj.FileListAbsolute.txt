@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loop_two_for\Program_loop_two_for\bin\Debug\Program_loop_two_for.exe.config
+D:\Console App Classes\Program_loop_two_for\Program_loop_two_for\bin\Debug\Program_loop_two_for.exe
+D:\Console App Classes\Program_loop_two_for\Program_loop_two_for\bin\Debug\Program_loop_two_for.pdb
+D:\Console App Classes\Program_loop_two_for\Program_loop_two_for\obj\Debug\Program_loop_two_for.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loop_two_for\Program_loop_two_for\obj\Debug\Program_loop_two_for.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loop_two_for\Program_loop_two_for\obj\Debug\Program_loop_two_for.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loop_two_for\Program_loop_two_for\obj\Debug\Program_loop_two_for.exe
+D:\Console App Classes\Program_loop_two_for\Program_loop_two_for\obj\Debug\Program_loop_two_for.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\Sealed_class\Sealed_class\obj\Debug\Sealed_class.csproj.AssemblyReference.cache
+D:\Console App Classes\Sealed_class\Sealed_class\obj\Debug\Sealed_class.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Sealed_class\Sealed_class\obj\Debug\Sealed_class.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Sealed_class\Sealed_class\bin\Debug\Sealed_class.exe.config
+D:\Console App Classes\Sealed_class\Sealed_class\bin\Debug\Sealed_class.exe
+D:\Console App Classes\Sealed_class\Sealed_class\bin\Debug\Sealed_class.pdb
+D:\Console App Classes\Sealed_class\Sealed_class\obj\Debug\Sealed_class.exe
+D:\Console App Classes\Sealed_class\Sealed_class\obj\Debug\Sealed_class.pdb

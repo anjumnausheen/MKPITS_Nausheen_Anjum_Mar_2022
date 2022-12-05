@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loop_27_do\Program_loop_27_do\bin\Debug\Program_loop_27_do.exe.config
+D:\Console App Classes\Program_loop_27_do\Program_loop_27_do\bin\Debug\Program_loop_27_do.exe
+D:\Console App Classes\Program_loop_27_do\Program_loop_27_do\bin\Debug\Program_loop_27_do.pdb
+D:\Console App Classes\Program_loop_27_do\Program_loop_27_do\obj\Debug\Program_loop_27_do.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loop_27_do\Program_loop_27_do\obj\Debug\Program_loop_27_do.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loop_27_do\Program_loop_27_do\obj\Debug\Program_loop_27_do.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loop_27_do\Program_loop_27_do\obj\Debug\Program_loop_27_do.exe
+D:\Console App Classes\Program_loop_27_do\Program_loop_27_do\obj\Debug\Program_loop_27_do.pdb

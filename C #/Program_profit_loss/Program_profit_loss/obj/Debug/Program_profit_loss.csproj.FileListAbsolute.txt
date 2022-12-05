@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_profit_loss\Program_profit_loss\bin\Debug\Program_profit_loss.exe.config
+D:\Console App Classes\Program_profit_loss\Program_profit_loss\bin\Debug\Program_profit_loss.exe
+D:\Console App Classes\Program_profit_loss\Program_profit_loss\bin\Debug\Program_profit_loss.pdb
+D:\Console App Classes\Program_profit_loss\Program_profit_loss\obj\Debug\Program_profit_loss.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_profit_loss\Program_profit_loss\obj\Debug\Program_profit_loss.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_profit_loss\Program_profit_loss\obj\Debug\Program_profit_loss.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_profit_loss\Program_profit_loss\obj\Debug\Program_profit_loss.exe
+D:\Console App Classes\Program_profit_loss\Program_profit_loss\obj\Debug\Program_profit_loss.pdb

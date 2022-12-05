@@ -1,0 +1,8 @@
+D:\Console App Classes\Static_variable\Static_variable\obj\Debug\Static_variable.csproj.AssemblyReference.cache
+D:\Console App Classes\Static_variable\Static_variable\obj\Debug\Static_variable.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Static_variable\Static_variable\obj\Debug\Static_variable.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Static_variable\Static_variable\bin\Debug\Static_variable.exe.config
+D:\Console App Classes\Static_variable\Static_variable\bin\Debug\Static_variable.exe
+D:\Console App Classes\Static_variable\Static_variable\bin\Debug\Static_variable.pdb
+D:\Console App Classes\Static_variable\Static_variable\obj\Debug\Static_variable.exe
+D:\Console App Classes\Static_variable\Static_variable\obj\Debug\Static_variable.pdb

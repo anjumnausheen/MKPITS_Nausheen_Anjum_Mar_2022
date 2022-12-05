@@ -1,0 +1,8 @@
+D:\Console App Classes\Bitwise_operator\Bitwise_operator\bin\Debug\Bitwise_operator.exe.config
+D:\Console App Classes\Bitwise_operator\Bitwise_operator\bin\Debug\Bitwise_operator.exe
+D:\Console App Classes\Bitwise_operator\Bitwise_operator\bin\Debug\Bitwise_operator.pdb
+D:\Console App Classes\Bitwise_operator\Bitwise_operator\obj\Debug\Bitwise_operator.csproj.AssemblyReference.cache
+D:\Console App Classes\Bitwise_operator\Bitwise_operator\obj\Debug\Bitwise_operator.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Bitwise_operator\Bitwise_operator\obj\Debug\Bitwise_operator.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Bitwise_operator\Bitwise_operator\obj\Debug\Bitwise_operator.exe
+D:\Console App Classes\Bitwise_operator\Bitwise_operator\obj\Debug\Bitwise_operator.pdb

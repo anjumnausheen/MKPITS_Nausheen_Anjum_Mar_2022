@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_vowel_consonant\Program_vowel_consonant\obj\Debug\Program_vowel_consonant.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_vowel_consonant\Program_vowel_consonant\obj\Debug\Program_vowel_consonant.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_vowel_consonant\Program_vowel_consonant\obj\Debug\Program_vowel_consonant.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_vowel_consonant\Program_vowel_consonant\bin\Debug\Program_vowel_consonant.exe.config
+D:\Console App Classes\Program_vowel_consonant\Program_vowel_consonant\bin\Debug\Program_vowel_consonant.exe
+D:\Console App Classes\Program_vowel_consonant\Program_vowel_consonant\bin\Debug\Program_vowel_consonant.pdb
+D:\Console App Classes\Program_vowel_consonant\Program_vowel_consonant\obj\Debug\Program_vowel_consonant.exe
+D:\Console App Classes\Program_vowel_consonant\Program_vowel_consonant\obj\Debug\Program_vowel_consonant.pdb

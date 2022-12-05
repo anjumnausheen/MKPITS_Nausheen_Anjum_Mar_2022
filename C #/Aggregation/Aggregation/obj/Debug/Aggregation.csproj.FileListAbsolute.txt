@@ -1,0 +1,8 @@
+D:\Console App Classes\Aggregation\Aggregation\bin\Debug\Aggregation.exe.config
+D:\Console App Classes\Aggregation\Aggregation\bin\Debug\Aggregation.exe
+D:\Console App Classes\Aggregation\Aggregation\bin\Debug\Aggregation.pdb
+D:\Console App Classes\Aggregation\Aggregation\obj\Debug\Aggregation.csproj.AssemblyReference.cache
+D:\Console App Classes\Aggregation\Aggregation\obj\Debug\Aggregation.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Aggregation\Aggregation\obj\Debug\Aggregation.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Aggregation\Aggregation\obj\Debug\Aggregation.exe
+D:\Console App Classes\Aggregation\Aggregation\obj\Debug\Aggregation.pdb

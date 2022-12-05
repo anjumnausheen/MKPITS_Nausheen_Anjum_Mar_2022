@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loop_ten_while\Program_loop_ten_while\bin\Debug\Program_loop_ten_while.exe.config
+D:\Console App Classes\Program_loop_ten_while\Program_loop_ten_while\bin\Debug\Program_loop_ten_while.exe
+D:\Console App Classes\Program_loop_ten_while\Program_loop_ten_while\bin\Debug\Program_loop_ten_while.pdb
+D:\Console App Classes\Program_loop_ten_while\Program_loop_ten_while\obj\Debug\Program_loop_ten_while.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loop_ten_while\Program_loop_ten_while\obj\Debug\Program_loop_ten_while.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loop_ten_while\Program_loop_ten_while\obj\Debug\Program_loop_ten_while.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loop_ten_while\Program_loop_ten_while\obj\Debug\Program_loop_ten_while.exe
+D:\Console App Classes\Program_loop_ten_while\Program_loop_ten_while\obj\Debug\Program_loop_ten_while.pdb

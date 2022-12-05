@@ -1,0 +1,8 @@
+D:\Console App Classes\Module_operator\Module_operator\bin\Debug\Module_operator.exe.config
+D:\Console App Classes\Module_operator\Module_operator\bin\Debug\Module_operator.exe
+D:\Console App Classes\Module_operator\Module_operator\bin\Debug\Module_operator.pdb
+D:\Console App Classes\Module_operator\Module_operator\obj\Debug\Module_operator.csproj.AssemblyReference.cache
+D:\Console App Classes\Module_operator\Module_operator\obj\Debug\Module_operator.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Module_operator\Module_operator\obj\Debug\Module_operator.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Module_operator\Module_operator\obj\Debug\Module_operator.exe
+D:\Console App Classes\Module_operator\Module_operator\obj\Debug\Module_operator.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loop_one\Program_loop_one\bin\Debug\Program_loop_one.exe.config
+D:\Console App Classes\Program_loop_one\Program_loop_one\bin\Debug\Program_loop_one.exe
+D:\Console App Classes\Program_loop_one\Program_loop_one\bin\Debug\Program_loop_one.pdb
+D:\Console App Classes\Program_loop_one\Program_loop_one\obj\Debug\Program_loop_one.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loop_one\Program_loop_one\obj\Debug\Program_loop_one.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loop_one\Program_loop_one\obj\Debug\Program_loop_one.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loop_one\Program_loop_one\obj\Debug\Program_loop_one.exe
+D:\Console App Classes\Program_loop_one\Program_loop_one\obj\Debug\Program_loop_one.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\Unary_Decrement_Operator\Unary_Decrement_Operator\bin\Debug\Unary_Decrement_Operator.exe.config
+D:\Console App Classes\Unary_Decrement_Operator\Unary_Decrement_Operator\bin\Debug\Unary_Decrement_Operator.exe
+D:\Console App Classes\Unary_Decrement_Operator\Unary_Decrement_Operator\bin\Debug\Unary_Decrement_Operator.pdb
+D:\Console App Classes\Unary_Decrement_Operator\Unary_Decrement_Operator\obj\Debug\Unary_Decrement_Operator.csproj.AssemblyReference.cache
+D:\Console App Classes\Unary_Decrement_Operator\Unary_Decrement_Operator\obj\Debug\Unary_Decrement_Operator.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Unary_Decrement_Operator\Unary_Decrement_Operator\obj\Debug\Unary_Decrement_Operator.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Unary_Decrement_Operator\Unary_Decrement_Operator\obj\Debug\Unary_Decrement_Operator.exe
+D:\Console App Classes\Unary_Decrement_Operator\Unary_Decrement_Operator\obj\Debug\Unary_Decrement_Operator.pdb

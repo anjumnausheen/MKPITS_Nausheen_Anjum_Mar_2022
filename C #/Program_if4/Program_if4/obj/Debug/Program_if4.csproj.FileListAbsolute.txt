@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_if4\Program_if4\bin\Debug\Program_if4.exe.config
+D:\Console App Classes\Program_if4\Program_if4\bin\Debug\Program_if4.exe
+D:\Console App Classes\Program_if4\Program_if4\bin\Debug\Program_if4.pdb
+D:\Console App Classes\Program_if4\Program_if4\obj\Debug\Program_if4.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_if4\Program_if4\obj\Debug\Program_if4.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_if4\Program_if4\obj\Debug\Program_if4.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_if4\Program_if4\obj\Debug\Program_if4.exe
+D:\Console App Classes\Program_if4\Program_if4\obj\Debug\Program_if4.pdb

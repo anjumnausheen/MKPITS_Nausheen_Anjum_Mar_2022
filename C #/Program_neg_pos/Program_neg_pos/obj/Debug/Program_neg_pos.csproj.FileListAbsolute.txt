@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_neg_pos\Program_neg_pos\bin\Debug\Program_neg_pos.exe.config
+D:\Console App Classes\Program_neg_pos\Program_neg_pos\bin\Debug\Program_neg_pos.exe
+D:\Console App Classes\Program_neg_pos\Program_neg_pos\bin\Debug\Program_neg_pos.pdb
+D:\Console App Classes\Program_neg_pos\Program_neg_pos\obj\Debug\Program_neg_pos.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_neg_pos\Program_neg_pos\obj\Debug\Program_neg_pos.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_neg_pos\Program_neg_pos\obj\Debug\Program_neg_pos.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_neg_pos\Program_neg_pos\obj\Debug\Program_neg_pos.exe
+D:\Console App Classes\Program_neg_pos\Program_neg_pos\obj\Debug\Program_neg_pos.pdb

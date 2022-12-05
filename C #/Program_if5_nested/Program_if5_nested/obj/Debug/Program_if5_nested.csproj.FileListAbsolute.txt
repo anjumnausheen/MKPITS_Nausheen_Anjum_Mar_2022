@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_if5_nested\Program_if5_nested\bin\Debug\Program_if5_nested.exe.config
+D:\Console App Classes\Program_if5_nested\Program_if5_nested\bin\Debug\Program_if5_nested.exe
+D:\Console App Classes\Program_if5_nested\Program_if5_nested\bin\Debug\Program_if5_nested.pdb
+D:\Console App Classes\Program_if5_nested\Program_if5_nested\obj\Debug\Program_if5_nested.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_if5_nested\Program_if5_nested\obj\Debug\Program_if5_nested.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_if5_nested\Program_if5_nested\obj\Debug\Program_if5_nested.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_if5_nested\Program_if5_nested\obj\Debug\Program_if5_nested.exe
+D:\Console App Classes\Program_if5_nested\Program_if5_nested\obj\Debug\Program_if5_nested.pdb

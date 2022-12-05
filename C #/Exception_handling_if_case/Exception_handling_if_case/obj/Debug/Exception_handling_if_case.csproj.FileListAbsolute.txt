@@ -1,0 +1,8 @@
+D:\Console App Classes\Exception_handling_if_case\Exception_handling_if_case\bin\Debug\Exception_handling_if_case.exe.config
+D:\Console App Classes\Exception_handling_if_case\Exception_handling_if_case\bin\Debug\Exception_handling_if_case.exe
+D:\Console App Classes\Exception_handling_if_case\Exception_handling_if_case\bin\Debug\Exception_handling_if_case.pdb
+D:\Console App Classes\Exception_handling_if_case\Exception_handling_if_case\obj\Debug\Exception_handling_if_case.csproj.AssemblyReference.cache
+D:\Console App Classes\Exception_handling_if_case\Exception_handling_if_case\obj\Debug\Exception_handling_if_case.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Exception_handling_if_case\Exception_handling_if_case\obj\Debug\Exception_handling_if_case.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Exception_handling_if_case\Exception_handling_if_case\obj\Debug\Exception_handling_if_case.exe
+D:\Console App Classes\Exception_handling_if_case\Exception_handling_if_case\obj\Debug\Exception_handling_if_case.pdb

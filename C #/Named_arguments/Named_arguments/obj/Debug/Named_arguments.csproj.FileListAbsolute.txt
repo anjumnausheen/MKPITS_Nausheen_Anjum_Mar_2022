@@ -1,0 +1,8 @@
+D:\Console App Classes\Named_arguments\Named_arguments\bin\Debug\Named_arguments.exe.config
+D:\Console App Classes\Named_arguments\Named_arguments\bin\Debug\Named_arguments.exe
+D:\Console App Classes\Named_arguments\Named_arguments\bin\Debug\Named_arguments.pdb
+D:\Console App Classes\Named_arguments\Named_arguments\obj\Debug\Named_arguments.csproj.AssemblyReference.cache
+D:\Console App Classes\Named_arguments\Named_arguments\obj\Debug\Named_arguments.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Named_arguments\Named_arguments\obj\Debug\Named_arguments.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Named_arguments\Named_arguments\obj\Debug\Named_arguments.exe
+D:\Console App Classes\Named_arguments\Named_arguments\obj\Debug\Named_arguments.pdb

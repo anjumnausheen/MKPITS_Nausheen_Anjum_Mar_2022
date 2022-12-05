@@ -1,0 +1,8 @@
+D:\Console App Classes\File_handling5\File_handling5\bin\Debug\File_handling5.exe.config
+D:\Console App Classes\File_handling5\File_handling5\bin\Debug\File_handling5.exe
+D:\Console App Classes\File_handling5\File_handling5\bin\Debug\File_handling5.pdb
+D:\Console App Classes\File_handling5\File_handling5\obj\Debug\File_handling5.csproj.AssemblyReference.cache
+D:\Console App Classes\File_handling5\File_handling5\obj\Debug\File_handling5.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\File_handling5\File_handling5\obj\Debug\File_handling5.csproj.CoreCompileInputs.cache
+D:\Console App Classes\File_handling5\File_handling5\obj\Debug\File_handling5.exe
+D:\Console App Classes\File_handling5\File_handling5\obj\Debug\File_handling5.pdb

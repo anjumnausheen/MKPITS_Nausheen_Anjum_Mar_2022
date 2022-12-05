@@ -1,0 +1,3 @@
+D:\Console App Classes\Program_const\Program_const\obj\Debug\Program_const.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_const\Program_const\obj\Debug\Program_const.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_const\Program_const\obj\Debug\Program_const.csproj.CoreCompileInputs.cache

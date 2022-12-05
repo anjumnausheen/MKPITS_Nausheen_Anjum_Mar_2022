@@ -1,0 +1,8 @@
+D:\Console App Classes\Sql_connection_five\Sql_connection_five\bin\Debug\Sql_connection_five.exe.config
+D:\Console App Classes\Sql_connection_five\Sql_connection_five\bin\Debug\Sql_connection_five.exe
+D:\Console App Classes\Sql_connection_five\Sql_connection_five\bin\Debug\Sql_connection_five.pdb
+D:\Console App Classes\Sql_connection_five\Sql_connection_five\obj\Debug\Sql_connection_five.csproj.AssemblyReference.cache
+D:\Console App Classes\Sql_connection_five\Sql_connection_five\obj\Debug\Sql_connection_five.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Sql_connection_five\Sql_connection_five\obj\Debug\Sql_connection_five.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Sql_connection_five\Sql_connection_five\obj\Debug\Sql_connection_five.exe
+D:\Console App Classes\Sql_connection_five\Sql_connection_five\obj\Debug\Sql_connection_five.pdb

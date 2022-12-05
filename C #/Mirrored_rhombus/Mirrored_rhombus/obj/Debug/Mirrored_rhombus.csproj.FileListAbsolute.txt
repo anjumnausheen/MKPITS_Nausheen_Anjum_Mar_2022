@@ -1,0 +1,8 @@
+D:\Console App Classes\Mirrored_rhombus\Mirrored_rhombus\bin\Debug\Mirrored_rhombus.exe.config
+D:\Console App Classes\Mirrored_rhombus\Mirrored_rhombus\bin\Debug\Mirrored_rhombus.exe
+D:\Console App Classes\Mirrored_rhombus\Mirrored_rhombus\bin\Debug\Mirrored_rhombus.pdb
+D:\Console App Classes\Mirrored_rhombus\Mirrored_rhombus\obj\Debug\Mirrored_rhombus.csproj.AssemblyReference.cache
+D:\Console App Classes\Mirrored_rhombus\Mirrored_rhombus\obj\Debug\Mirrored_rhombus.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Mirrored_rhombus\Mirrored_rhombus\obj\Debug\Mirrored_rhombus.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Mirrored_rhombus\Mirrored_rhombus\obj\Debug\Mirrored_rhombus.exe
+D:\Console App Classes\Mirrored_rhombus\Mirrored_rhombus\obj\Debug\Mirrored_rhombus.pdb

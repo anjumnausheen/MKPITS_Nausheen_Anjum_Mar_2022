@@ -1,0 +1,8 @@
+D:\Console App Classes\Hollow_inverted_pyramid\Hollow_inverted_pyramid\bin\Debug\Hollow_inverted_pyramid.exe.config
+D:\Console App Classes\Hollow_inverted_pyramid\Hollow_inverted_pyramid\bin\Debug\Hollow_inverted_pyramid.exe
+D:\Console App Classes\Hollow_inverted_pyramid\Hollow_inverted_pyramid\bin\Debug\Hollow_inverted_pyramid.pdb
+D:\Console App Classes\Hollow_inverted_pyramid\Hollow_inverted_pyramid\obj\Debug\Hollow_inverted_pyramid.csproj.AssemblyReference.cache
+D:\Console App Classes\Hollow_inverted_pyramid\Hollow_inverted_pyramid\obj\Debug\Hollow_inverted_pyramid.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Hollow_inverted_pyramid\Hollow_inverted_pyramid\obj\Debug\Hollow_inverted_pyramid.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Hollow_inverted_pyramid\Hollow_inverted_pyramid\obj\Debug\Hollow_inverted_pyramid.exe
+D:\Console App Classes\Hollow_inverted_pyramid\Hollow_inverted_pyramid\obj\Debug\Hollow_inverted_pyramid.pdb

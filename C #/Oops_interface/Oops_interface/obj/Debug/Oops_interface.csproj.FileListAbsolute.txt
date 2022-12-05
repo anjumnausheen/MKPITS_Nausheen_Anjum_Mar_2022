@@ -1,0 +1,8 @@
+D:\Console App Classes\Oops_interface\Oops_interface\bin\Debug\Oops_interface.exe.config
+D:\Console App Classes\Oops_interface\Oops_interface\bin\Debug\Oops_interface.exe
+D:\Console App Classes\Oops_interface\Oops_interface\bin\Debug\Oops_interface.pdb
+D:\Console App Classes\Oops_interface\Oops_interface\obj\Debug\Oops_interface.csproj.AssemblyReference.cache
+D:\Console App Classes\Oops_interface\Oops_interface\obj\Debug\Oops_interface.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Oops_interface\Oops_interface\obj\Debug\Oops_interface.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Oops_interface\Oops_interface\obj\Debug\Oops_interface.exe
+D:\Console App Classes\Oops_interface\Oops_interface\obj\Debug\Oops_interface.pdb

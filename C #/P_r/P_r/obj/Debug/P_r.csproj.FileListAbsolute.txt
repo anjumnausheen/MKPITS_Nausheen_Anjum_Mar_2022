@@ -1,0 +1,8 @@
+D:\Console App Classes\P_r\P_r\bin\Debug\P_r.exe.config
+D:\Console App Classes\P_r\P_r\bin\Debug\P_r.exe
+D:\Console App Classes\P_r\P_r\bin\Debug\P_r.pdb
+D:\Console App Classes\P_r\P_r\obj\Debug\P_r.csproj.AssemblyReference.cache
+D:\Console App Classes\P_r\P_r\obj\Debug\P_r.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\P_r\P_r\obj\Debug\P_r.csproj.CoreCompileInputs.cache
+D:\Console App Classes\P_r\P_r\obj\Debug\P_r.exe
+D:\Console App Classes\P_r\P_r\obj\Debug\P_r.pdb

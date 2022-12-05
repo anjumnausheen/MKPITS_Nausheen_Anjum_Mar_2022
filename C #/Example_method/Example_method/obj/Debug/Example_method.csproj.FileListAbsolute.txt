@@ -1,0 +1,8 @@
+D:\Console App Classes\Example_method\Example_method\bin\Debug\Example_method.exe.config
+D:\Console App Classes\Example_method\Example_method\bin\Debug\Example_method.exe
+D:\Console App Classes\Example_method\Example_method\bin\Debug\Example_method.pdb
+D:\Console App Classes\Example_method\Example_method\obj\Debug\Example_method.csproj.AssemblyReference.cache
+D:\Console App Classes\Example_method\Example_method\obj\Debug\Example_method.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Example_method\Example_method\obj\Debug\Example_method.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Example_method\Example_method\obj\Debug\Example_method.exe
+D:\Console App Classes\Example_method\Example_method\obj\Debug\Example_method.pdb

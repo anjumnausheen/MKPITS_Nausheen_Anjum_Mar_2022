@@ -1,0 +1,8 @@
+D:\Console App Classes\Nested_namespaces\Nested_namespaces\bin\Debug\Nested_namespaces.exe.config
+D:\Console App Classes\Nested_namespaces\Nested_namespaces\bin\Debug\Nested_namespaces.exe
+D:\Console App Classes\Nested_namespaces\Nested_namespaces\bin\Debug\Nested_namespaces.pdb
+D:\Console App Classes\Nested_namespaces\Nested_namespaces\obj\Debug\Nested_namespaces.csproj.AssemblyReference.cache
+D:\Console App Classes\Nested_namespaces\Nested_namespaces\obj\Debug\Nested_namespaces.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Nested_namespaces\Nested_namespaces\obj\Debug\Nested_namespaces.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Nested_namespaces\Nested_namespaces\obj\Debug\Nested_namespaces.exe
+D:\Console App Classes\Nested_namespaces\Nested_namespaces\obj\Debug\Nested_namespaces.pdb

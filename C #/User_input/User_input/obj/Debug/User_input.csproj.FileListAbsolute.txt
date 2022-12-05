@@ -1,0 +1,8 @@
+D:\Console App Classes\User_input\User_input\bin\Debug\User_input.exe.config
+D:\Console App Classes\User_input\User_input\bin\Debug\User_input.exe
+D:\Console App Classes\User_input\User_input\bin\Debug\User_input.pdb
+D:\Console App Classes\User_input\User_input\obj\Debug\User_input.csproj.AssemblyReference.cache
+D:\Console App Classes\User_input\User_input\obj\Debug\User_input.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\User_input\User_input\obj\Debug\User_input.csproj.CoreCompileInputs.cache
+D:\Console App Classes\User_input\User_input\obj\Debug\User_input.exe
+D:\Console App Classes\User_input\User_input\obj\Debug\User_input.pdb

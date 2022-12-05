@@ -1,0 +1,8 @@
+D:\Console App Classes\Oops_six_inheritance_Multiple\Oops_six_inheritance_Multiple\bin\Debug\Oops_six_inheritance_Multiple.exe.config
+D:\Console App Classes\Oops_six_inheritance_Multiple\Oops_six_inheritance_Multiple\bin\Debug\Oops_six_inheritance_Multiple.exe
+D:\Console App Classes\Oops_six_inheritance_Multiple\Oops_six_inheritance_Multiple\bin\Debug\Oops_six_inheritance_Multiple.pdb
+D:\Console App Classes\Oops_six_inheritance_Multiple\Oops_six_inheritance_Multiple\obj\Debug\Oops_six_inheritance_Multiple.csproj.AssemblyReference.cache
+D:\Console App Classes\Oops_six_inheritance_Multiple\Oops_six_inheritance_Multiple\obj\Debug\Oops_six_inheritance_Multiple.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Oops_six_inheritance_Multiple\Oops_six_inheritance_Multiple\obj\Debug\Oops_six_inheritance_Multiple.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Oops_six_inheritance_Multiple\Oops_six_inheritance_Multiple\obj\Debug\Oops_six_inheritance_Multiple.exe
+D:\Console App Classes\Oops_six_inheritance_Multiple\Oops_six_inheritance_Multiple\obj\Debug\Oops_six_inheritance_Multiple.pdb

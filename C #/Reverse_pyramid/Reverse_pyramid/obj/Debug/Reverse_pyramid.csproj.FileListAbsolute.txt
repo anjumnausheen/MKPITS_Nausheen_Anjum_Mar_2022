@@ -1,0 +1,8 @@
+D:\Console App Classes\Reverse_pyramid\Reverse_pyramid\bin\Debug\Reverse_pyramid.exe.config
+D:\Console App Classes\Reverse_pyramid\Reverse_pyramid\bin\Debug\Reverse_pyramid.exe
+D:\Console App Classes\Reverse_pyramid\Reverse_pyramid\bin\Debug\Reverse_pyramid.pdb
+D:\Console App Classes\Reverse_pyramid\Reverse_pyramid\obj\Debug\Reverse_pyramid.csproj.AssemblyReference.cache
+D:\Console App Classes\Reverse_pyramid\Reverse_pyramid\obj\Debug\Reverse_pyramid.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Reverse_pyramid\Reverse_pyramid\obj\Debug\Reverse_pyramid.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Reverse_pyramid\Reverse_pyramid\obj\Debug\Reverse_pyramid.exe
+D:\Console App Classes\Reverse_pyramid\Reverse_pyramid\obj\Debug\Reverse_pyramid.pdb

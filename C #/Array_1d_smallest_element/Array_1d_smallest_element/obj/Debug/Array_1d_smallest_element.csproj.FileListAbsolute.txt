@@ -1,0 +1,8 @@
+D:\Console App Classes\Array_1d_smallest_element\Array_1d_smallest_element\bin\Debug\Array_1d_smallest_element.exe.config
+D:\Console App Classes\Array_1d_smallest_element\Array_1d_smallest_element\bin\Debug\Array_1d_smallest_element.exe
+D:\Console App Classes\Array_1d_smallest_element\Array_1d_smallest_element\bin\Debug\Array_1d_smallest_element.pdb
+D:\Console App Classes\Array_1d_smallest_element\Array_1d_smallest_element\obj\Debug\Array_1d_smallest_element.csproj.AssemblyReference.cache
+D:\Console App Classes\Array_1d_smallest_element\Array_1d_smallest_element\obj\Debug\Array_1d_smallest_element.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Array_1d_smallest_element\Array_1d_smallest_element\obj\Debug\Array_1d_smallest_element.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Array_1d_smallest_element\Array_1d_smallest_element\obj\Debug\Array_1d_smallest_element.exe
+D:\Console App Classes\Array_1d_smallest_element\Array_1d_smallest_element\obj\Debug\Array_1d_smallest_element.pdb

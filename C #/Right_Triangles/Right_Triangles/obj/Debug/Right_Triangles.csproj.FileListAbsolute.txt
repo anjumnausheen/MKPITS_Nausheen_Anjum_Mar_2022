@@ -1,0 +1,8 @@
+D:\Console App Classes\Right_Triangles\Right_Triangles\bin\Debug\Right_Triangles.exe.config
+D:\Console App Classes\Right_Triangles\Right_Triangles\bin\Debug\Right_Triangles.exe
+D:\Console App Classes\Right_Triangles\Right_Triangles\bin\Debug\Right_Triangles.pdb
+D:\Console App Classes\Right_Triangles\Right_Triangles\obj\Debug\Right_Triangles.csproj.AssemblyReference.cache
+D:\Console App Classes\Right_Triangles\Right_Triangles\obj\Debug\Right_Triangles.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Right_Triangles\Right_Triangles\obj\Debug\Right_Triangles.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Right_Triangles\Right_Triangles\obj\Debug\Right_Triangles.exe
+D:\Console App Classes\Right_Triangles\Right_Triangles\obj\Debug\Right_Triangles.pdb

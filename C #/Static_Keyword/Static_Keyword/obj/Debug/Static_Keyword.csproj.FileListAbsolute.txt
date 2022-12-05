@@ -1,0 +1,8 @@
+D:\Console App Classes\Static_Keyword\Static_Keyword\bin\Debug\Static_Keyword.exe.config
+D:\Console App Classes\Static_Keyword\Static_Keyword\bin\Debug\Static_Keyword.exe
+D:\Console App Classes\Static_Keyword\Static_Keyword\bin\Debug\Static_Keyword.pdb
+D:\Console App Classes\Static_Keyword\Static_Keyword\obj\Debug\Static_Keyword.csproj.AssemblyReference.cache
+D:\Console App Classes\Static_Keyword\Static_Keyword\obj\Debug\Static_Keyword.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Static_Keyword\Static_Keyword\obj\Debug\Static_Keyword.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Static_Keyword\Static_Keyword\obj\Debug\Static_Keyword.exe
+D:\Console App Classes\Static_Keyword\Static_Keyword\obj\Debug\Static_Keyword.pdb

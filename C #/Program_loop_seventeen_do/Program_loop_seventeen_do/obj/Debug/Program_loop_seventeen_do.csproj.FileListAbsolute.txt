@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loop_seventeen_do\Program_loop_seventeen_do\bin\Debug\Program_loop_seventeen_do.exe.config
+D:\Console App Classes\Program_loop_seventeen_do\Program_loop_seventeen_do\bin\Debug\Program_loop_seventeen_do.exe
+D:\Console App Classes\Program_loop_seventeen_do\Program_loop_seventeen_do\bin\Debug\Program_loop_seventeen_do.pdb
+D:\Console App Classes\Program_loop_seventeen_do\Program_loop_seventeen_do\obj\Debug\Program_loop_seventeen_do.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loop_seventeen_do\Program_loop_seventeen_do\obj\Debug\Program_loop_seventeen_do.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loop_seventeen_do\Program_loop_seventeen_do\obj\Debug\Program_loop_seventeen_do.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loop_seventeen_do\Program_loop_seventeen_do\obj\Debug\Program_loop_seventeen_do.exe
+D:\Console App Classes\Program_loop_seventeen_do\Program_loop_seventeen_do\obj\Debug\Program_loop_seventeen_do.pdb

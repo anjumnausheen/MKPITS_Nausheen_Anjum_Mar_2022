@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loop_six_sum\Program_loop_six_sum\bin\Debug\Program_loop_six_sum.exe.config
+D:\Console App Classes\Program_loop_six_sum\Program_loop_six_sum\bin\Debug\Program_loop_six_sum.exe
+D:\Console App Classes\Program_loop_six_sum\Program_loop_six_sum\bin\Debug\Program_loop_six_sum.pdb
+D:\Console App Classes\Program_loop_six_sum\Program_loop_six_sum\obj\Debug\Program_loop_six_sum.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loop_six_sum\Program_loop_six_sum\obj\Debug\Program_loop_six_sum.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loop_six_sum\Program_loop_six_sum\obj\Debug\Program_loop_six_sum.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loop_six_sum\Program_loop_six_sum\obj\Debug\Program_loop_six_sum.exe
+D:\Console App Classes\Program_loop_six_sum\Program_loop_six_sum\obj\Debug\Program_loop_six_sum.pdb

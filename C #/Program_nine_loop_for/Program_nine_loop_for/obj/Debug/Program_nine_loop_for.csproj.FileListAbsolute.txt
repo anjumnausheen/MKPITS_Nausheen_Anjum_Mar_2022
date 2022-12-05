@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_nine_loop_for\Program_nine_loop_for\bin\Debug\Program_nine_loop_for.exe.config
+D:\Console App Classes\Program_nine_loop_for\Program_nine_loop_for\bin\Debug\Program_nine_loop_for.exe
+D:\Console App Classes\Program_nine_loop_for\Program_nine_loop_for\bin\Debug\Program_nine_loop_for.pdb
+D:\Console App Classes\Program_nine_loop_for\Program_nine_loop_for\obj\Debug\Program_nine_loop_for.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_nine_loop_for\Program_nine_loop_for\obj\Debug\Program_nine_loop_for.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_nine_loop_for\Program_nine_loop_for\obj\Debug\Program_nine_loop_for.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_nine_loop_for\Program_nine_loop_for\obj\Debug\Program_nine_loop_for.exe
+D:\Console App Classes\Program_nine_loop_for\Program_nine_loop_for\obj\Debug\Program_nine_loop_for.pdb

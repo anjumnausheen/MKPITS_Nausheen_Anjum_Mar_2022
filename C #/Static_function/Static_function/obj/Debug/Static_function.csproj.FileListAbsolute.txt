@@ -1,0 +1,8 @@
+D:\Console App Classes\Static_function\Static_function\bin\Debug\Static_function.exe.config
+D:\Console App Classes\Static_function\Static_function\bin\Debug\Static_function.exe
+D:\Console App Classes\Static_function\Static_function\bin\Debug\Static_function.pdb
+D:\Console App Classes\Static_function\Static_function\obj\Debug\Static_function.csproj.AssemblyReference.cache
+D:\Console App Classes\Static_function\Static_function\obj\Debug\Static_function.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Static_function\Static_function\obj\Debug\Static_function.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Static_function\Static_function\obj\Debug\Static_function.exe
+D:\Console App Classes\Static_function\Static_function\obj\Debug\Static_function.pdb

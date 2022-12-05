@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loop_do_ten\Program_loop_do_ten\bin\Debug\Program_loop_do_ten.exe.config
+D:\Console App Classes\Program_loop_do_ten\Program_loop_do_ten\bin\Debug\Program_loop_do_ten.exe
+D:\Console App Classes\Program_loop_do_ten\Program_loop_do_ten\bin\Debug\Program_loop_do_ten.pdb
+D:\Console App Classes\Program_loop_do_ten\Program_loop_do_ten\obj\Debug\Program_loop_do_ten.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loop_do_ten\Program_loop_do_ten\obj\Debug\Program_loop_do_ten.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loop_do_ten\Program_loop_do_ten\obj\Debug\Program_loop_do_ten.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loop_do_ten\Program_loop_do_ten\obj\Debug\Program_loop_do_ten.exe
+D:\Console App Classes\Program_loop_do_ten\Program_loop_do_ten\obj\Debug\Program_loop_do_ten.pdb

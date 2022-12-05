@@ -1,0 +1,8 @@
+D:\Console App Classes\Hol_low_pyramid\Hol_low_pyramid\bin\Debug\Hol_low_pyramid.exe.config
+D:\Console App Classes\Hol_low_pyramid\Hol_low_pyramid\bin\Debug\Hol_low_pyramid.exe
+D:\Console App Classes\Hol_low_pyramid\Hol_low_pyramid\bin\Debug\Hol_low_pyramid.pdb
+D:\Console App Classes\Hol_low_pyramid\Hol_low_pyramid\obj\Debug\Hol_low_pyramid.csproj.AssemblyReference.cache
+D:\Console App Classes\Hol_low_pyramid\Hol_low_pyramid\obj\Debug\Hol_low_pyramid.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Hol_low_pyramid\Hol_low_pyramid\obj\Debug\Hol_low_pyramid.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Hol_low_pyramid\Hol_low_pyramid\obj\Debug\Hol_low_pyramid.exe
+D:\Console App Classes\Hol_low_pyramid\Hol_low_pyramid\obj\Debug\Hol_low_pyramid.pdb

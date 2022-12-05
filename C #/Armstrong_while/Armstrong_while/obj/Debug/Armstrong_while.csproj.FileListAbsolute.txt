@@ -1,0 +1,8 @@
+D:\Console App Classes\Armstrong_while\Armstrong_while\bin\Debug\Armstrong_while.exe.config
+D:\Console App Classes\Armstrong_while\Armstrong_while\bin\Debug\Armstrong_while.exe
+D:\Console App Classes\Armstrong_while\Armstrong_while\bin\Debug\Armstrong_while.pdb
+D:\Console App Classes\Armstrong_while\Armstrong_while\obj\Debug\Armstrong_while.csproj.AssemblyReference.cache
+D:\Console App Classes\Armstrong_while\Armstrong_while\obj\Debug\Armstrong_while.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Armstrong_while\Armstrong_while\obj\Debug\Armstrong_while.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Armstrong_while\Armstrong_while\obj\Debug\Armstrong_while.exe
+D:\Console App Classes\Armstrong_while\Armstrong_while\obj\Debug\Armstrong_while.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\Function_with_p_with_r_type\Function_with_p_with_r_type\bin\Debug\Function_with_p_with_r_type.exe.config
+D:\Console App Classes\Function_with_p_with_r_type\Function_with_p_with_r_type\bin\Debug\Function_with_p_with_r_type.exe
+D:\Console App Classes\Function_with_p_with_r_type\Function_with_p_with_r_type\bin\Debug\Function_with_p_with_r_type.pdb
+D:\Console App Classes\Function_with_p_with_r_type\Function_with_p_with_r_type\obj\Debug\Function_with_p_with_r_type.csproj.AssemblyReference.cache
+D:\Console App Classes\Function_with_p_with_r_type\Function_with_p_with_r_type\obj\Debug\Function_with_p_with_r_type.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Function_with_p_with_r_type\Function_with_p_with_r_type\obj\Debug\Function_with_p_with_r_type.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Function_with_p_with_r_type\Function_with_p_with_r_type\obj\Debug\Function_with_p_with_r_type.exe
+D:\Console App Classes\Function_with_p_with_r_type\Function_with_p_with_r_type\obj\Debug\Function_with_p_with_r_type.pdb

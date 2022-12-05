@@ -1,0 +1,8 @@
+D:\Console App Classes\Unary_operator\Unary_operator\bin\Debug\Unary_operator.exe.config
+D:\Console App Classes\Unary_operator\Unary_operator\bin\Debug\Unary_operator.exe
+D:\Console App Classes\Unary_operator\Unary_operator\bin\Debug\Unary_operator.pdb
+D:\Console App Classes\Unary_operator\Unary_operator\obj\Debug\Unary_operator.csproj.AssemblyReference.cache
+D:\Console App Classes\Unary_operator\Unary_operator\obj\Debug\Unary_operator.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Unary_operator\Unary_operator\obj\Debug\Unary_operator.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Unary_operator\Unary_operator\obj\Debug\Unary_operator.exe
+D:\Console App Classes\Unary_operator\Unary_operator\obj\Debug\Unary_operator.pdb

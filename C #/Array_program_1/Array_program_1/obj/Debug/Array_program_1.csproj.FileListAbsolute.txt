@@ -1,0 +1,8 @@
+D:\Console App Classes\Array_program_1\Array_program_1\bin\Debug\Array_program_1.exe.config
+D:\Console App Classes\Array_program_1\Array_program_1\bin\Debug\Array_program_1.exe
+D:\Console App Classes\Array_program_1\Array_program_1\bin\Debug\Array_program_1.pdb
+D:\Console App Classes\Array_program_1\Array_program_1\obj\Debug\Array_program_1.csproj.AssemblyReference.cache
+D:\Console App Classes\Array_program_1\Array_program_1\obj\Debug\Array_program_1.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Array_program_1\Array_program_1\obj\Debug\Array_program_1.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Array_program_1\Array_program_1\obj\Debug\Array_program_1.exe
+D:\Console App Classes\Array_program_1\Array_program_1\obj\Debug\Array_program_1.pdb

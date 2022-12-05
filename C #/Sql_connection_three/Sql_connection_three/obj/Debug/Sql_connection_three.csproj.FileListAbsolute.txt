@@ -1,0 +1,8 @@
+D:\Console App Classes\Sql_connection_three\Sql_connection_three\obj\Debug\Sql_connection_three.csproj.AssemblyReference.cache
+D:\Console App Classes\Sql_connection_three\Sql_connection_three\obj\Debug\Sql_connection_three.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Sql_connection_three\Sql_connection_three\obj\Debug\Sql_connection_three.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Sql_connection_three\Sql_connection_three\bin\Debug\Sql_connection_three.exe.config
+D:\Console App Classes\Sql_connection_three\Sql_connection_three\bin\Debug\Sql_connection_three.exe
+D:\Console App Classes\Sql_connection_three\Sql_connection_three\bin\Debug\Sql_connection_three.pdb
+D:\Console App Classes\Sql_connection_three\Sql_connection_three\obj\Debug\Sql_connection_three.exe
+D:\Console App Classes\Sql_connection_three\Sql_connection_three\obj\Debug\Sql_connection_three.pdb

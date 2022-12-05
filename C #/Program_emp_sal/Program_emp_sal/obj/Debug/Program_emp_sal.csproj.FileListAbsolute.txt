@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_emp_sal\Program_emp_sal\bin\Debug\Program_emp_sal.exe.config
+D:\Console App Classes\Program_emp_sal\Program_emp_sal\bin\Debug\Program_emp_sal.exe
+D:\Console App Classes\Program_emp_sal\Program_emp_sal\bin\Debug\Program_emp_sal.pdb
+D:\Console App Classes\Program_emp_sal\Program_emp_sal\obj\Debug\Program_emp_sal.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_emp_sal\Program_emp_sal\obj\Debug\Program_emp_sal.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_emp_sal\Program_emp_sal\obj\Debug\Program_emp_sal.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_emp_sal\Program_emp_sal\obj\Debug\Program_emp_sal.exe
+D:\Console App Classes\Program_emp_sal\Program_emp_sal\obj\Debug\Program_emp_sal.pdb

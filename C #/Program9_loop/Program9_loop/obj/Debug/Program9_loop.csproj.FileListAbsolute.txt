@@ -1,0 +1,8 @@
+D:\Console App Classes\Program9_loop\Program9_loop\bin\Debug\Program9_loop.exe.config
+D:\Console App Classes\Program9_loop\Program9_loop\bin\Debug\Program9_loop.exe
+D:\Console App Classes\Program9_loop\Program9_loop\bin\Debug\Program9_loop.pdb
+D:\Console App Classes\Program9_loop\Program9_loop\obj\Debug\Program9_loop.csproj.AssemblyReference.cache
+D:\Console App Classes\Program9_loop\Program9_loop\obj\Debug\Program9_loop.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program9_loop\Program9_loop\obj\Debug\Program9_loop.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program9_loop\Program9_loop\obj\Debug\Program9_loop.exe
+D:\Console App Classes\Program9_loop\Program9_loop\obj\Debug\Program9_loop.pdb

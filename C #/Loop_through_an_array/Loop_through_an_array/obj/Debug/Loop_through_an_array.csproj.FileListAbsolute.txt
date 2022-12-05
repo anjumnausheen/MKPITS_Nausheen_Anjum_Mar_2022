@@ -1,0 +1,8 @@
+D:\Console App Classes\Loop_through_an_array\Loop_through_an_array\bin\Debug\Loop_through_an_array.exe.config
+D:\Console App Classes\Loop_through_an_array\Loop_through_an_array\bin\Debug\Loop_through_an_array.exe
+D:\Console App Classes\Loop_through_an_array\Loop_through_an_array\bin\Debug\Loop_through_an_array.pdb
+D:\Console App Classes\Loop_through_an_array\Loop_through_an_array\obj\Debug\Loop_through_an_array.csproj.AssemblyReference.cache
+D:\Console App Classes\Loop_through_an_array\Loop_through_an_array\obj\Debug\Loop_through_an_array.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Loop_through_an_array\Loop_through_an_array\obj\Debug\Loop_through_an_array.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Loop_through_an_array\Loop_through_an_array\obj\Debug\Loop_through_an_array.exe
+D:\Console App Classes\Loop_through_an_array\Loop_through_an_array\obj\Debug\Loop_through_an_array.pdb

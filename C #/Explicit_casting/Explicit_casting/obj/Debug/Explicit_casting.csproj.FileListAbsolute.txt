@@ -1,0 +1,8 @@
+D:\Console App Classes\Explicit_casting\Explicit_casting\bin\Debug\Explicit_casting.exe.config
+D:\Console App Classes\Explicit_casting\Explicit_casting\bin\Debug\Explicit_casting.exe
+D:\Console App Classes\Explicit_casting\Explicit_casting\bin\Debug\Explicit_casting.pdb
+D:\Console App Classes\Explicit_casting\Explicit_casting\obj\Debug\Explicit_casting.csproj.AssemblyReference.cache
+D:\Console App Classes\Explicit_casting\Explicit_casting\obj\Debug\Explicit_casting.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Explicit_casting\Explicit_casting\obj\Debug\Explicit_casting.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Explicit_casting\Explicit_casting\obj\Debug\Explicit_casting.exe
+D:\Console App Classes\Explicit_casting\Explicit_casting\obj\Debug\Explicit_casting.pdb

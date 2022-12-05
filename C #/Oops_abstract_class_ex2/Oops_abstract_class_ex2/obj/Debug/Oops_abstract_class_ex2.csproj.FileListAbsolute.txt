@@ -1,0 +1,8 @@
+D:\Console App Classes\Oops_abstract_class_ex2\Oops_abstract_class_ex2\bin\Debug\Oops_abstract_class_ex2.exe.config
+D:\Console App Classes\Oops_abstract_class_ex2\Oops_abstract_class_ex2\bin\Debug\Oops_abstract_class_ex2.exe
+D:\Console App Classes\Oops_abstract_class_ex2\Oops_abstract_class_ex2\bin\Debug\Oops_abstract_class_ex2.pdb
+D:\Console App Classes\Oops_abstract_class_ex2\Oops_abstract_class_ex2\obj\Debug\Oops_abstract_class_ex2.csproj.AssemblyReference.cache
+D:\Console App Classes\Oops_abstract_class_ex2\Oops_abstract_class_ex2\obj\Debug\Oops_abstract_class_ex2.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Oops_abstract_class_ex2\Oops_abstract_class_ex2\obj\Debug\Oops_abstract_class_ex2.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Oops_abstract_class_ex2\Oops_abstract_class_ex2\obj\Debug\Oops_abstract_class_ex2.exe
+D:\Console App Classes\Oops_abstract_class_ex2\Oops_abstract_class_ex2\obj\Debug\Oops_abstract_class_ex2.pdb

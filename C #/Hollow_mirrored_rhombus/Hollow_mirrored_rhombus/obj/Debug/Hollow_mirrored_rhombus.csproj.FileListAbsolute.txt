@@ -1,0 +1,8 @@
+D:\Console App Classes\Hollow_mirrored_rhombus\Hollow_mirrored_rhombus\bin\Debug\Hollow_mirrored_rhombus.exe.config
+D:\Console App Classes\Hollow_mirrored_rhombus\Hollow_mirrored_rhombus\bin\Debug\Hollow_mirrored_rhombus.exe
+D:\Console App Classes\Hollow_mirrored_rhombus\Hollow_mirrored_rhombus\bin\Debug\Hollow_mirrored_rhombus.pdb
+D:\Console App Classes\Hollow_mirrored_rhombus\Hollow_mirrored_rhombus\obj\Debug\Hollow_mirrored_rhombus.csproj.AssemblyReference.cache
+D:\Console App Classes\Hollow_mirrored_rhombus\Hollow_mirrored_rhombus\obj\Debug\Hollow_mirrored_rhombus.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Hollow_mirrored_rhombus\Hollow_mirrored_rhombus\obj\Debug\Hollow_mirrored_rhombus.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Hollow_mirrored_rhombus\Hollow_mirrored_rhombus\obj\Debug\Hollow_mirrored_rhombus.exe
+D:\Console App Classes\Hollow_mirrored_rhombus\Hollow_mirrored_rhombus\obj\Debug\Hollow_mirrored_rhombus.pdb

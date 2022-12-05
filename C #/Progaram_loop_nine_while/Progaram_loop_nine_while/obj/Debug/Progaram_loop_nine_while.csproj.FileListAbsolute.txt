@@ -1,0 +1,8 @@
+D:\Console App Classes\Progaram_loop_nine_while\Progaram_loop_nine_while\bin\Debug\Progaram_loop_nine_while.exe.config
+D:\Console App Classes\Progaram_loop_nine_while\Progaram_loop_nine_while\bin\Debug\Progaram_loop_nine_while.exe
+D:\Console App Classes\Progaram_loop_nine_while\Progaram_loop_nine_while\bin\Debug\Progaram_loop_nine_while.pdb
+D:\Console App Classes\Progaram_loop_nine_while\Progaram_loop_nine_while\obj\Debug\Progaram_loop_nine_while.csproj.AssemblyReference.cache
+D:\Console App Classes\Progaram_loop_nine_while\Progaram_loop_nine_while\obj\Debug\Progaram_loop_nine_while.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Progaram_loop_nine_while\Progaram_loop_nine_while\obj\Debug\Progaram_loop_nine_while.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Progaram_loop_nine_while\Progaram_loop_nine_while\obj\Debug\Progaram_loop_nine_while.exe
+D:\Console App Classes\Progaram_loop_nine_while\Progaram_loop_nine_while\obj\Debug\Progaram_loop_nine_while.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loop_24_while\Program_loop_24_while\bin\Debug\Program_loop_24_while.exe.config
+D:\Console App Classes\Program_loop_24_while\Program_loop_24_while\bin\Debug\Program_loop_24_while.exe
+D:\Console App Classes\Program_loop_24_while\Program_loop_24_while\bin\Debug\Program_loop_24_while.pdb
+D:\Console App Classes\Program_loop_24_while\Program_loop_24_while\obj\Debug\Program_loop_24_while.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loop_24_while\Program_loop_24_while\obj\Debug\Program_loop_24_while.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loop_24_while\Program_loop_24_while\obj\Debug\Program_loop_24_while.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loop_24_while\Program_loop_24_while\obj\Debug\Program_loop_24_while.exe
+D:\Console App Classes\Program_loop_24_while\Program_loop_24_while\obj\Debug\Program_loop_24_while.pdb

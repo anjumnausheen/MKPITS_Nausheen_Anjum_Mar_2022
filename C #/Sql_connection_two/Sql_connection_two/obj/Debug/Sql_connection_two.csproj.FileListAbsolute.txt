@@ -1,0 +1,8 @@
+D:\Console App Classes\Sql_connection_two\Sql_connection_two\bin\Debug\Sql_connection_two.exe.config
+D:\Console App Classes\Sql_connection_two\Sql_connection_two\bin\Debug\Sql_connection_two.exe
+D:\Console App Classes\Sql_connection_two\Sql_connection_two\bin\Debug\Sql_connection_two.pdb
+D:\Console App Classes\Sql_connection_two\Sql_connection_two\obj\Debug\Sql_connection_two.csproj.AssemblyReference.cache
+D:\Console App Classes\Sql_connection_two\Sql_connection_two\obj\Debug\Sql_connection_two.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Sql_connection_two\Sql_connection_two\obj\Debug\Sql_connection_two.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Sql_connection_two\Sql_connection_two\obj\Debug\Sql_connection_two.exe
+D:\Console App Classes\Sql_connection_two\Sql_connection_two\obj\Debug\Sql_connection_two.pdb

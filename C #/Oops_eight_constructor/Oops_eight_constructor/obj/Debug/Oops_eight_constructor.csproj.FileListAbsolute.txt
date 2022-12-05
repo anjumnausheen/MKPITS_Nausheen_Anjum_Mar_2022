@@ -1,0 +1,8 @@
+D:\Console App Classes\Oops_eight_constructor\Oops_eight_constructor\bin\Debug\Oops_eight_constructor.exe.config
+D:\Console App Classes\Oops_eight_constructor\Oops_eight_constructor\bin\Debug\Oops_eight_constructor.exe
+D:\Console App Classes\Oops_eight_constructor\Oops_eight_constructor\bin\Debug\Oops_eight_constructor.pdb
+D:\Console App Classes\Oops_eight_constructor\Oops_eight_constructor\obj\Debug\Oops_eight_constructor.csproj.AssemblyReference.cache
+D:\Console App Classes\Oops_eight_constructor\Oops_eight_constructor\obj\Debug\Oops_eight_constructor.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Oops_eight_constructor\Oops_eight_constructor\obj\Debug\Oops_eight_constructor.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Oops_eight_constructor\Oops_eight_constructor\obj\Debug\Oops_eight_constructor.exe
+D:\Console App Classes\Oops_eight_constructor\Oops_eight_constructor\obj\Debug\Oops_eight_constructor.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\Logical_not\Logical_not\bin\Debug\Logical_not.exe.config
+D:\Console App Classes\Logical_not\Logical_not\bin\Debug\Logical_not.exe
+D:\Console App Classes\Logical_not\Logical_not\bin\Debug\Logical_not.pdb
+D:\Console App Classes\Logical_not\Logical_not\obj\Debug\Logical_not.csproj.AssemblyReference.cache
+D:\Console App Classes\Logical_not\Logical_not\obj\Debug\Logical_not.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Logical_not\Logical_not\obj\Debug\Logical_not.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Logical_not\Logical_not\obj\Debug\Logical_not.exe
+D:\Console App Classes\Logical_not\Logical_not\obj\Debug\Logical_not.pdb

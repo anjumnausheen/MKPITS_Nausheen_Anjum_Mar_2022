@@ -1,0 +1,8 @@
+D:\Console App Classes\Search_an_element_1d_array\Search_an_element_1d_array\bin\Debug\Search_an_element_1d_array.exe.config
+D:\Console App Classes\Search_an_element_1d_array\Search_an_element_1d_array\bin\Debug\Search_an_element_1d_array.exe
+D:\Console App Classes\Search_an_element_1d_array\Search_an_element_1d_array\bin\Debug\Search_an_element_1d_array.pdb
+D:\Console App Classes\Search_an_element_1d_array\Search_an_element_1d_array\obj\Debug\Search_an_element_1d_array.csproj.AssemblyReference.cache
+D:\Console App Classes\Search_an_element_1d_array\Search_an_element_1d_array\obj\Debug\Search_an_element_1d_array.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Search_an_element_1d_array\Search_an_element_1d_array\obj\Debug\Search_an_element_1d_array.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Search_an_element_1d_array\Search_an_element_1d_array\obj\Debug\Search_an_element_1d_array.exe
+D:\Console App Classes\Search_an_element_1d_array\Search_an_element_1d_array\obj\Debug\Search_an_element_1d_array.pdb

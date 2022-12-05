@@ -1,0 +1,8 @@
+D:\Console App Classes\Rhombus_loop\Rhombus_loop\obj\Debug\Rhombus_loop.csproj.AssemblyReference.cache
+D:\Console App Classes\Rhombus_loop\Rhombus_loop\obj\Debug\Rhombus_loop.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Rhombus_loop\Rhombus_loop\obj\Debug\Rhombus_loop.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Rhombus_loop\Rhombus_loop\bin\Debug\Rhombus_loop.exe.config
+D:\Console App Classes\Rhombus_loop\Rhombus_loop\bin\Debug\Rhombus_loop.exe
+D:\Console App Classes\Rhombus_loop\Rhombus_loop\bin\Debug\Rhombus_loop.pdb
+D:\Console App Classes\Rhombus_loop\Rhombus_loop\obj\Debug\Rhombus_loop.exe
+D:\Console App Classes\Rhombus_loop\Rhombus_loop\obj\Debug\Rhombus_loop.pdb

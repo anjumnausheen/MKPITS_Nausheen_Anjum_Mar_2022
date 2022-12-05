@@ -1,0 +1,8 @@
+D:\Console App Classes\Oops_inheriting_interface\Oops_inheriting_interface\bin\Debug\Oops_inheriting_interface.exe.config
+D:\Console App Classes\Oops_inheriting_interface\Oops_inheriting_interface\bin\Debug\Oops_inheriting_interface.exe
+D:\Console App Classes\Oops_inheriting_interface\Oops_inheriting_interface\bin\Debug\Oops_inheriting_interface.pdb
+D:\Console App Classes\Oops_inheriting_interface\Oops_inheriting_interface\obj\Debug\Oops_inheriting_interface.csproj.AssemblyReference.cache
+D:\Console App Classes\Oops_inheriting_interface\Oops_inheriting_interface\obj\Debug\Oops_inheriting_interface.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Oops_inheriting_interface\Oops_inheriting_interface\obj\Debug\Oops_inheriting_interface.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Oops_inheriting_interface\Oops_inheriting_interface\obj\Debug\Oops_inheriting_interface.exe
+D:\Console App Classes\Oops_inheriting_interface\Oops_inheriting_interface\obj\Debug\Oops_inheriting_interface.pdb

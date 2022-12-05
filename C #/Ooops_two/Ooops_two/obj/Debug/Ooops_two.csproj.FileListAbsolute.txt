@@ -1,0 +1,8 @@
+D:\Console App Classes\Ooops_two\Ooops_two\bin\Debug\Ooops_two.exe.config
+D:\Console App Classes\Ooops_two\Ooops_two\bin\Debug\Ooops_two.exe
+D:\Console App Classes\Ooops_two\Ooops_two\bin\Debug\Ooops_two.pdb
+D:\Console App Classes\Ooops_two\Ooops_two\obj\Debug\Ooops_two.csproj.AssemblyReference.cache
+D:\Console App Classes\Ooops_two\Ooops_two\obj\Debug\Ooops_two.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Ooops_two\Ooops_two\obj\Debug\Ooops_two.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Ooops_two\Ooops_two\obj\Debug\Ooops_two.exe
+D:\Console App Classes\Ooops_two\Ooops_two\obj\Debug\Ooops_two.pdb

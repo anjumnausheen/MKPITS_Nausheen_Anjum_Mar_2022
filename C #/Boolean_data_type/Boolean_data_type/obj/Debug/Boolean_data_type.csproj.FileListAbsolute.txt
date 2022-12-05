@@ -1,0 +1,8 @@
+D:\Console App Classes\Boolean_data_type\Boolean_data_type\obj\Debug\Boolean_data_type.csproj.AssemblyReference.cache
+D:\Console App Classes\Boolean_data_type\Boolean_data_type\obj\Debug\Boolean_data_type.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Boolean_data_type\Boolean_data_type\obj\Debug\Boolean_data_type.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Boolean_data_type\Boolean_data_type\bin\Debug\Boolean_data_type.exe.config
+D:\Console App Classes\Boolean_data_type\Boolean_data_type\bin\Debug\Boolean_data_type.exe
+D:\Console App Classes\Boolean_data_type\Boolean_data_type\bin\Debug\Boolean_data_type.pdb
+D:\Console App Classes\Boolean_data_type\Boolean_data_type\obj\Debug\Boolean_data_type.exe
+D:\Console App Classes\Boolean_data_type\Boolean_data_type\obj\Debug\Boolean_data_type.pdb

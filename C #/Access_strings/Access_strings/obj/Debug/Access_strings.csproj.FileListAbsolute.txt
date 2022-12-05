@@ -1,0 +1,8 @@
+D:\Console App Classes\Access_strings\Access_strings\bin\Debug\Access_strings.exe.config
+D:\Console App Classes\Access_strings\Access_strings\bin\Debug\Access_strings.exe
+D:\Console App Classes\Access_strings\Access_strings\bin\Debug\Access_strings.pdb
+D:\Console App Classes\Access_strings\Access_strings\obj\Debug\Access_strings.csproj.AssemblyReference.cache
+D:\Console App Classes\Access_strings\Access_strings\obj\Debug\Access_strings.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Access_strings\Access_strings\obj\Debug\Access_strings.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Access_strings\Access_strings\obj\Debug\Access_strings.exe
+D:\Console App Classes\Access_strings\Access_strings\obj\Debug\Access_strings.pdb

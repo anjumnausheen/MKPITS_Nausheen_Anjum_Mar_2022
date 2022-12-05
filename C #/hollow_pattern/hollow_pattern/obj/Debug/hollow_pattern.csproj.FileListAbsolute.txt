@@ -1,0 +1,8 @@
+D:\Console App Classes\hollow_pattern\hollow_pattern\bin\Debug\hollow_pattern.exe.config
+D:\Console App Classes\hollow_pattern\hollow_pattern\bin\Debug\hollow_pattern.exe
+D:\Console App Classes\hollow_pattern\hollow_pattern\bin\Debug\hollow_pattern.pdb
+D:\Console App Classes\hollow_pattern\hollow_pattern\obj\Debug\hollow_pattern.csproj.AssemblyReference.cache
+D:\Console App Classes\hollow_pattern\hollow_pattern\obj\Debug\hollow_pattern.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\hollow_pattern\hollow_pattern\obj\Debug\hollow_pattern.csproj.CoreCompileInputs.cache
+D:\Console App Classes\hollow_pattern\hollow_pattern\obj\Debug\hollow_pattern.exe
+D:\Console App Classes\hollow_pattern\hollow_pattern\obj\Debug\hollow_pattern.pdb

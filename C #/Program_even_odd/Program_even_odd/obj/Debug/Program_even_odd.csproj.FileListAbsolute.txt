@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_even_odd\Program_even_odd\bin\Debug\Program_even_odd.exe.config
+D:\Console App Classes\Program_even_odd\Program_even_odd\bin\Debug\Program_even_odd.exe
+D:\Console App Classes\Program_even_odd\Program_even_odd\bin\Debug\Program_even_odd.pdb
+D:\Console App Classes\Program_even_odd\Program_even_odd\obj\Debug\Program_even_odd.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_even_odd\Program_even_odd\obj\Debug\Program_even_odd.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_even_odd\Program_even_odd\obj\Debug\Program_even_odd.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_even_odd\Program_even_odd\obj\Debug\Program_even_odd.exe
+D:\Console App Classes\Program_even_odd\Program_even_odd\obj\Debug\Program_even_odd.pdb

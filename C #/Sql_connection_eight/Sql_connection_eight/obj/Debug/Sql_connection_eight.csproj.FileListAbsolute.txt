@@ -1,0 +1,8 @@
+D:\Console App Classes\Sql_connection_eight\Sql_connection_eight\obj\Debug\Sql_connection_eight.csproj.AssemblyReference.cache
+D:\Console App Classes\Sql_connection_eight\Sql_connection_eight\obj\Debug\Sql_connection_eight.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Sql_connection_eight\Sql_connection_eight\obj\Debug\Sql_connection_eight.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Sql_connection_eight\Sql_connection_eight\bin\Debug\Sql_connection_eight.exe.config
+D:\Console App Classes\Sql_connection_eight\Sql_connection_eight\bin\Debug\Sql_connection_eight.exe
+D:\Console App Classes\Sql_connection_eight\Sql_connection_eight\bin\Debug\Sql_connection_eight.pdb
+D:\Console App Classes\Sql_connection_eight\Sql_connection_eight\obj\Debug\Sql_connection_eight.exe
+D:\Console App Classes\Sql_connection_eight\Sql_connection_eight\obj\Debug\Sql_connection_eight.pdb

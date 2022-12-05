@@ -1,0 +1,8 @@
+D:\Console App Classes\Subtraction\Subtraction\bin\Debug\Subtraction.exe.config
+D:\Console App Classes\Subtraction\Subtraction\bin\Debug\Subtraction.exe
+D:\Console App Classes\Subtraction\Subtraction\bin\Debug\Subtraction.pdb
+D:\Console App Classes\Subtraction\Subtraction\obj\Debug\Subtraction.csproj.AssemblyReference.cache
+D:\Console App Classes\Subtraction\Subtraction\obj\Debug\Subtraction.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Subtraction\Subtraction\obj\Debug\Subtraction.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Subtraction\Subtraction\obj\Debug\Subtraction.exe
+D:\Console App Classes\Subtraction\Subtraction\obj\Debug\Subtraction.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_monthno_no_of_days\Program_monthno_no_of_days\bin\Debug\Program_monthno_no_of_days.exe.config
+D:\Console App Classes\Program_monthno_no_of_days\Program_monthno_no_of_days\bin\Debug\Program_monthno_no_of_days.exe
+D:\Console App Classes\Program_monthno_no_of_days\Program_monthno_no_of_days\bin\Debug\Program_monthno_no_of_days.pdb
+D:\Console App Classes\Program_monthno_no_of_days\Program_monthno_no_of_days\obj\Debug\Program_monthno_no_of_days.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_monthno_no_of_days\Program_monthno_no_of_days\obj\Debug\Program_monthno_no_of_days.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_monthno_no_of_days\Program_monthno_no_of_days\obj\Debug\Program_monthno_no_of_days.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_monthno_no_of_days\Program_monthno_no_of_days\obj\Debug\Program_monthno_no_of_days.exe
+D:\Console App Classes\Program_monthno_no_of_days\Program_monthno_no_of_days\obj\Debug\Program_monthno_no_of_days.pdb

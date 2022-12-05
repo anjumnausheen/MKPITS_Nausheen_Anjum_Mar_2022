@@ -1,0 +1,8 @@
+D:\Console App Classes\Variable_two\Variable_two\bin\Debug\Variable_two.exe.config
+D:\Console App Classes\Variable_two\Variable_two\bin\Debug\Variable_two.exe
+D:\Console App Classes\Variable_two\Variable_two\bin\Debug\Variable_two.pdb
+D:\Console App Classes\Variable_two\Variable_two\obj\Debug\Variable_two.csproj.AssemblyReference.cache
+D:\Console App Classes\Variable_two\Variable_two\obj\Debug\Variable_two.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Variable_two\Variable_two\obj\Debug\Variable_two.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Variable_two\Variable_two\obj\Debug\Variable_two.exe
+D:\Console App Classes\Variable_two\Variable_two\obj\Debug\Variable_two.pdb

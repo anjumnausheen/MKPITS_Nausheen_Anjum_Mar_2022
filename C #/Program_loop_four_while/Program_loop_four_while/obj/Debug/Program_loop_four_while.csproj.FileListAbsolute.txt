@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loop_four_while\Program_loop_four_while\bin\Debug\Program_loop_four_while.exe.config
+D:\Console App Classes\Program_loop_four_while\Program_loop_four_while\bin\Debug\Program_loop_four_while.exe
+D:\Console App Classes\Program_loop_four_while\Program_loop_four_while\bin\Debug\Program_loop_four_while.pdb
+D:\Console App Classes\Program_loop_four_while\Program_loop_four_while\obj\Debug\Program_loop_four_while.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loop_four_while\Program_loop_four_while\obj\Debug\Program_loop_four_while.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loop_four_while\Program_loop_four_while\obj\Debug\Program_loop_four_while.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loop_four_while\Program_loop_four_while\obj\Debug\Program_loop_four_while.exe
+D:\Console App Classes\Program_loop_four_while\Program_loop_four_while\obj\Debug\Program_loop_four_while.pdb

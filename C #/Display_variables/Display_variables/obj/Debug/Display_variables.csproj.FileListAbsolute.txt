@@ -1,0 +1,8 @@
+D:\Console App Classes\Display_variables\Display_variables\bin\Debug\Display_variables.exe.config
+D:\Console App Classes\Display_variables\Display_variables\bin\Debug\Display_variables.exe
+D:\Console App Classes\Display_variables\Display_variables\bin\Debug\Display_variables.pdb
+D:\Console App Classes\Display_variables\Display_variables\obj\Debug\Display_variables.csproj.AssemblyReference.cache
+D:\Console App Classes\Display_variables\Display_variables\obj\Debug\Display_variables.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Display_variables\Display_variables\obj\Debug\Display_variables.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Display_variables\Display_variables\obj\Debug\Display_variables.exe
+D:\Console App Classes\Display_variables\Display_variables\obj\Debug\Display_variables.pdb

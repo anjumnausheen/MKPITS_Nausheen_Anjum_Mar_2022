@@ -1,0 +1,8 @@
+D:\Console App Classes\Datatype\Datatype\obj\Debug\Datatype.csproj.AssemblyReference.cache
+D:\Console App Classes\Datatype\Datatype\obj\Debug\Datatype.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Datatype\Datatype\obj\Debug\Datatype.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Datatype\Datatype\bin\Debug\Datatype.exe.config
+D:\Console App Classes\Datatype\Datatype\bin\Debug\Datatype.exe
+D:\Console App Classes\Datatype\Datatype\bin\Debug\Datatype.pdb
+D:\Console App Classes\Datatype\Datatype\obj\Debug\Datatype.exe
+D:\Console App Classes\Datatype\Datatype\obj\Debug\Datatype.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\Pyramid_equilateral_triangle\Pyramid_equilateral_triangle\bin\Debug\Pyramid_equilateral_triangle.exe.config
+D:\Console App Classes\Pyramid_equilateral_triangle\Pyramid_equilateral_triangle\bin\Debug\Pyramid_equilateral_triangle.exe
+D:\Console App Classes\Pyramid_equilateral_triangle\Pyramid_equilateral_triangle\bin\Debug\Pyramid_equilateral_triangle.pdb
+D:\Console App Classes\Pyramid_equilateral_triangle\Pyramid_equilateral_triangle\obj\Debug\Pyramid_equilateral_triangle.csproj.AssemblyReference.cache
+D:\Console App Classes\Pyramid_equilateral_triangle\Pyramid_equilateral_triangle\obj\Debug\Pyramid_equilateral_triangle.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Pyramid_equilateral_triangle\Pyramid_equilateral_triangle\obj\Debug\Pyramid_equilateral_triangle.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Pyramid_equilateral_triangle\Pyramid_equilateral_triangle\obj\Debug\Pyramid_equilateral_triangle.exe
+D:\Console App Classes\Pyramid_equilateral_triangle\Pyramid_equilateral_triangle\obj\Debug\Pyramid_equilateral_triangle.pdb

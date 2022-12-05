@@ -1,0 +1,8 @@
+D:\Console App Classes\Function_type1\Function_type1\obj\Debug\Function_type1.csproj.AssemblyReference.cache
+D:\Console App Classes\Function_type1\Function_type1\obj\Debug\Function_type1.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Function_type1\Function_type1\obj\Debug\Function_type1.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Function_type1\Function_type1\bin\Debug\Function_type1.exe.config
+D:\Console App Classes\Function_type1\Function_type1\bin\Debug\Function_type1.exe
+D:\Console App Classes\Function_type1\Function_type1\bin\Debug\Function_type1.pdb
+D:\Console App Classes\Function_type1\Function_type1\obj\Debug\Function_type1.exe
+D:\Console App Classes\Function_type1\Function_type1\obj\Debug\Function_type1.pdb

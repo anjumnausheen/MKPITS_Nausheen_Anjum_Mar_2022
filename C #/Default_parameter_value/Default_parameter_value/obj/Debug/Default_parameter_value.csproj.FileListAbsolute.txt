@@ -1,0 +1,8 @@
+D:\Console App Classes\Default_parameter_value\Default_parameter_value\bin\Debug\Default_parameter_value.exe.config
+D:\Console App Classes\Default_parameter_value\Default_parameter_value\bin\Debug\Default_parameter_value.exe
+D:\Console App Classes\Default_parameter_value\Default_parameter_value\bin\Debug\Default_parameter_value.pdb
+D:\Console App Classes\Default_parameter_value\Default_parameter_value\obj\Debug\Default_parameter_value.csproj.AssemblyReference.cache
+D:\Console App Classes\Default_parameter_value\Default_parameter_value\obj\Debug\Default_parameter_value.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Default_parameter_value\Default_parameter_value\obj\Debug\Default_parameter_value.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Default_parameter_value\Default_parameter_value\obj\Debug\Default_parameter_value.exe
+D:\Console App Classes\Default_parameter_value\Default_parameter_value\obj\Debug\Default_parameter_value.pdb

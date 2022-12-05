@@ -1,0 +1,8 @@
+D:\Console App Classes\Multithreading_Four\Multithreading_Four\obj\Debug\Multithreading_Four.csproj.AssemblyReference.cache
+D:\Console App Classes\Multithreading_Four\Multithreading_Four\obj\Debug\Multithreading_Four.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Multithreading_Four\Multithreading_Four\obj\Debug\Multithreading_Four.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Multithreading_Four\Multithreading_Four\bin\Debug\Multithreading_Four.exe.config
+D:\Console App Classes\Multithreading_Four\Multithreading_Four\bin\Debug\Multithreading_Four.exe
+D:\Console App Classes\Multithreading_Four\Multithreading_Four\bin\Debug\Multithreading_Four.pdb
+D:\Console App Classes\Multithreading_Four\Multithreading_Four\obj\Debug\Multithreading_Four.exe
+D:\Console App Classes\Multithreading_Four\Multithreading_Four\obj\Debug\Multithreading_Four.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\Oops_fourteen\Oops_fourteen\bin\Debug\Oops_fourteen.exe.config
+D:\Console App Classes\Oops_fourteen\Oops_fourteen\bin\Debug\Oops_fourteen.exe
+D:\Console App Classes\Oops_fourteen\Oops_fourteen\bin\Debug\Oops_fourteen.pdb
+D:\Console App Classes\Oops_fourteen\Oops_fourteen\obj\Debug\Oops_fourteen.csproj.AssemblyReference.cache
+D:\Console App Classes\Oops_fourteen\Oops_fourteen\obj\Debug\Oops_fourteen.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Oops_fourteen\Oops_fourteen\obj\Debug\Oops_fourteen.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Oops_fourteen\Oops_fourteen\obj\Debug\Oops_fourteen.exe
+D:\Console App Classes\Oops_fourteen\Oops_fourteen\obj\Debug\Oops_fourteen.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\Declare_many_variables\Declare_many_variables\bin\Debug\Declare_many_variables.exe.config
+D:\Console App Classes\Declare_many_variables\Declare_many_variables\bin\Debug\Declare_many_variables.exe
+D:\Console App Classes\Declare_many_variables\Declare_many_variables\bin\Debug\Declare_many_variables.pdb
+D:\Console App Classes\Declare_many_variables\Declare_many_variables\obj\Debug\Declare_many_variables.csproj.AssemblyReference.cache
+D:\Console App Classes\Declare_many_variables\Declare_many_variables\obj\Debug\Declare_many_variables.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Declare_many_variables\Declare_many_variables\obj\Debug\Declare_many_variables.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Declare_many_variables\Declare_many_variables\obj\Debug\Declare_many_variables.exe
+D:\Console App Classes\Declare_many_variables\Declare_many_variables\obj\Debug\Declare_many_variables.pdb

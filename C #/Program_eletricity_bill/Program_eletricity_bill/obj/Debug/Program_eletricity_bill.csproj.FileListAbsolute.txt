@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_eletricity_bill\Program_eletricity_bill\bin\Debug\Program_eletricity_bill.exe.config
+D:\Console App Classes\Program_eletricity_bill\Program_eletricity_bill\bin\Debug\Program_eletricity_bill.exe
+D:\Console App Classes\Program_eletricity_bill\Program_eletricity_bill\bin\Debug\Program_eletricity_bill.pdb
+D:\Console App Classes\Program_eletricity_bill\Program_eletricity_bill\obj\Debug\Program_eletricity_bill.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_eletricity_bill\Program_eletricity_bill\obj\Debug\Program_eletricity_bill.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_eletricity_bill\Program_eletricity_bill\obj\Debug\Program_eletricity_bill.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_eletricity_bill\Program_eletricity_bill\obj\Debug\Program_eletricity_bill.exe
+D:\Console App Classes\Program_eletricity_bill\Program_eletricity_bill\obj\Debug\Program_eletricity_bill.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\program_loop_eighteen_while\program_loop_eighteen_while\obj\Debug\program_loop_eighteen_while.csproj.AssemblyReference.cache
+D:\Console App Classes\program_loop_eighteen_while\program_loop_eighteen_while\obj\Debug\program_loop_eighteen_while.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\program_loop_eighteen_while\program_loop_eighteen_while\obj\Debug\program_loop_eighteen_while.csproj.CoreCompileInputs.cache
+D:\Console App Classes\program_loop_eighteen_while\program_loop_eighteen_while\bin\Debug\program_loop_eighteen_while.exe.config
+D:\Console App Classes\program_loop_eighteen_while\program_loop_eighteen_while\bin\Debug\program_loop_eighteen_while.exe
+D:\Console App Classes\program_loop_eighteen_while\program_loop_eighteen_while\bin\Debug\program_loop_eighteen_while.pdb
+D:\Console App Classes\program_loop_eighteen_while\program_loop_eighteen_while\obj\Debug\program_loop_eighteen_while.exe
+D:\Console App Classes\program_loop_eighteen_while\program_loop_eighteen_while\obj\Debug\program_loop_eighteen_while.pdb

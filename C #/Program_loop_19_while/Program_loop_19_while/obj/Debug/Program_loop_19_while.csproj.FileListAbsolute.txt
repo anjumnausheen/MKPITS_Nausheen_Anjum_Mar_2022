@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loop_19_while\Program_loop_19_while\bin\Debug\Program_loop_19_while.exe.config
+D:\Console App Classes\Program_loop_19_while\Program_loop_19_while\bin\Debug\Program_loop_19_while.exe
+D:\Console App Classes\Program_loop_19_while\Program_loop_19_while\bin\Debug\Program_loop_19_while.pdb
+D:\Console App Classes\Program_loop_19_while\Program_loop_19_while\obj\Debug\Program_loop_19_while.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loop_19_while\Program_loop_19_while\obj\Debug\Program_loop_19_while.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loop_19_while\Program_loop_19_while\obj\Debug\Program_loop_19_while.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loop_19_while\Program_loop_19_while\obj\Debug\Program_loop_19_while.exe
+D:\Console App Classes\Program_loop_19_while\Program_loop_19_while\obj\Debug\Program_loop_19_while.pdb

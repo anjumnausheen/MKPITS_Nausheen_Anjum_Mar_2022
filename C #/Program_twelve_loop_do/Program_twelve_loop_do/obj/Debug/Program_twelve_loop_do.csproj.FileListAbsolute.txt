@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_twelve_loop_do\Program_twelve_loop_do\bin\Debug\Program_twelve_loop_do.exe.config
+D:\Console App Classes\Program_twelve_loop_do\Program_twelve_loop_do\bin\Debug\Program_twelve_loop_do.exe
+D:\Console App Classes\Program_twelve_loop_do\Program_twelve_loop_do\bin\Debug\Program_twelve_loop_do.pdb
+D:\Console App Classes\Program_twelve_loop_do\Program_twelve_loop_do\obj\Debug\Program_twelve_loop_do.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_twelve_loop_do\Program_twelve_loop_do\obj\Debug\Program_twelve_loop_do.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_twelve_loop_do\Program_twelve_loop_do\obj\Debug\Program_twelve_loop_do.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_twelve_loop_do\Program_twelve_loop_do\obj\Debug\Program_twelve_loop_do.exe
+D:\Console App Classes\Program_twelve_loop_do\Program_twelve_loop_do\obj\Debug\Program_twelve_loop_do.pdb

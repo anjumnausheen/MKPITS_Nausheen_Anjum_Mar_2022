@@ -1,0 +1,8 @@
+D:\Console App Classes\Sql_connection_one\Sql_connection_one\obj\Debug\Sql_connection_one.csproj.AssemblyReference.cache
+D:\Console App Classes\Sql_connection_one\Sql_connection_one\obj\Debug\Sql_connection_one.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Sql_connection_one\Sql_connection_one\obj\Debug\Sql_connection_one.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Sql_connection_one\Sql_connection_one\bin\Debug\Sql_connection_one.exe.config
+D:\Console App Classes\Sql_connection_one\Sql_connection_one\bin\Debug\Sql_connection_one.exe
+D:\Console App Classes\Sql_connection_one\Sql_connection_one\bin\Debug\Sql_connection_one.pdb
+D:\Console App Classes\Sql_connection_one\Sql_connection_one\obj\Debug\Sql_connection_one.exe
+D:\Console App Classes\Sql_connection_one\Sql_connection_one\obj\Debug\Sql_connection_one.pdb

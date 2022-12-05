@@ -1,0 +1,8 @@
+D:\Console App Classes\Sql_connection_six\Sql_connection_six\bin\Debug\Sql_connection_six.exe.config
+D:\Console App Classes\Sql_connection_six\Sql_connection_six\bin\Debug\Sql_connection_six.exe
+D:\Console App Classes\Sql_connection_six\Sql_connection_six\bin\Debug\Sql_connection_six.pdb
+D:\Console App Classes\Sql_connection_six\Sql_connection_six\obj\Debug\Sql_connection_six.csproj.AssemblyReference.cache
+D:\Console App Classes\Sql_connection_six\Sql_connection_six\obj\Debug\Sql_connection_six.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Sql_connection_six\Sql_connection_six\obj\Debug\Sql_connection_six.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Sql_connection_six\Sql_connection_six\obj\Debug\Sql_connection_six.exe
+D:\Console App Classes\Sql_connection_six\Sql_connection_six\obj\Debug\Sql_connection_six.pdb

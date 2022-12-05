@@ -1,0 +1,8 @@
+D:\Console App Classes\Oops_four\Oops_four\bin\Debug\Oops_four.exe.config
+D:\Console App Classes\Oops_four\Oops_four\bin\Debug\Oops_four.exe
+D:\Console App Classes\Oops_four\Oops_four\bin\Debug\Oops_four.pdb
+D:\Console App Classes\Oops_four\Oops_four\obj\Debug\Oops_four.csproj.AssemblyReference.cache
+D:\Console App Classes\Oops_four\Oops_four\obj\Debug\Oops_four.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Oops_four\Oops_four\obj\Debug\Oops_four.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Oops_four\Oops_four\obj\Debug\Oops_four.exe
+D:\Console App Classes\Oops_four\Oops_four\obj\Debug\Oops_four.pdb

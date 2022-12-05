@@ -1,0 +1,8 @@
+D:\Console App Classes\Sql_connection_seven\Sql_connection_seven\obj\Debug\Sql_connection_seven.csproj.AssemblyReference.cache
+D:\Console App Classes\Sql_connection_seven\Sql_connection_seven\obj\Debug\Sql_connection_seven.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Sql_connection_seven\Sql_connection_seven\obj\Debug\Sql_connection_seven.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Sql_connection_seven\Sql_connection_seven\bin\Debug\Sql_connection_seven.exe.config
+D:\Console App Classes\Sql_connection_seven\Sql_connection_seven\bin\Debug\Sql_connection_seven.exe
+D:\Console App Classes\Sql_connection_seven\Sql_connection_seven\bin\Debug\Sql_connection_seven.pdb
+D:\Console App Classes\Sql_connection_seven\Sql_connection_seven\obj\Debug\Sql_connection_seven.exe
+D:\Console App Classes\Sql_connection_seven\Sql_connection_seven\obj\Debug\Sql_connection_seven.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loo_two_do\Program_loo_two_do\bin\Debug\Program_loo_two_do.exe.config
+D:\Console App Classes\Program_loo_two_do\Program_loo_two_do\bin\Debug\Program_loo_two_do.exe
+D:\Console App Classes\Program_loo_two_do\Program_loo_two_do\bin\Debug\Program_loo_two_do.pdb
+D:\Console App Classes\Program_loo_two_do\Program_loo_two_do\obj\Debug\Program_loo_two_do.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loo_two_do\Program_loo_two_do\obj\Debug\Program_loo_two_do.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loo_two_do\Program_loo_two_do\obj\Debug\Program_loo_two_do.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loo_two_do\Program_loo_two_do\obj\Debug\Program_loo_two_do.exe
+D:\Console App Classes\Program_loo_two_do\Program_loo_two_do\obj\Debug\Program_loo_two_do.pdb

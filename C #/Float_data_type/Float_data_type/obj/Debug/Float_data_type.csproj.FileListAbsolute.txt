@@ -1,0 +1,8 @@
+D:\Console App Classes\Float_data_type\Float_data_type\bin\Debug\Float_data_type.exe.config
+D:\Console App Classes\Float_data_type\Float_data_type\bin\Debug\Float_data_type.exe
+D:\Console App Classes\Float_data_type\Float_data_type\bin\Debug\Float_data_type.pdb
+D:\Console App Classes\Float_data_type\Float_data_type\obj\Debug\Float_data_type.csproj.AssemblyReference.cache
+D:\Console App Classes\Float_data_type\Float_data_type\obj\Debug\Float_data_type.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Float_data_type\Float_data_type\obj\Debug\Float_data_type.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Float_data_type\Float_data_type\obj\Debug\Float_data_type.exe
+D:\Console App Classes\Float_data_type\Float_data_type\obj\Debug\Float_data_type.pdb

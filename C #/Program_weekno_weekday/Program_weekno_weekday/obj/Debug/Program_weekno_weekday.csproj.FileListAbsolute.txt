@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_weekno_weekday\Program_weekno_weekday\bin\Debug\Program_weekno_weekday.exe.config
+D:\Console App Classes\Program_weekno_weekday\Program_weekno_weekday\bin\Debug\Program_weekno_weekday.exe
+D:\Console App Classes\Program_weekno_weekday\Program_weekno_weekday\bin\Debug\Program_weekno_weekday.pdb
+D:\Console App Classes\Program_weekno_weekday\Program_weekno_weekday\obj\Debug\Program_weekno_weekday.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_weekno_weekday\Program_weekno_weekday\obj\Debug\Program_weekno_weekday.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_weekno_weekday\Program_weekno_weekday\obj\Debug\Program_weekno_weekday.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_weekno_weekday\Program_weekno_weekday\obj\Debug\Program_weekno_weekday.exe
+D:\Console App Classes\Program_weekno_weekday\Program_weekno_weekday\obj\Debug\Program_weekno_weekday.pdb

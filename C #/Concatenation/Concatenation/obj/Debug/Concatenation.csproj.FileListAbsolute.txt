@@ -1,0 +1,8 @@
+D:\Console App Classes\Concatenation\Concatenation\bin\Debug\Concatenation.exe.config
+D:\Console App Classes\Concatenation\Concatenation\bin\Debug\Concatenation.exe
+D:\Console App Classes\Concatenation\Concatenation\bin\Debug\Concatenation.pdb
+D:\Console App Classes\Concatenation\Concatenation\obj\Debug\Concatenation.csproj.AssemblyReference.cache
+D:\Console App Classes\Concatenation\Concatenation\obj\Debug\Concatenation.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Concatenation\Concatenation\obj\Debug\Concatenation.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Concatenation\Concatenation\obj\Debug\Concatenation.exe
+D:\Console App Classes\Concatenation\Concatenation\obj\Debug\Concatenation.pdb

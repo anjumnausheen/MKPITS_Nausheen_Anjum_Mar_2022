@@ -1,0 +1,8 @@
+D:\Console App Classes\Namespace_Testclass\Namespace_Testclass\bin\Debug\Namespace_Testclass.exe.config
+D:\Console App Classes\Namespace_Testclass\Namespace_Testclass\bin\Debug\Namespace_Testclass.exe
+D:\Console App Classes\Namespace_Testclass\Namespace_Testclass\bin\Debug\Namespace_Testclass.pdb
+D:\Console App Classes\Namespace_Testclass\Namespace_Testclass\obj\Debug\Namespace_Testclass.csproj.AssemblyReference.cache
+D:\Console App Classes\Namespace_Testclass\Namespace_Testclass\obj\Debug\Namespace_Testclass.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Namespace_Testclass\Namespace_Testclass\obj\Debug\Namespace_Testclass.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Namespace_Testclass\Namespace_Testclass\obj\Debug\Namespace_Testclass.exe
+D:\Console App Classes\Namespace_Testclass\Namespace_Testclass\obj\Debug\Namespace_Testclass.pdb

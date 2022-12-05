@@ -1,0 +1,8 @@
+D:\Console App Classes\Nested_loop\Nested_loop\bin\Debug\Nested_loop.exe.config
+D:\Console App Classes\Nested_loop\Nested_loop\bin\Debug\Nested_loop.exe
+D:\Console App Classes\Nested_loop\Nested_loop\bin\Debug\Nested_loop.pdb
+D:\Console App Classes\Nested_loop\Nested_loop\obj\Debug\Nested_loop.csproj.AssemblyReference.cache
+D:\Console App Classes\Nested_loop\Nested_loop\obj\Debug\Nested_loop.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Nested_loop\Nested_loop\obj\Debug\Nested_loop.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Nested_loop\Nested_loop\obj\Debug\Nested_loop.exe
+D:\Console App Classes\Nested_loop\Nested_loop\obj\Debug\Nested_loop.pdb

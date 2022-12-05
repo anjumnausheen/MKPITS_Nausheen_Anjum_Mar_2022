@@ -1,0 +1,8 @@
+D:\Console App Classes\Array_program_3d\Array_program_3d\bin\Debug\Array_program_3d.exe.config
+D:\Console App Classes\Array_program_3d\Array_program_3d\bin\Debug\Array_program_3d.exe
+D:\Console App Classes\Array_program_3d\Array_program_3d\bin\Debug\Array_program_3d.pdb
+D:\Console App Classes\Array_program_3d\Array_program_3d\obj\Debug\Array_program_3d.csproj.AssemblyReference.cache
+D:\Console App Classes\Array_program_3d\Array_program_3d\obj\Debug\Array_program_3d.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Array_program_3d\Array_program_3d\obj\Debug\Array_program_3d.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Array_program_3d\Array_program_3d\obj\Debug\Array_program_3d.exe
+D:\Console App Classes\Array_program_3d\Array_program_3d\obj\Debug\Array_program_3d.pdb

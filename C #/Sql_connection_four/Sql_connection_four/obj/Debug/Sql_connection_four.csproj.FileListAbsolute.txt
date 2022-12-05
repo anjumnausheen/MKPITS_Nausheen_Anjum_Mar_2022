@@ -1,0 +1,8 @@
+D:\Console App Classes\Sql_connection_four\Sql_connection_four\bin\Debug\Sql_connection_four.exe.config
+D:\Console App Classes\Sql_connection_four\Sql_connection_four\bin\Debug\Sql_connection_four.exe
+D:\Console App Classes\Sql_connection_four\Sql_connection_four\bin\Debug\Sql_connection_four.pdb
+D:\Console App Classes\Sql_connection_four\Sql_connection_four\obj\Debug\Sql_connection_four.csproj.AssemblyReference.cache
+D:\Console App Classes\Sql_connection_four\Sql_connection_four\obj\Debug\Sql_connection_four.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Sql_connection_four\Sql_connection_four\obj\Debug\Sql_connection_four.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Sql_connection_four\Sql_connection_four\obj\Debug\Sql_connection_four.exe
+D:\Console App Classes\Sql_connection_four\Sql_connection_four\obj\Debug\Sql_connection_four.pdb

@@ -1,0 +1,3 @@
+D:\Console App Classes\Interpolation\Interpolation\obj\Debug\Interpolation.csproj.AssemblyReference.cache
+D:\Console App Classes\Interpolation\Interpolation\obj\Debug\Interpolation.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Interpolation\Interpolation\obj\Debug\Interpolation.csproj.CoreCompileInputs.cache

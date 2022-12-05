@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_percentage_grade\Program_percentage_grade\obj\Debug\Program_percentage_grade.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_percentage_grade\Program_percentage_grade\obj\Debug\Program_percentage_grade.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_percentage_grade\Program_percentage_grade\obj\Debug\Program_percentage_grade.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_percentage_grade\Program_percentage_grade\bin\Debug\Program_percentage_grade.exe.config
+D:\Console App Classes\Program_percentage_grade\Program_percentage_grade\bin\Debug\Program_percentage_grade.exe
+D:\Console App Classes\Program_percentage_grade\Program_percentage_grade\bin\Debug\Program_percentage_grade.pdb
+D:\Console App Classes\Program_percentage_grade\Program_percentage_grade\obj\Debug\Program_percentage_grade.exe
+D:\Console App Classes\Program_percentage_grade\Program_percentage_grade\obj\Debug\Program_percentage_grade.pdb

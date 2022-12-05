@@ -1,0 +1,8 @@
+D:\Console App Classes\Exception_handling2\Exception_handling2\bin\Debug\Exception_handling2.exe.config
+D:\Console App Classes\Exception_handling2\Exception_handling2\bin\Debug\Exception_handling2.exe
+D:\Console App Classes\Exception_handling2\Exception_handling2\bin\Debug\Exception_handling2.pdb
+D:\Console App Classes\Exception_handling2\Exception_handling2\obj\Debug\Exception_handling2.csproj.AssemblyReference.cache
+D:\Console App Classes\Exception_handling2\Exception_handling2\obj\Debug\Exception_handling2.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Exception_handling2\Exception_handling2\obj\Debug\Exception_handling2.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Exception_handling2\Exception_handling2\obj\Debug\Exception_handling2.exe
+D:\Console App Classes\Exception_handling2\Exception_handling2\obj\Debug\Exception_handling2.pdb

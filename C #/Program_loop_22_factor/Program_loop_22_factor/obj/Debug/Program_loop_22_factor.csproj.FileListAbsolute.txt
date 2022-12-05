@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_loop_22_factor\Program_loop_22_factor\bin\Debug\Program_loop_22_factor.exe.config
+D:\Console App Classes\Program_loop_22_factor\Program_loop_22_factor\bin\Debug\Program_loop_22_factor.exe
+D:\Console App Classes\Program_loop_22_factor\Program_loop_22_factor\bin\Debug\Program_loop_22_factor.pdb
+D:\Console App Classes\Program_loop_22_factor\Program_loop_22_factor\obj\Debug\Program_loop_22_factor.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_loop_22_factor\Program_loop_22_factor\obj\Debug\Program_loop_22_factor.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_loop_22_factor\Program_loop_22_factor\obj\Debug\Program_loop_22_factor.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_loop_22_factor\Program_loop_22_factor\obj\Debug\Program_loop_22_factor.exe
+D:\Console App Classes\Program_loop_22_factor\Program_loop_22_factor\obj\Debug\Program_loop_22_factor.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\Hello_world\Hello_world\bin\Debug\Hello_world.exe.config
+D:\Console App Classes\Hello_world\Hello_world\bin\Debug\Hello_world.exe
+D:\Console App Classes\Hello_world\Hello_world\bin\Debug\Hello_world.pdb
+D:\Console App Classes\Hello_world\Hello_world\obj\Debug\Hello_world.csproj.AssemblyReference.cache
+D:\Console App Classes\Hello_world\Hello_world\obj\Debug\Hello_world.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Hello_world\Hello_world\obj\Debug\Hello_world.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Hello_world\Hello_world\obj\Debug\Hello_world.exe
+D:\Console App Classes\Hello_world\Hello_world\obj\Debug\Hello_world.pdb

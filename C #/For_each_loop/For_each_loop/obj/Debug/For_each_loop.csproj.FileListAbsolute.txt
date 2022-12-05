@@ -1,0 +1,8 @@
+D:\Console App Classes\For_each_loop\For_each_loop\bin\Debug\For_each_loop.exe.config
+D:\Console App Classes\For_each_loop\For_each_loop\bin\Debug\For_each_loop.exe
+D:\Console App Classes\For_each_loop\For_each_loop\bin\Debug\For_each_loop.pdb
+D:\Console App Classes\For_each_loop\For_each_loop\obj\Debug\For_each_loop.csproj.AssemblyReference.cache
+D:\Console App Classes\For_each_loop\For_each_loop\obj\Debug\For_each_loop.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\For_each_loop\For_each_loop\obj\Debug\For_each_loop.csproj.CoreCompileInputs.cache
+D:\Console App Classes\For_each_loop\For_each_loop\obj\Debug\For_each_loop.exe
+D:\Console App Classes\For_each_loop\For_each_loop\obj\Debug\For_each_loop.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\Variable_four\Variable_four\bin\Debug\Variable_four.exe.config
+D:\Console App Classes\Variable_four\Variable_four\bin\Debug\Variable_four.exe
+D:\Console App Classes\Variable_four\Variable_four\bin\Debug\Variable_four.pdb
+D:\Console App Classes\Variable_four\Variable_four\obj\Debug\Variable_four.csproj.AssemblyReference.cache
+D:\Console App Classes\Variable_four\Variable_four\obj\Debug\Variable_four.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Variable_four\Variable_four\obj\Debug\Variable_four.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Variable_four\Variable_four\obj\Debug\Variable_four.exe
+D:\Console App Classes\Variable_four\Variable_four\obj\Debug\Variable_four.pdb

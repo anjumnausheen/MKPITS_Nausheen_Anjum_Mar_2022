@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_angles_triangles\Program_angles_triangles\bin\Debug\Program_angles_triangles.exe.config
+D:\Console App Classes\Program_angles_triangles\Program_angles_triangles\bin\Debug\Program_angles_triangles.exe
+D:\Console App Classes\Program_angles_triangles\Program_angles_triangles\bin\Debug\Program_angles_triangles.pdb
+D:\Console App Classes\Program_angles_triangles\Program_angles_triangles\obj\Debug\Program_angles_triangles.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_angles_triangles\Program_angles_triangles\obj\Debug\Program_angles_triangles.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_angles_triangles\Program_angles_triangles\obj\Debug\Program_angles_triangles.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_angles_triangles\Program_angles_triangles\obj\Debug\Program_angles_triangles.exe
+D:\Console App Classes\Program_angles_triangles\Program_angles_triangles\obj\Debug\Program_angles_triangles.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_if8_ladder\Program_if8_ladder\bin\Debug\Program_if8_ladder.exe.config
+D:\Console App Classes\Program_if8_ladder\Program_if8_ladder\bin\Debug\Program_if8_ladder.exe
+D:\Console App Classes\Program_if8_ladder\Program_if8_ladder\bin\Debug\Program_if8_ladder.pdb
+D:\Console App Classes\Program_if8_ladder\Program_if8_ladder\obj\Debug\Program_if8_ladder.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_if8_ladder\Program_if8_ladder\obj\Debug\Program_if8_ladder.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_if8_ladder\Program_if8_ladder\obj\Debug\Program_if8_ladder.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_if8_ladder\Program_if8_ladder\obj\Debug\Program_if8_ladder.exe
+D:\Console App Classes\Program_if8_ladder\Program_if8_ladder\obj\Debug\Program_if8_ladder.pdb

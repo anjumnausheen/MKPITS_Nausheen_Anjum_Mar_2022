@@ -1,0 +1,8 @@
+D:\Console App Classes\Sort_an_array\Sort_an_array\bin\Debug\Sort_an_array.exe.config
+D:\Console App Classes\Sort_an_array\Sort_an_array\bin\Debug\Sort_an_array.exe
+D:\Console App Classes\Sort_an_array\Sort_an_array\bin\Debug\Sort_an_array.pdb
+D:\Console App Classes\Sort_an_array\Sort_an_array\obj\Debug\Sort_an_array.csproj.AssemblyReference.cache
+D:\Console App Classes\Sort_an_array\Sort_an_array\obj\Debug\Sort_an_array.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Sort_an_array\Sort_an_array\obj\Debug\Sort_an_array.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Sort_an_array\Sort_an_array\obj\Debug\Sort_an_array.exe
+D:\Console App Classes\Sort_an_array\Sort_an_array\obj\Debug\Sort_an_array.pdb

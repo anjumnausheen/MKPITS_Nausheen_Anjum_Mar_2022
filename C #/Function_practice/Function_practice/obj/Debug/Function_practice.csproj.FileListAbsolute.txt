@@ -1,0 +1,8 @@
+D:\Console App Classes\Function_practice\Function_practice\bin\Debug\Function_practice.exe.config
+D:\Console App Classes\Function_practice\Function_practice\bin\Debug\Function_practice.exe
+D:\Console App Classes\Function_practice\Function_practice\bin\Debug\Function_practice.pdb
+D:\Console App Classes\Function_practice\Function_practice\obj\Debug\Function_practice.csproj.AssemblyReference.cache
+D:\Console App Classes\Function_practice\Function_practice\obj\Debug\Function_practice.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Function_practice\Function_practice\obj\Debug\Function_practice.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Function_practice\Function_practice\obj\Debug\Function_practice.exe
+D:\Console App Classes\Function_practice\Function_practice\obj\Debug\Function_practice.pdb

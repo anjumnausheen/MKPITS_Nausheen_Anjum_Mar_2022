@@ -1,0 +1,8 @@
+D:\Console App Classes\Hollow_rhombus\Hollow_rhombus\bin\Debug\Hollow_rhombus.exe.config
+D:\Console App Classes\Hollow_rhombus\Hollow_rhombus\bin\Debug\Hollow_rhombus.exe
+D:\Console App Classes\Hollow_rhombus\Hollow_rhombus\bin\Debug\Hollow_rhombus.pdb
+D:\Console App Classes\Hollow_rhombus\Hollow_rhombus\obj\Debug\Hollow_rhombus.csproj.AssemblyReference.cache
+D:\Console App Classes\Hollow_rhombus\Hollow_rhombus\obj\Debug\Hollow_rhombus.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Hollow_rhombus\Hollow_rhombus\obj\Debug\Hollow_rhombus.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Hollow_rhombus\Hollow_rhombus\obj\Debug\Hollow_rhombus.exe
+D:\Console App Classes\Hollow_rhombus\Hollow_rhombus\obj\Debug\Hollow_rhombus.pdb

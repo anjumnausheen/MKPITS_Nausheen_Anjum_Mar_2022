@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_three_loop_do", "Program_three_loop_do\Program_three_loop_do.csproj", "{B0823C52-4B14-4F51-BA56-2157450EB6E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0823C52-4B14-4F51-BA56-2157450EB6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0823C52-4B14-4F51-BA56-2157450EB6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0823C52-4B14-4F51-BA56-2157450EB6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0823C52-4B14-4F51-BA56-2157450EB6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4B3FA96-7736-47E3-8D42-2AF139C84604}
+	EndGlobalSection
+EndGlobal

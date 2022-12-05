@@ -1,0 +1,8 @@
+D:\Console App Classes\Scientific_numbers\Scientific_numbers\bin\Debug\Scientific_numbers.exe.config
+D:\Console App Classes\Scientific_numbers\Scientific_numbers\bin\Debug\Scientific_numbers.exe
+D:\Console App Classes\Scientific_numbers\Scientific_numbers\bin\Debug\Scientific_numbers.pdb
+D:\Console App Classes\Scientific_numbers\Scientific_numbers\obj\Debug\Scientific_numbers.csproj.AssemblyReference.cache
+D:\Console App Classes\Scientific_numbers\Scientific_numbers\obj\Debug\Scientific_numbers.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Scientific_numbers\Scientific_numbers\obj\Debug\Scientific_numbers.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Scientific_numbers\Scientific_numbers\obj\Debug\Scientific_numbers.exe
+D:\Console App Classes\Scientific_numbers\Scientific_numbers\obj\Debug\Scientific_numbers.pdb

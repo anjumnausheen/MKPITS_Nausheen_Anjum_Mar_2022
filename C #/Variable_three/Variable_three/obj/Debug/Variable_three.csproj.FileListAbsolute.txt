@@ -1,0 +1,8 @@
+D:\Console App Classes\Variable_three\Variable_three\bin\Debug\Variable_three.exe.config
+D:\Console App Classes\Variable_three\Variable_three\bin\Debug\Variable_three.exe
+D:\Console App Classes\Variable_three\Variable_three\bin\Debug\Variable_three.pdb
+D:\Console App Classes\Variable_three\Variable_three\obj\Debug\Variable_three.csproj.AssemblyReference.cache
+D:\Console App Classes\Variable_three\Variable_three\obj\Debug\Variable_three.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Variable_three\Variable_three\obj\Debug\Variable_three.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Variable_three\Variable_three\obj\Debug\Variable_three.exe
+D:\Console App Classes\Variable_three\Variable_three\obj\Debug\Variable_three.pdb

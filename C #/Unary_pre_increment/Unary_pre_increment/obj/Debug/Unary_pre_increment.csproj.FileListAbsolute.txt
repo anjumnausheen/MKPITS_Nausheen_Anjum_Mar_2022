@@ -1,0 +1,8 @@
+D:\Console App Classes\Unary_pre_increment\Unary_pre_increment\bin\Debug\Unary_pre_increment.exe.config
+D:\Console App Classes\Unary_pre_increment\Unary_pre_increment\bin\Debug\Unary_pre_increment.exe
+D:\Console App Classes\Unary_pre_increment\Unary_pre_increment\bin\Debug\Unary_pre_increment.pdb
+D:\Console App Classes\Unary_pre_increment\Unary_pre_increment\obj\Debug\Unary_pre_increment.csproj.AssemblyReference.cache
+D:\Console App Classes\Unary_pre_increment\Unary_pre_increment\obj\Debug\Unary_pre_increment.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Unary_pre_increment\Unary_pre_increment\obj\Debug\Unary_pre_increment.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Unary_pre_increment\Unary_pre_increment\obj\Debug\Unary_pre_increment.exe
+D:\Console App Classes\Unary_pre_increment\Unary_pre_increment\obj\Debug\Unary_pre_increment.pdb

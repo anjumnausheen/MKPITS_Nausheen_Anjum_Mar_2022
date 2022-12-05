@@ -1,0 +1,8 @@
+D:\Console App Classes\External_class\External_class\bin\Debug\External_class.exe.config
+D:\Console App Classes\External_class\External_class\bin\Debug\External_class.exe
+D:\Console App Classes\External_class\External_class\bin\Debug\External_class.pdb
+D:\Console App Classes\External_class\External_class\obj\Debug\External_class.csproj.AssemblyReference.cache
+D:\Console App Classes\External_class\External_class\obj\Debug\External_class.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\External_class\External_class\obj\Debug\External_class.csproj.CoreCompileInputs.cache
+D:\Console App Classes\External_class\External_class\obj\Debug\External_class.exe
+D:\Console App Classes\External_class\External_class\obj\Debug\External_class.pdb

@@ -1,0 +1,8 @@
+D:\Console App Classes\Program_31_loop_for_\Program_31_loop_for_\bin\Debug\Program_31_loop_for_.exe.config
+D:\Console App Classes\Program_31_loop_for_\Program_31_loop_for_\bin\Debug\Program_31_loop_for_.exe
+D:\Console App Classes\Program_31_loop_for_\Program_31_loop_for_\bin\Debug\Program_31_loop_for_.pdb
+D:\Console App Classes\Program_31_loop_for_\Program_31_loop_for_\obj\Debug\Program_31_loop_for_.csproj.AssemblyReference.cache
+D:\Console App Classes\Program_31_loop_for_\Program_31_loop_for_\obj\Debug\Program_31_loop_for_.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Program_31_loop_for_\Program_31_loop_for_\obj\Debug\Program_31_loop_for_.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Program_31_loop_for_\Program_31_loop_for_\obj\Debug\Program_31_loop_for_.exe
+D:\Console App Classes\Program_31_loop_for_\Program_31_loop_for_\obj\Debug\Program_31_loop_for_.pdb

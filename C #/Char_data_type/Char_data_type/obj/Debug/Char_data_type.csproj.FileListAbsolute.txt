@@ -1,0 +1,8 @@
+D:\Console App Classes\Char_data_type\Char_data_type\bin\Debug\Char_data_type.exe.config
+D:\Console App Classes\Char_data_type\Char_data_type\bin\Debug\Char_data_type.exe
+D:\Console App Classes\Char_data_type\Char_data_type\bin\Debug\Char_data_type.pdb
+D:\Console App Classes\Char_data_type\Char_data_type\obj\Debug\Char_data_type.csproj.AssemblyReference.cache
+D:\Console App Classes\Char_data_type\Char_data_type\obj\Debug\Char_data_type.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Char_data_type\Char_data_type\obj\Debug\Char_data_type.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Char_data_type\Char_data_type\obj\Debug\Char_data_type.exe
+D:\Console App Classes\Char_data_type\Char_data_type\obj\Debug\Char_data_type.pdb

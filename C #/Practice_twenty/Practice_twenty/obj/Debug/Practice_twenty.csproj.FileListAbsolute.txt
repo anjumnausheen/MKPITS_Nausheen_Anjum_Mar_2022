@@ -1,0 +1,8 @@
+D:\Console App Classes\Practice_twenty\Practice_twenty\bin\Debug\Practice_twenty.exe.config
+D:\Console App Classes\Practice_twenty\Practice_twenty\bin\Debug\Practice_twenty.exe
+D:\Console App Classes\Practice_twenty\Practice_twenty\bin\Debug\Practice_twenty.pdb
+D:\Console App Classes\Practice_twenty\Practice_twenty\obj\Debug\Practice_twenty.csproj.AssemblyReference.cache
+D:\Console App Classes\Practice_twenty\Practice_twenty\obj\Debug\Practice_twenty.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Practice_twenty\Practice_twenty\obj\Debug\Practice_twenty.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Practice_twenty\Practice_twenty\obj\Debug\Practice_twenty.exe
+D:\Console App Classes\Practice_twenty\Practice_twenty\obj\Debug\Practice_twenty.pdb

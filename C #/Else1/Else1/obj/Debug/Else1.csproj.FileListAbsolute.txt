@@ -1,0 +1,8 @@
+D:\Console App Classes\Else1\Else1\bin\Debug\Else1.exe.config
+D:\Console App Classes\Else1\Else1\bin\Debug\Else1.exe
+D:\Console App Classes\Else1\Else1\bin\Debug\Else1.pdb
+D:\Console App Classes\Else1\Else1\obj\Debug\Else1.csproj.AssemblyReference.cache
+D:\Console App Classes\Else1\Else1\obj\Debug\Else1.csproj.SuggestedBindingRedirects.cache
+D:\Console App Classes\Else1\Else1\obj\Debug\Else1.csproj.CoreCompileInputs.cache
+D:\Console App Classes\Else1\Else1\obj\Debug\Else1.exe
+D:\Console App Classes\Else1\Else1\obj\Debug\Else1.pdb
