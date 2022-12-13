@@ -1,8 +1,0 @@
-D:\Console App Classes\Pr_ac_tice\Pr_ac_tice\bin\Debug\Pr_ac_tice.exe.config
-D:\Console App Classes\Pr_ac_tice\Pr_ac_tice\bin\Debug\Pr_ac_tice.exe
-D:\Console App Classes\Pr_ac_tice\Pr_ac_tice\bin\Debug\Pr_ac_tice.pdb
-D:\Console App Classes\Pr_ac_tice\Pr_ac_tice\obj\Debug\Pr_ac_tice.csproj.AssemblyReference.cache
-D:\Console App Classes\Pr_ac_tice\Pr_ac_tice\obj\Debug\Pr_ac_tice.csproj.SuggestedBindingRedirects.cache
-D:\Console App Classes\Pr_ac_tice\Pr_ac_tice\obj\Debug\Pr_ac_tice.csproj.CoreCompileInputs.cache
-D:\Console App Classes\Pr_ac_tice\Pr_ac_tice\obj\Debug\Pr_ac_tice.exe
-D:\Console App Classes\Pr_ac_tice\Pr_ac_tice\obj\Debug\Pr_ac_tice.pdb
