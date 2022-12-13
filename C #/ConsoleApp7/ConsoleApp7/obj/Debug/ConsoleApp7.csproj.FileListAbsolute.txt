@@ -1,8 +1,0 @@
-D:\Console App Classes\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
-D:\Console App Classes\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
-D:\Console App Classes\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
-D:\Console App Classes\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
-D:\Console App Classes\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.SuggestedBindingRedirects.cache
-D:\Console App Classes\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
-D:\Console App Classes\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
-D:\Console App Classes\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
