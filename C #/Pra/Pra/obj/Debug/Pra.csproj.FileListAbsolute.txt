@@ -1,8 +1,0 @@
-D:\Console App Classes\Pra\Pra\bin\Debug\Pra.exe.config
-D:\Console App Classes\Pra\Pra\bin\Debug\Pra.exe
-D:\Console App Classes\Pra\Pra\bin\Debug\Pra.pdb
-D:\Console App Classes\Pra\Pra\obj\Debug\Pra.csproj.AssemblyReference.cache
-D:\Console App Classes\Pra\Pra\obj\Debug\Pra.csproj.SuggestedBindingRedirects.cache
-D:\Console App Classes\Pra\Pra\obj\Debug\Pra.csproj.CoreCompileInputs.cache
-D:\Console App Classes\Pra\Pra\obj\Debug\Pra.exe
-D:\Console App Classes\Pra\Pra\obj\Debug\Pra.pdb
