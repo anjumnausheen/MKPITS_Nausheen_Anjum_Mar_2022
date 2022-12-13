@@ -1,8 +1,0 @@
-D:\Console App Classes\Practice_five\Practice_five\bin\Debug\Practice_five.exe.config
-D:\Console App Classes\Practice_five\Practice_five\bin\Debug\Practice_five.exe
-D:\Console App Classes\Practice_five\Practice_five\bin\Debug\Practice_five.pdb
-D:\Console App Classes\Practice_five\Practice_five\obj\Debug\Practice_five.csproj.AssemblyReference.cache
-D:\Console App Classes\Practice_five\Practice_five\obj\Debug\Practice_five.csproj.SuggestedBindingRedirects.cache
-D:\Console App Classes\Practice_five\Practice_five\obj\Debug\Practice_five.csproj.CoreCompileInputs.cache
-D:\Console App Classes\Practice_five\Practice_five\obj\Debug\Practice_five.exe
-D:\Console App Classes\Practice_five\Practice_five\obj\Debug\Practice_five.pdb
