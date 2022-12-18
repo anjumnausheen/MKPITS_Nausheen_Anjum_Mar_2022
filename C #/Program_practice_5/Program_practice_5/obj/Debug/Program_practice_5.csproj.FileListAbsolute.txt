@@ -1,8 +1,0 @@
-D:\Console App Classes\Program_practice_5\Program_practice_5\bin\Debug\Program_practice_5.exe.config
-D:\Console App Classes\Program_practice_5\Program_practice_5\bin\Debug\Program_practice_5.exe
-D:\Console App Classes\Program_practice_5\Program_practice_5\bin\Debug\Program_practice_5.pdb
-D:\Console App Classes\Program_practice_5\Program_practice_5\obj\Debug\Program_practice_5.csproj.AssemblyReference.cache
-D:\Console App Classes\Program_practice_5\Program_practice_5\obj\Debug\Program_practice_5.csproj.SuggestedBindingRedirects.cache
-D:\Console App Classes\Program_practice_5\Program_practice_5\obj\Debug\Program_practice_5.csproj.CoreCompileInputs.cache
-D:\Console App Classes\Program_practice_5\Program_practice_5\obj\Debug\Program_practice_5.exe
-D:\Console App Classes\Program_practice_5\Program_practice_5\obj\Debug\Program_practice_5.pdb

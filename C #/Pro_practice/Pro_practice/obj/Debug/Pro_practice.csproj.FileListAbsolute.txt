@@ -1,8 +1,0 @@
-D:\Console App Classes\Pro_practice\Pro_practice\bin\Debug\Pro_practice.exe.config
-D:\Console App Classes\Pro_practice\Pro_practice\bin\Debug\Pro_practice.exe
-D:\Console App Classes\Pro_practice\Pro_practice\bin\Debug\Pro_practice.pdb
-D:\Console App Classes\Pro_practice\Pro_practice\obj\Debug\Pro_practice.csproj.AssemblyReference.cache
-D:\Console App Classes\Pro_practice\Pro_practice\obj\Debug\Pro_practice.csproj.SuggestedBindingRedirects.cache
-D:\Console App Classes\Pro_practice\Pro_practice\obj\Debug\Pro_practice.csproj.CoreCompileInputs.cache
-D:\Console App Classes\Pro_practice\Pro_practice\obj\Debug\Pro_practice.exe
-D:\Console App Classes\Pro_practice\Pro_practice\obj\Debug\Pro_practice.pdb

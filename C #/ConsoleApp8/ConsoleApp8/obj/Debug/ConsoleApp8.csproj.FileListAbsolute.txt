@@ -1,8 +1,0 @@
-D:\Console App Classes\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
-D:\Console App Classes\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe
-D:\Console App Classes\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
-D:\Console App Classes\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.AssemblyReference.cache
-D:\Console App Classes\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.SuggestedBindingRedirects.cache
-D:\Console App Classes\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
-D:\Console App Classes\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.exe
-D:\Console App Classes\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.pdb

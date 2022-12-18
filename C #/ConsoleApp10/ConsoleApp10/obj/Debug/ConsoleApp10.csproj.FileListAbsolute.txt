@@ -1,8 +1,0 @@
-D:\Console App Classes\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
-D:\Console App Classes\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
-D:\Console App Classes\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
-D:\Console App Classes\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
-D:\Console App Classes\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.SuggestedBindingRedirects.cache
-D:\Console App Classes\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
-D:\Console App Classes\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
-D:\Console App Classes\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
