@@ -1,0 +1,15 @@
+D:\Windows Form\Windows_form_project_task\Windows_form_project_task\bin\Debug\Windows_form_project_task.exe
+D:\Windows Form\Windows_form_project_task\Windows_form_project_task\bin\Debug\Windows_form_project_task.exe.config
+D:\Windows Form\Windows_form_project_task\Windows_form_project_task\bin\Debug\Windows_form_project_task.pdb
+D:\Windows Form\Windows_form_project_task\Windows_form_project_task\obj\Debug\Windows_form_project_task.csproj.AssemblyReference.cache
+D:\Windows Form\Windows_form_project_task\Windows_form_project_task\obj\Debug\Windows_form_project_task.csproj.SuggestedBindingRedirects.cache
+D:\Windows Form\Windows_form_project_task\Windows_form_project_task\obj\Debug\Windows_form_project_task.Delete_Form.resources
+D:\Windows Form\Windows_form_project_task\Windows_form_project_task\obj\Debug\Windows_form_project_task.Form1.resources
+D:\Windows Form\Windows_form_project_task\Windows_form_project_task\obj\Debug\Windows_form_project_task.Login.resources
+D:\Windows Form\Windows_form_project_task\Windows_form_project_task\obj\Debug\Windows_form_project_task.Profile.resources
+D:\Windows Form\Windows_form_project_task\Windows_form_project_task\obj\Debug\Windows_form_project_task.Properties.Resources.resources
+D:\Windows Form\Windows_form_project_task\Windows_form_project_task\obj\Debug\Windows_form_project_task.Viewall.resources
+D:\Windows Form\Windows_form_project_task\Windows_form_project_task\obj\Debug\Windows_form_project_task.csproj.GenerateResource.cache
+D:\Windows Form\Windows_form_project_task\Windows_form_project_task\obj\Debug\Windows_form_project_task.csproj.CoreCompileInputs.cache
+D:\Windows Form\Windows_form_project_task\Windows_form_project_task\obj\Debug\Windows_form_project_task.exe
+D:\Windows Form\Windows_form_project_task\Windows_form_project_task\obj\Debug\Windows_form_project_task.pdb
