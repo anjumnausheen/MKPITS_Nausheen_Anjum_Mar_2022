@@ -1,0 +1,11 @@
+D:\Windows Form\Login_Form\Login_Form\bin\Debug\Login_Form.exe.config
+D:\Windows Form\Login_Form\Login_Form\bin\Debug\Login_Form.exe
+D:\Windows Form\Login_Form\Login_Form\bin\Debug\Login_Form.pdb
+D:\Windows Form\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.AssemblyReference.cache
+D:\Windows Form\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.SuggestedBindingRedirects.cache
+D:\Windows Form\Login_Form\Login_Form\obj\Debug\Login_Form.Form1.resources
+D:\Windows Form\Login_Form\Login_Form\obj\Debug\Login_Form.Properties.Resources.resources
+D:\Windows Form\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.GenerateResource.cache
+D:\Windows Form\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.CoreCompileInputs.cache
+D:\Windows Form\Login_Form\Login_Form\obj\Debug\Login_Form.exe
+D:\Windows Form\Login_Form\Login_Form\obj\Debug\Login_Form.pdb
