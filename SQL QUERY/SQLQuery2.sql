@@ -1,0 +1,12 @@
+create table customer11 (custid int,custname varchar(30),custaddr varchar(50))
+insert into customer11 values(1,'amit','Nagpur')
+insert into customer11 values(1,'amit','Nagpur')
+insert into customer11 values(1,'amit','Nagpur')
+insert into customer11 values(1,'amit','Nagpur')
+insert into customer11 values(1,'amit','Nagpur')
+insert into customer11 values(1,'amit','Nagpur')
+insert into customer11 values(1,'amit','Nagpur')
+insert into customer11 values(1,'amit','Nagpur')
+insert into customer11 values(1,'amit','Nagpur')
+insert into customer11 values(1,'amit','Nagpur')
+select * from customer11
