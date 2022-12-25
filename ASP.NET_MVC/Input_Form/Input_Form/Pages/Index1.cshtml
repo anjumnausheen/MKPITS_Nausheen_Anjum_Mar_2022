@@ -1,0 +1,18 @@
+﻿@page
+@model Input_Form.Pages.Index1Model
+@{
+    var StudentName = "";
+    var UniversityName = "";
+    var Address = "";
+
+    if(HttpMethods.IsPost(Request.Method))
+    {
+        StudentName = Request.Form["StudentName"];
+        UniversityName = Request.Form["UniName"];
+        Address = Request.Form["Address"];
+
+    }
+}
+<h1>Student Name is:  @StudentName</h1>
+<h1>University Name is:  @UniversityName</h1>
+<h1>Address is:  @Address</h1>

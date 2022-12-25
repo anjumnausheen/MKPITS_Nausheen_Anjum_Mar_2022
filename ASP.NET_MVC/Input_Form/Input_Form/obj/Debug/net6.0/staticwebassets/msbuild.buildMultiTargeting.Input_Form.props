@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Input_Form.props" />
+</Project>

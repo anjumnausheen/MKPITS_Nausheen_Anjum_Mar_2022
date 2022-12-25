@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Program_five_ASP.NET.props" />
+</Project>

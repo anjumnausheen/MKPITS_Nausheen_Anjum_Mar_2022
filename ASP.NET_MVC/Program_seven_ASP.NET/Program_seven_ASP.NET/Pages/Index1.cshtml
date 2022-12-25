@@ -1,0 +1,52 @@
+﻿@page
+@model Program_seven_ASP.NET.Pages.Index1Model
+@{
+   
+}
+@{
+    var addMessage = "";
+    var Username = "";
+    var City = "";
+    var Age = "";
+
+    if(HttpMethods.IsPost(Request.Method))
+    {
+        Username = Request.Form["text1"];
+        City = Request.Form["text2"];
+        Age = Request.Form["text3"];
+       
+
+      
+    }
+}
+
+
+<form method="POST">
+
+    <p>
+        <label for="text1">Enter User Name</label>
+        <input type="text" name="text1" />
+    </p>
+
+    <p>
+        <label for="text2">Enter City</label>
+        <input type="text" name="text2" />
+    </p>
+
+    <p>
+        <label for="text3">Enter Age</label>
+        <input type="text" name="text3" />
+    </p>
+
+    <p>
+        <input asp-page="Index2" type="submit" value="Submit" />
+    </p>
+    
+</form>
+
+<h1>@addMessage</h1>
+
+
+<h3>Your Name is : @Username </h3>
+<h3>Your Age is : @Age </h3>
+<h3>Your City is : @City </h3>

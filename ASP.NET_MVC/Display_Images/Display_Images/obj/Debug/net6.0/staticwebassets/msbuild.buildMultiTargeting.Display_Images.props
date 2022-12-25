@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Display_Images.props" />
+</Project>

@@ -1,0 +1,29 @@
+﻿@page
+@model Display_Images.Pages.Index1Model
+@{
+    var imagepath = "images/white rose.jpg";
+    if (HttpMethods.IsPost(Request.Method))
+    {
+         imagepath = "images/" + Request.Form["Choice"];
+    }
+}
+<form method = "post" action = "">
+
+
+<select name="Choice">
+    <option value="white rose.jpg">Nature1</option>
+    <option value="Tulip.jpg">Nature2</option>
+    <option value="rose.jpeg">Nature3</option>
+
+</select>
+
+
+<input type="submit" value="submit" />
+    
+@if (imagepath != "")
+    {
+       <p><img src ="@imagepath" alt = "Sample" /></p>
+    }
+</form>
+<img src="images/white rose.jpg" />
+<img src="@imagepath" />

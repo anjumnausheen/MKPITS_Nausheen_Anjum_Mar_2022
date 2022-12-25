@@ -1,0 +1,11 @@
+D:\Windows Form\ADO_DOT_NET_2\ADO_DOT_NET_2\bin\Debug\ADO_DOT_NET_2.exe.config
+D:\Windows Form\ADO_DOT_NET_2\ADO_DOT_NET_2\bin\Debug\ADO_DOT_NET_2.exe
+D:\Windows Form\ADO_DOT_NET_2\ADO_DOT_NET_2\bin\Debug\ADO_DOT_NET_2.pdb
+D:\Windows Form\ADO_DOT_NET_2\ADO_DOT_NET_2\obj\Debug\ADO_DOT_NET_2.csproj.AssemblyReference.cache
+D:\Windows Form\ADO_DOT_NET_2\ADO_DOT_NET_2\obj\Debug\ADO_DOT_NET_2.csproj.SuggestedBindingRedirects.cache
+D:\Windows Form\ADO_DOT_NET_2\ADO_DOT_NET_2\obj\Debug\ADO_DOT_NET_2.Form1.resources
+D:\Windows Form\ADO_DOT_NET_2\ADO_DOT_NET_2\obj\Debug\ADO_DOT_NET_2.Properties.Resources.resources
+D:\Windows Form\ADO_DOT_NET_2\ADO_DOT_NET_2\obj\Debug\ADO_DOT_NET_2.csproj.GenerateResource.cache
+D:\Windows Form\ADO_DOT_NET_2\ADO_DOT_NET_2\obj\Debug\ADO_DOT_NET_2.csproj.CoreCompileInputs.cache
+D:\Windows Form\ADO_DOT_NET_2\ADO_DOT_NET_2\obj\Debug\ADO_DOT_NET_2.exe
+D:\Windows Form\ADO_DOT_NET_2\ADO_DOT_NET_2\obj\Debug\ADO_DOT_NET_2.pdb
